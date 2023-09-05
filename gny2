@@ -228,7 +228,7 @@ https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 https://cdn75.iblups.com/hls/2/stream.m3u8
 
 #EXTINF:-77 tvg-logo="https://www.coolstreaming.us/img/ch/image92391202925.jpg" group-title="CINE Y SERIES", San Isidro tv | HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1187
+http://ts4.tvcluboficial.com/ts/DirecTVPlus/_508670.ts
 
 #EXTINF:-78 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46140fd597ed896d58f12c7e794d5f06.webp" group-title="PARAGUAY",Jazmín Tv En Vivo
 https://tvdatta.com:3957/stream/play.m3u8
