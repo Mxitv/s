@@ -494,8 +494,8 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.
 #EXTINF:-165 tvg-logo="https://i.imgur.com/LFJqzx2.png" group-title="ESPAÑA", TV3 | SD
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-166 tvg-logo="https://w7.pngwing.com/pngs/504/132/png-transparent-blu-linda-rio-tv-tropes-rio-jewel-parakeet-fauna-3d-film.png" group-title="ARGENTINA", TV PERICO | SD
-https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/chunklist_w1071187630.m3u8
+#EXTINF:-166 tvg-logo="https://w7.pngwing.com/pngs/504/132/png-transparent-blu-linda-rio-tv-tropes-rio-jewel-parakeet-fauna-3d-film.png" group-title="ARGENTINA", 13MAX HD | SD
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/.m3u8
 
 #EXTINF:-167 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", TV Galicia America | SD
 https://europa-crtvg.flumotion.com/playlist.m3u8
@@ -952,7 +952,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 #EXTINF:-72 group-title="PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Uranio_15_1994.svg/revision/latest/scale-to-width-down/1200?cb=20220831215333&path-prefix=es", URANIO TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-72 group-title="ECUADOR"https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png", VIA TV
+#EXTINF:-72 group-title="ECUADOR" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png", VIA TV
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-72 group-title="PERU" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/049c98cb65e2cb33606d01d8003f1750.webp",PERU CHANNEL
@@ -973,17 +973,20 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist
 #EXTINF:-72 group-title="BOLIVIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPM6JzPExsJHBxDgm6MrcD9gsKBS4afdoDNhzmNgyKo1qqdt3-WqE3gnkxdFt-3JCNtI&usqp=CAU",GOGO PLAY
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-72 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1442_Latina_TV.png",LATINA TV
+#EXTINF:-325 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1442_Latina_TV.png",LATINA TV
 https://vcp7.myplaytv.com/latinatv/latinatv/playlist.m3u8
 
-#EXTINF:-72 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png",SOMOS TV
+#EXTINF:-326 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png",SOMOS TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 
-#EXTINF:-72 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1326_Globovision.png",GLOBOVISION
-https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-327 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1326_Globovision.png",TELEVEN
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 
-#EXTINF:-72 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png",GLOBOVISION
+#EXTINF:-328 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png",CANTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 group-title="VENEZUELA", VIVE TV
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
 #EXTINF:-72 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png" group-title="PUERTO RICO",TELEONCE
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -4356,4 +4359,4 @@ https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8
 https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
