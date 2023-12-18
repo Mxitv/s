@@ -1,9 +1,10 @@
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzDcjUQhEDcpyCfHh8OX7y91dfltVWl62ZX5MT5zpZM1)/dm/3/x7wijay/d/live-2.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
 #EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzDcjUQhEDcpyCfHh8OX7y91dfltVWl62ZX5MT5zpZM1)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1cqeEsBbB-hGGkK6fqKg7Asp1_EKUmnLkGVKO_sUW_Q)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
@@ -859,6 +860,9 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/dantv.jpg" group-title="VENEZUELA", DAN TV
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ee8b5734b4901400532a4a97e6ca03a.webp" group-title="DEPORTES", CHIV DEPORTES
+hhttps://dai.google.com/linear/hls/pa/event/1P2iL-EkSe2OuVR2IZ-v6w/stream/f9f08136-1aa9-4b48-9137-7fc49dd13c8f:CBF2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8snrz6a7tTcg29UUpirGBQIRVZkYCqAfToF9fdEVvEbDf6NlD0AFU44qqZfJf_mXoXI&usqp=CAU" group-title="COLOMBIA" , Multizona tv  HD
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
 
@@ -889,11 +893,20 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/vPxvbVv.png" group-title="ECUADOR" ,FRECUENCIA TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/vPxvbVv.png" group-title="ECUADOR" ,Canal del drama
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="CINE Y SERIES" ,MEGA CYNE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 group-title="MEXICO" , Multimedios Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1579px-Univision_logo.svg.png"group-title="MEXICO" , UNIVISION
+https://dcs-live.mp.lura.live/server/play/pjNRQRKsWY2kxcxj/manifest.m3u8?encp=yv_AxvrJrE7u3JydQQVpIQ:O4qpHWDDWQbMDEHuqiT9pFZz-rzXuEc9zroZXkSTHiRGGmkNnuROhHGSPwFGreqgC9PxWCEof6aiNZscRScYNk7wfPeDUF_hqW-bPTmFopFn4NZ4RluO-b4ZuY36YzcqSFEpUfRrjHQ1SdHvI4x_oyf3_9HqPTDtRvscJIloc8vd1Ppy1WpURb4DKQk3EziiXzaWc202kFWS7-wVgG6oVFlH5Zps9xBwCwDPUWA0Icj647r-UFtnn0VykLcGYjjayJkw5k4noEfBmJQoPrxi3V4q0u_2tf7XxoYjJHVDCJatqLN25bmF8ISnWvBe2ud20nguAZTlbjed5Qb4Gl7gmgkujvtOEGyn5DoPMvdZPYxiRHXQbhecvB9nzke7dE_m-BtDQk7GIc3NVnDdhktwB0MUOwwaZmeBT6qz4luquWphuFNJA2qsZ3v9cafJ6KqDVYi263wNy5HiSOJMOiBJxtyAfY7E-Zn35cFKuE1mNo5GMaZ_NPwWn4yhqaWr1_iU4rgMkmvLswj_LvWPCO-YzXwRIVc_LxPCSHIxg_MaoPQtRdI7QPaTz83yh0l8gMHScyLC5u-00iYe5I0xQ62QTpv2OvdEcsL07fJ1kmvQIyTBxRjP9Blqxi-_1dYFtJgtqnCuBFPwkkW2nE2z56QTToeGKY9hFt4f8wBsvhoLjzMDVtRDPvTrgOGYOXsQl_3WV_aAKJvHlIF_gHKsxk2JpmDmyKJ2HLDE3isJA2TwvRU&anvtrid=d77c489d5f1abe969ca16167bff5dcae&anvauth=tb=0~te=1702864238~sgn=4f09b1c7c5bd9b2558da394d70d3594f02a9b45263855c8b9f4753acd9e43e89&t=1702864148
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWu4jmadDr_kpGa25AG-3__iY6aS7DJ9lLQ&usqp=CAU" group-title="DEPORTES" ,TDN SPORT
+https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=EuW5kKsCdDERTYL7canBTQ:nnJypboaosb27iHxXkMeZkPuZTW5k5hgzq1M6Xx23Z2Na-7AXh3gET-Qfp4XESwdsBURrp6Vo4I1NqG2ispVtqMOCRii8rAyZQuMgWgjmelaMkVTucj7Q_lkHEJtv0ybfkfIE5KKoGl6LbteaP0XDzdjK4GlWp3zGLMqfhX9nziuyMkxdJPR_3DmBTPTxYEzGVczm23RMO5uhlvnvtjNajatfMtCaXmU2-p9JJnWvZZyiVO1zB0LmrMfF5zsLdUrv2XaqAdN8nT8FdK0vxsNbTiFzAtVmvl85xLv8A2MINz7nIvlKiz-rii51KaVRnHseeJhPA9HlJjHXAaTIBJNlpb57-fskN7EiVSJQTNNW__3gWuA1red8gucE8qCyuFDPl9uGpBNqL7o4hiDOVL_XrFGLeiseL9Q6WhcVk2YTEj-Ve_Z7053V5es8v-9Z2PYvciIgw8udOIFjllIeujR_e3r93VdAOjcdeIt24E8Mj9eWatOVxWcMpASjCQTPJzKBXRFvTkqB2fH3VQVvqNRv1Nm3cEIt43FFdddfXrNzol9VJW_SdiXjNxn9Gss57pMdJBuOtszg_E5EJZ23MguOMLoxsfs2_C6SXoqtVsJHQhujlcvWm-2YPbKzLrLMttsHYEI0Yl5qpUD0xGECqDijIMXHK5_S1esz_xpannCx2Fo4NpU09efk4kqyWuzEb84_ElCI_inOB6uC5sXbCbizRlyJqZiUtpEPffun5EEP9A&anvtrid=137b7fb77604d6a17b501bfe3ed4bf8c&anvauth=tb=0~te=1702863830~sgn=4db7311f53d7a8ac9642dd9ed8eab53d04a200d00e704ebbfb893fc314c150d6&t=1702863740
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="VENEZUELA" ,TELE SUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -1472,14 +1485,17 @@ http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/xedaqo" group-title="SERVIDOR 2", TNT Sports BR 
 http://tv.teleclub.xyz/envivo/Deportes/TNTSPORTS_BR/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://lc.cx/YjRC8H" group-title="SERVIDOR 2", Bein Sport | HD
+#EXTINF:-1 tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/11/Bein_sport_logo.png" group-title="SERVIDOR 2", Bein Sport | HD
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8 
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/Q2xvbyg.png" group-title="SERVIDOR 2", BeinSports Ñ Extra 
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein Sports 
-http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8 
+http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein SPORTS 
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lc.cx/_ujnYR" group-title="SERVIDOR 2", TNT Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8 
@@ -4347,4 +4363,4 @@ https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8
 https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
