@@ -989,7 +989,7 @@ https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 https://vcp7.myplaytv.com/latinatv/latinatv/playlist.m3u8
 
 #EXTINF:-326 group-title="ECUADOR" tvg-logo="https://i.imgur.com/9eeLsgg.png",TV LEGISLATIVA
-https://181.198.32.153:8080/hls/stream.m3u8
+http://181.198.32.153:8080/hls/stream.m3u8
 
 #EXTINF:-326 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png",SOMOS TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
@@ -4343,4 +4343,4 @@ https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8
 https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
