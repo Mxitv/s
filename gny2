@@ -923,7 +923,6 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f/10800
 #EXTINF:-308 group-title="VARIOS" , MEGA TV PARAGUAY
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-
 #EXTINF:-308 group-title="DEPORTES", ITV SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
@@ -933,8 +932,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 #EXTINF:-310 group-title="DEPORTES", PLUTO TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="ECUADOR", TV AUSTRO
-https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
+#EXTINF:-1 tvg-id="AustralTV.ec" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="General",AustralTV (1080p)
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5Ym8Xk.jpg" group-title="ECUADOR", RTV NARANJAL
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w682378380.m3u8
@@ -1122,7 +1121,7 @@ https://master.tucableip.com/gigavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="BOLIVIA" , TDT roja
 https://master.tucableip.com/dtvsc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="BOLIVIA" , SEO TV 3 Novelas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="ECUADOR" , SEO TV 3 Novelas
 https://live.seo.tv.bo/live/SEO-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQF9NYp.png" group-title="COSTA RICA" , MeganetTV.cr
@@ -1227,7 +1226,7 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 #EXTINF:-401 tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="VENEZUELA",VALE TV
 https://vcp2.myplaytv.com/valetv/valetv/.m3u8
 
-#EXTINF:-401 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="MEXICO",LAS ESTRELLAS INTER
+#EXTINF:-401 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="ECUADOR",LAS ESTRELLAS INTER
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-401 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Rzd9GLxY91gVUTcJZl84rA.jpeg" group-title="VENEZUELA",VISION LATINA
@@ -1254,6 +1253,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007f
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="ECUADOR", ENTRE NOSOTRAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae6 9-11eb- a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="RadioLaOriginalTV.ec" tvg-logo="https://i.imgur.com/niPTXLQ.jpg" group-title="ECUADOR",Radio La Original TV (1080p)
+https://cloudvideo.servers10.com:8081/8216/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ECUADOR",Radio Rocafuerte TV (720p)
+https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioCuencaEstereo.ec" tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="ECUADOR",Radio Cuenca Estéreo (720p)
+https://eu1.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="ECUADOR",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="ECUADOR",Pantalla Clásica EC 24/7
+https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde http://teleclub.xyz/activar 
 http://tv.teleclub.xyz/hls/welcome.m3u8
@@ -4990,4 +5003,4 @@ https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8
 https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8
+https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8 
