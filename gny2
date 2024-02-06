@@ -1288,10 +1288,10 @@ https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="MEXICO",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="MUSICA",Bandamax
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="MUSICA",BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
-#EXTINF:-260 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="ECUADOR" , Planeta TV Family
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="ECUADOR" , Planeta Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w76884755.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L4FsBCh.png" group-title="COLOMBIA", Caracol HD
