@@ -1295,9 +1295,9 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w76884755.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L4FsBCh.png" group-title="COLOMBIA", Caracol HD
-https://mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/b299c619-904f-4b42-9995-67e66a38d678:SCL/master.m3u8?uid=d2410H2w6773yVvg7ugfNmGhbXog5jOc&sid=Cyl0dR1qnwbLPhsCzUrZpyyvpjhcuja8&pid=bNijdnNmM6dhTscvgK2BJ6gliuNqHvBz&an=screen&at=web-app&av=v5.2.412&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=921x518&without_cookies=false&listenerid=&dnt=true
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/66b178e9-2dc1-4e36-82cd-c1429dcb06ca:SCL/variant/6f28834dc3d307a4dcbcf550f94b179c/bandwidth/1205600.m3u8?uid=d2410H2w6773yVvg7ugfNmGhbXog5jOc&sid=Cyl0dR1qnwbLPhsCzUrZpyyvpjhcuja8&pid=vQFg8yXI3KtCX0gk0LRksOiXZ456ct4o&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1707433844519&ot=SE4cTGs_iVqgDvr04sjUoQ&es=us-b4-p-e-qg12.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
 
-#EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde http://teleclub.xyz/activar 
+EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde http://teleclub.xyz/activar 
 http://tv.teleclub.xyz/hls/welcome.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="SERVIDOR 2", Cartoon Network 
