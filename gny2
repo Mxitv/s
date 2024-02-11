@@ -1319,7 +1319,7 @@ https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w13204
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tl-estrella-bo.png" group-title="BOLIVIA" ,TL Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/120px-AtreseriesLogo.svg.png" group-title="ESPAÑA", A3S
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/120px-AtreseriesLogo.svg.png" group-title="ESPAÑA", A3S SERIES 
 https://atres-live.atresmedia.com/044bfbf568c823f5caba58a717987457c7e4d541_ES_1707687926_1707716666/h264/live/a3series/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="VARIOS" ,ORBITA
