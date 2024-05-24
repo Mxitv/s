@@ -150,7 +150,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-50 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="CINE Y SERIES",  Movie tv
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 
-#EXTINF:-51 group-title="VARIOS" ,SONY Novelas HD
+#EXTINF:-51 group-title="NOVELAS" ,SONY Novelas HD
 https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-52 group-title="VARIOS" ,TVmas 
@@ -894,7 +894,7 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-298 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png" group-title="ECUADOR" ,FRECUENCIA TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-299 tvg-logo="https://plataformas.news/online/nota_thema-lanza-vive-kanal-d-drama-en-espana-.png" group-title="ECUADOR" ,Canal del drama
+#EXTINF:-299 tvg-logo="https://plataformas.news/online/nota_thema-lanza-vive-kanal-d-drama-en-espana-.png" group-title="NOVELAS" ,Canal del drama
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-300 group-title="MEXICO" , Multimedios Canal 6
@@ -1063,7 +1063,7 @@ https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 
 #EXTINF:-355 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg640Ed9khXdzPM0-ccOeCinVQ-Al2QTCeA&usqp=CAU" group-title="ECUADOR" ,La Victoria TV (720p)
-https://paneltv.jlsolutionpc.com:3379/live/victorialive.m3u8
+https://ssh101-fl.bozztv.com/ssh101/drumbamix/playlist.m3u8
 
 #EXTINF:-356 tvg-logo="https://i.imgur.com/yID5T2S.jpg"tvg-id="MarioPintoTV.ec" group-title="ECUADOR" ,Metropoli Medios TV
 https://eu1.servers10.com:8081/8214/index.m3u8
@@ -1311,8 +1311,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007f
 #EXTINF:-437 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="NOVELAS", ENTRE NOSOTRAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
 
-#EXTINF:-438 tvg-id="RadioLaOriginalTV.ec" tvg-logo="https://i.imgur.com/niPTXLQ.jpg" group-title="ECUADOR",Radio La Original TV (1080p)
-https://cloudvideo.servers10.com:8081/8216/index.m3u8
+#EXTINF:-438 tvg-id="RadioLaOriginalTV.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/d/dc/20080605201610%21CineStar.svg" group-title="ECUADOR",CINE STARS (1080p)
+https://ssh101-fl.bozztv.com/ssh101/cinestarteve/playlist.m3u8
 
 #EXTINF:-439 tvg-id="" tvg-logo="" group-title="ECUADOR",Radio Rocafuerte TV (720p)
 https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
@@ -1320,11 +1320,11 @@ https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 #EXTINF:-440 tvg-id="RadioCuencaEstereo.ec" tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="ECUADOR",Radio Cuenca Estéreo (720p)
 https://eu1.servers10.com:8081/8074/index.m3u8
 
-#EXTINF:-441 tvg-id="PandamaxChannel.cl" tvg-logo="logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" " group-title="ECUADOR",Pandamax Channel (1080p)
+#EXTINF:-441 tvg-id="PandamaxChannel.cl" tvg-logo="logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="ECUADOR",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-441 tvg-id="PantallaClasicaEC.ec" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="ECUADOR",Pantalla Clásica EC 24/7
-https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
 
 #EXTINF:-442 tvg-id="RTV.ec" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="ECUADOR",RTV (Ecuador)
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
@@ -1342,7 +1342,7 @@ http://177.234.230.226:8010/play/a02e/index.m3u8
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 #EXTINF:-447 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="ECUADOR" , Planeta Family
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w76884755.m3u8
+https://scl.edge.grupoz.cl/planetatv_envivo/live/chunklist_w85981451.m3u8
 
 #EXTINF:-448 tvg-logo="https://i.ibb.co/2d7H9Nz/Channels4-profile-8.jpg" group-title="MEXICO" ,Televisa Saltillo
 https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
@@ -1372,7 +1372,7 @@ https://vdo.grupolimalive.com:3245/stream/play.m3u8
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 
 #EXTINF:-457 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="ECUADOR" ,DURAN TV
-https://cloudvideo.servers10.com:8081/8074/index.m3u8
+https://ssh101-fl.bozztv.com/ssh101/rctvhdcanal35/playlist.m3u8
 
 #EXTINF:-458 tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="ECUADOR" ,INTI TV
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
