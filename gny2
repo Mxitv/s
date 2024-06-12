@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.imgur.com/okK02EN.png"  group-title="ECUADOR",TC 4HRS
-https://live-b.cf.dmcdn.net/sec2(GhqolItlxR-cDPk55AAn-Umo0BGc5xagRrfKzpCvAfuUEw7oTaHDEsMcnOjcDjHmjRwiVypVt0XE3CG7QVF59kzXIWmoBLAVqb3rzTEMWeA)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(x7dcRPZlXpGiJnA93O6q3L3Nn2nnzLoquyo_8_ZEgHnNWpIfa6bp9HQL1wizvWKN9grX0_i3t3-Tqg7o_P9hbjbAKPCTlOoFycK2b8oLPNo)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://live-b.cf.dmcdn.net/sec2(GZLne3YVfY0sVlJEbI4sUlSxOz1875go0n_RuObXsWXH_tGBkEt5mzira6YUxj0tTYNV75LBdAslQILyox31vasADQAi1k5_Ow5luHSwq8M)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
@@ -7769,19 +7769,19 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/iScxxeQJs3W5qZNs2oPDsw/21/1718093702/index.m3u8
+https://s.oxax.tv/EaLDXZpfr4VX1vtgGwEMBA/21/1718176959/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/1CfD9ZjckiKJ7EKfBNICqg/11/1718093767/index.m3u8
+https://s.oxax.tv/doQKaCEkJRtO4cQkVf3vgg/11/1718177624/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/XzXmTuHpn6iwhVTKm5ZpwQ/28/1718093933/index.m3u8
+https://s.oxax.tv/jDCrwyX8_q3P7c3YDoxaCw/35/1718177662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/eMppAtHmpW4wULJnxscYkQ/39/1718093816/index.m3u8
+https://s.oxax.tv/kl3Iw_iNoZJjT6pSrwUOsA/16/1718177735/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
-https://s.oxax.tv/hnDjchvvZ4lw2_yiOLYCHg/50/1718095697/index.m3u8
+https://s.oxax.tv/l3wiBzcPWt70Ekdyj9-nLw/30/1718177552/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
@@ -7936,7 +7936,6 @@ http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV SPORTS
 http://161.132.108.74:50001/play/a03o/index.m3u8
 
-
 #EXTINF:-1group-title="EVENTOS",ORLANDO VS INTER MIAMI
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
 
@@ -7949,4 +7948,3 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
 http://190.95.220.212:8000/play/a04k/index.m3u8
-
