@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.imgur.com/okK02EN.png"  group-title="ECUADOR",TC 4HRS
-https://live-b.cf.dmcdn.net/sec2(r_vWpE2YQreEYcnQDFJspFBjBPx3KzYA0mIWAcG1ymVmtyII2ZiIkEG4faIx2oK3Kbx-RLcDWeC5LBfc9cM0r7w71hBzyzhEvB6RmHZNjI8)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(u6HFCyrNo4oPviHOa83IRtk6eE8QH66_cplKydp8pG28N-HZHIODxLcasQ37lh40PpuccyUvE_KAxXWdLuwjgg4_y9_7MmFzlXyQ-Mr1yVw)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://live-b.cf.dmcdn.net/sec2(GZLne3YVfY0sVlJEbI4sUlSxOz1875go0n_RuObXsWXH_tGBkEt5mzira6YUxj0tTYNV75LBdAslQILyox31vasADQAi1k5_Ow5luHSwq8M)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
@@ -1517,10 +1517,10 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+https://live-c.cf.dmcdn.net/sec2(173FKxp5nTk_mmKwW8O1hl4hKZ0flBHFinzxdlB9kWju3nalTjiDM5BbmtIdBFVezA6AdqvP5hZeifl3iAwUgkEVKzzrZO4V_UnVsSGv0kY)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
@@ -1529,13 +1529,13 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU", 6 | Exitosa Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
-https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", 7.2 | TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
@@ -1549,28 +1549,28 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/canaldelcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | Canal de televisión británico
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://i.postimg.cc/Bbhg2tcN/image.png" group-title="PERU", 9 | ATV TV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/ 56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | Cuatriciclo +
-http://bantel-cdn1.iptvperu.tv:1935/transcoderip/atvnoticiasmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/ 2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/ logo278.jpg" group-title="PERU", 10 | TVPBO
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | viva tv
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://i.postimg.cc/3RmVjjd1/VIVA-TV-alpha-mayor-tama-o.png" group-title="PERU", 11 | viva tv
+https://live.obslivestream.com/vivatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/ USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | TV USMP
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMP/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://i.postimg.cc/hv4sJVxf/image.png" group-title="PERU", 12 | TV USMP
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="PE | USMP TV Música" tvg-name="PE | USMP TV Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ USMP_TV_M%C3%BAsica.png" group-title="MUSICA", 12.2 | USMP TV Música
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/USMPmusica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f- mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Televisión Global
+#EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://i.postimg.cc/pVkkw1b8/image.png" group-title="PERU", 13 | Televisión Global
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="PERU", 14 | Vinilos TV || Moyobamba
@@ -7942,5 +7942,4 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
-
 
