@@ -24,10 +24,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(NYPAnMX2NA-gE2Mq4rk8fzicU1UX6iF1XZX3sytiCCXfxgxvHCn5d-FqwNUpfbA5cRXXqTRNSS_-zjkplnSRbnHXhUE9d669mhkWgE8L7Cs)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(RjtQraij9OS8knk-qFTjwS6UnD-fIxagMkUdU7Cx2RR-PaywLj07P4damxXpDMPPzA1-59qnX2uNANGbzjCNhemOZhGTa75gejOQTOmaXbA)/dm/3/x7wijay/d/live-2.m3u8#cell=lcfb
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
-https://live-b.cf.dmcdn.net/sec2(FcREWOXIg16M4b0uIGY1jiSIaQyKy8tNXJVf-3IyqjPpDIBuvoO5ZxqnSFDASKUb7kXOOlQMplFG_7hAjO5vfgsbEUOqs0OVwhpcmIca-q4)/dm/3/x80ac48/d/live-2.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(FcREWOXIg16M4b0uIGY1jiSIaQyKy8tNXJVf-3IyqjPpDIBuvoO5ZxqnSFDASKUb7kXOOlQMplFG_7hAjO5vfgsbEUOqs0OVwhpcmIca-q4)/dm/3/x80ac48/d/live-2.m3u8
+
 #EXTINF:-11 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
@@ -4594,7 +4595,7 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
-#EXTINF:-1 group-title="Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sdI9ufheNPAKnWLl2hnsZKVk0EG.jpg",Cazadores en tierra inhóspita (2024)
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sdI9ufheNPAKnWLl2hnsZKVk0EG.jpg",Cazadores en tierra inhóspita (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
 
 #EXTINF:-1 grupo- title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",Dune: Parte dos (2024) CAM 
@@ -8502,19 +8503,19 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/eWBN7eP5r_AmgxYQ6Wr_sA/21/1718595901/index.m3u8
+https://s.oxax.tv/dG9r2HE1lIlhvUg8vidZ8A/21/1718772204/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/H3TNyR3UDZz_ojc0VtGAYw/11/1718595951/index.m3u8
+https://s.oxax.tv/zXP2AbINstYTS7T92Ytdpw/11/1718772239/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/tn0_B_TaNmD0ZW1Zg2tt4w/37/1718595987/index.m3u8
+https://s.oxax.tv/UWiq1tOEQq-7vrseMu6NLQ/35/1718772268/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/6j7i7pf5Nr25yihFDsz5cg/39/1718596009/index.m3u8
+https://s.oxax.tv/S8DI_KtT0RJPghALkA367Q/39/1718772319/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
-https://s.oxax.tv/nIl8TlL5VdFKrOYLav6G1w/52/1718596086/index.m3u8
+https://s.oxax.tv/S8DI_KtT0RJPghALkA367Q/39/1718772319/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
