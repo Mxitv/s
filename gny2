@@ -24,10 +24,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(Jyjn_pvtG3pKl6W3MHNwBkucMZV1M9thrOOSFKJpp02vFdf_ZCAP1oiXgGxD0Zf-plokXHy4wp4EBqPViKjV7rA2sJmDlCU0vVNTvqSb5r0)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(TK0RHKcFei3NoVxVMp7HHYpnhV74PCYmLRnIMcfSNXAab6AgUnlkpEe4ytl04qOTJkGXfOdeUl30K8VLU1hb16hM5QjYf66bABFIVo0vjWU)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
-https://live-b.cf.dmcdn.net/sec2(rK8E0nAhA0JXESu7C_uuZKVKZZz4BhbPTuw26a-7OJZ4AiJcWCp-x774MU63FhkUVYRaRXa3TypAtMwX2I7hK8Gjovfc5vtgA7eslGhCcA4)/dm/3/x80ac48/d/live-3.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(jDT2TsbG-fTwXhZwQ1uYq0dbgGhHpNVnVUNvmn3u8aROsbpsMEBZNJeWx6nqufu6aDiluRivRtkO2L_xLwUvV-9b6octwFjNFCNiP3IVkuw)/dm/3/x80ac48/d/live-2.m3u8
 
 #EXTINF:-11 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
@@ -1517,7 +1517,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-c.cf.dmcdn.net/sec2(173FKxp5nTk_mmKwW8O1hl4hKZ0flBHFinzxdlB9kWju3nalTjiDM5BbmtIdBFVezA6AdqvP5hZeifl3iAwUgkEVKzzrZO4V_UnVsSGv0kY)/dm/3/x7x4dgx/s/live-1.m3u8
+https://live-c.cf.dmcdn.net/sec2(Z1JI3AY4BbbFRmsueQ7VLh5BmnEz9mPBQAmyfLAcOpcT9aEzqg9Sf2ks_jEuAFiNxfc8rAHMuxXdObC1eVSOqUjJEyQFilZoXnZmCy15q8M)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
@@ -8490,19 +8490,19 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/HBUfFQMbi3AekmasV1-tOw/21/1718856347/index.m3u8
+https://s.oxax.tv/IzIbdKbmyFOJOzvYL6Dl6g/21/1718943002/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/4ylsA9l1gjziMr1wLuyWNg/11/1718856503/index.m3u8
+https://s.oxax.tv/5dLl7SUAWIVSNQvEYyNepA/11/1718943087/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/13Nl5xbIzWBu2DJv9iu-GA/37/1718856576/index.m3u8
+https://s.oxax.tv/mfKkVfVJOOyFpaoIKJ7oNA/26/1718943199/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/bqB2J7lP97v3dx5FegpB5w/39/1718856465/index.m3u8
+https://s.oxax.tv/DBz_h-OjSJ6POjzXKyJOlw/39/1718943162/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
-https://s.oxax.tv/CfEnXSKdnNXp-x6wLu7hfg/47/1718856412/index.m3u8
+https://s.oxax.tv/lmkzrqwxIjRs_PrcIp0vVQ/30/1718943132/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
 http://cdn.adultiptv.net/livecams.m3u8 
@@ -8634,7 +8634,7 @@ http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV SPORTS
 http://177.53.153.20:8001/play/a0em/index.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" ,ORLANDO VS CARACOL CO
+#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" CARACOL CO
 http://45.179.164.30:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",TV 5 MX
