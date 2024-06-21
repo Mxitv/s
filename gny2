@@ -8634,7 +8634,7 @@ http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV SPORTS
 http://177.53.153.20:8001/play/a0em/index.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" CARACOL CO
+#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png", CARACOL CO
 http://45.179.164.30:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",TV 5 MX
@@ -8645,10 +8645,6 @@ http://170.82.37.21:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="HN | TV Azteca Guatemala" tvg-name="HN | TV Azteca Guatemala" tvg-logo="https://th.bing.com/th/id/OIP.kQdOdH9xRz22-V11owA8NgAAAA?rs=1&pid=ImgDetMain" group-title="EVENTO COPA AMERICA",TV Azteca GUAT || GUAT
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",TELEFUTURO
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=0662ef953f95811bb41e6a8c70ec1da708c6d463fc4823677b2275fb419799cc&exp=1718899248
-
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
