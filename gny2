@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-c.cf.dmcdn.net/sec2(nl8HExEZL0GMfdAUD-clK5qeU1t2b21T5Zs4cPJmISKiMLPi2U8uokLXG9Ahl_h2nV0jr6_DeKUh62EX7UZtONaWQP92oVxUqlaZLGcdk70)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(GMngRvVYYhJ0rez-ov1TmG62NdKfF09RN5IZe-SEYXulN5vyXkaTdTKCbWs7KnkHRz3i0GTKUrk0xfNR1d_k3Rnxys02rgLDF1pmtseM7GU)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 http://45.228.234.167:8000/play/a03r/index.m3u8
@@ -4573,7 +4573,7 @@ https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sdI9ufheNPAKnWLl2hnsZKVk0EG.jpg",Cazadores en tierra inhóspita (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1 grupo- title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",Dune: Parte dos (2024) CAM 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",Dune: Parte dos (2024) CAM 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna-%20Parte%20dos%20online%20HD%20-%20Cuevana%202.mp4
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",Imaginario: Juguete diabólico (2024) 
@@ -8482,19 +8482,19 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/IzIbdKbmyFOJOzvYL6Dl6g/21/1718943002/index.m3u8
+https://s.oxax.tv/kVX7HGzmTSvhdJgtD-jwkA/21/1720330599/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/5dLl7SUAWIVSNQvEYyNepA/11/1718943087/index.m3u8
+https://s.oxax.tv/wZU_z5yYhZOR0rJGe-zKDg/11/1720331462/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/mfKkVfVJOOyFpaoIKJ7oNA/26/1718943199/index.m3u8
+https://s.oxax.tv/TWPsn3jYKLlnqPz7sgW64g/35/1720331249/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/DBz_h-OjSJ6POjzXKyJOlw/39/1718943162/index.m3u8
+https://s.oxax.tv/iXqcV1ovSdRe9WEDuhldQg/39/1720331521/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
-https://s.oxax.tv/lmkzrqwxIjRs_PrcIp0vVQ/30/1718943132/index.m3u8
+https://s.oxax.tv/71JThJt35psRxJDFuaCC_Q/30/1720331309/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
 http://cdn.adultiptv.net/livecams.m3u8 
@@ -8620,20 +8620,10 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", UFC NET FHD
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/8918.m3u8
 
-#EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
-http://161.132.108.74:50001/play/a03p/index.m3u8
-
-#EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
-http://161.132.108.74:50001/play/a03q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", DIRECTV SPORTS
-http://pe.shortgod.com/temporal/play.php?id=20
-
-
 #EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png", CARACOL CO
 http://45.179.164.30:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",CANAL 5 MEX vs ECU
+#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1 group-title="EVENTO COPA AMERICA"tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png", CANAL 5 DISH
@@ -8642,20 +8632,15 @@ http://45.228.234.167:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo =" https://cdn.m3u.cl/logo/1567_Ecuavisa.png ", group-title="ECUADOR", Ecuavisa | CE 
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA", AZTECA 7 HD DISH
-http://45.228.234.167:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="EVENTO COPA AMERICA", AZTECA 7 HD 
+http://181.78.105.146:2000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | TUDN" tvg-name="EE.UU. | TUDN" tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="EVENTO COPA AMERICA", 247 | TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA", TyC SPORTS DISH
-http://45.228.234.167:8000/play/a0kw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="SERVIDOR 2", TyC Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="EVENTO COPA AMERICA", TyC Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8 
 
 #EXTINF:-1 group-title="ECUADOR", TV 5
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-#EXTINF:-4 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/384111.m3u8
