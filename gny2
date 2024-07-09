@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(GMngRvVYYhJ0rez-ov1TmG62NdKfF09RN5IZe-SEYXulN5vyXkaTdTKCbWs7KnkHRz3i0GTKUrk0xfNR1d_k3Rnxys02rgLDF1pmtseM7GU)/dm/3/x7wijay/d/live-2.m3u8
+https://live-b.cf.dmcdn.net/sec2(gQeTcOS6bMmuUiLGWxgnZV-aH3wU5TikWQFSFm26nlhRhT9ynO_G9AZ8mHTdnZYzGjmcr3HZbrlqKVLQF3dWArNgsTIsZ8q3RZRvpGdnyCg)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 http://45.228.234.167:8000/play/a03r/index.m3u8
@@ -1527,9 +1527,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://45.179.164.30:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://cdnhd.iblups.com/hls/ptv5.m3u8
@@ -8482,19 +8479,19 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/kVX7HGzmTSvhdJgtD-jwkA/21/1720330599/index.m3u8
+https://s.oxax.tv/FzxQ0vESbf4Xr5yZoydPFA/21/1720508786/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/wZU_z5yYhZOR0rJGe-zKDg/11/1720331462/index.m3u8
+https://s.oxax.tv/ya0kLcKTDwvOGrC3awSlUg/11/1720508880/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/TWPsn3jYKLlnqPz7sgW64g/35/1720331249/index.m3u8
+https://s.oxax.tv/vyAvGII3MCYsV6LkI6o27g/27/1720508815/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/iXqcV1ovSdRe9WEDuhldQg/39/1720331521/index.m3u8
+https://s.oxax.tv/OeH2YfFQTDvRZH7NjsFX-w/16/1720508850/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
-https://s.oxax.tv/71JThJt35psRxJDFuaCC_Q/30/1720331309/index.m3u8
+https://s.oxax.tv/_RHRRVJsHglwyx35pofd6g/30/1720508982/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
 http://cdn.adultiptv.net/livecams.m3u8 
@@ -8620,8 +8617,8 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", UFC NET FHD
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/8918.m3u8
 
-#EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png", CARACOL CO
-http://45.179.164.30:8000/play/a00x/index.m3u8
+#EXTINF:-164 tvg-logo="https://www.minutoar.com.ar/u/fotografias/m/2022/11/15/f500x333-162819_186622_0.jpg" group-title="EVENTO COPA AMERICA", TELE FE | SD
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
 #EXTINF:-1 group-title="EVENTO COPA AMERICA" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png",CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
@@ -8635,8 +8632,8 @@ https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 group-title="EVENTO COPA AMERICA", AZTECA 7 HD 
 http://181.78.105.146:2000/play/a08z/index.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | TUDN" tvg-name="EE.UU. | TUDN" tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="EVENTO COPA AMERICA", 247 | TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="EVENTO COPA AMERICA", 4 | América Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="EVENTO COPA AMERICA", TyC Sports 
