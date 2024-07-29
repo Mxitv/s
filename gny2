@@ -4562,6 +4562,28 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg",La Joven y El Mar (2024) 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjul24%2FVer%20La%20Joven%20y%20El%20Mar%20online%20HD%20-%20Cuevana%202.mp4 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lJN24nn28s5afC1UnLPYRgYOp1K.jpg",Detonantes (2024) 
+http://208.88.245.81/nuevo/detonantes.2024.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg",los Extraños (2024) 
+http://208.88.245.81/nuevo/los.extranos.cap1.2024.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg",Liga de la Justicia 3 (2024) 
+http://208.88.245.81/nuevo/Liga.de.la.Justicia.Crisis.en.Tierras.Infinitas.3.2024.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Mi villano favorito 4 (2024) 
+http://208.88.245.81/nuevo/mi.villano.fav4.2024.dual.mkv
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="http://cvr.iks.cc/cvr/vod/cinecam/s28eYemGh3mKXp.jpg",DEADPOOL and WOLVERINE 
+http://cdnvod-1.iks.cc:4013/vodsd/wNn3CppS90BxvdY/cinecam/s28eYemGh3mKXp.mp4 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",Deadpool and Wolverine 
+https://spyderrock.com/cGh83509-d.mp4
+
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",Bad Boys: Hasta la muerte (2024) CAM 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjun24%2FVer%20Bad%20Boys-%20Hasta%20la%20muerte%20online%20HD%20-%20Cuevana%202.mp4
 
