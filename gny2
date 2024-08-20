@@ -8,41 +8,44 @@ https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc1
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | SD
 https://stream-pull-a.yololiv.com/yololiv/1144278368544358401_yo720p30f.m3u8
 
+#EXTINF:-13 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
+http://190.95.220.212:8000/play/a04k/index.m3u8
+
 #EXTINF:-4 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/oromar-tv.jpg?itok=bDIBtDez" group-title="ECUADOR", OROMAR TV | SD
+#EXTINF:-6 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo =" https://cdn.m3u.cl/logo/1567_Ecuavisa.png "group-title="ECUADOR", Ecuavisa | CE 
+https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+
+#EXTINF:-7 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/oromar-tv.jpg?itok=bDIBtDez" group-title="ECUADOR", OROMAR TV | SD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-6 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
+#EXTINF:-8 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES", PLUTO TV NATURALEZA
+#EXTINF:-9 tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES", PLUTO TV NATURALEZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
 
-#EXTINF:-8 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="ECUADOR", Curiquingue TV EC
+#EXTINF:-10 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="ECUADOR", Curiquingue TV EC
 https://video2.lhdserver.es/pjtv/live.m3u8
 
-#EXTINF:-9 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/11039
+#EXTINF:-11 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
+https://live-c.cf.dmcdn.net/sec2(oEULtFEziVpnbEyvdz_NswBSh7mWVQeb-gpZ3bX5MUrnQO_Y277Nh5KfsW4uclsmZ-KN75bAfr9e9xP2f-2dBISGwAgtGyx5mT_Ff5_3Zmc)/dm/3/x7wijay/d/live-480.m3u8
 
-#EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
+#EXTINF:-12 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
-#EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
+#EXTINF:-13 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 http://45.228.234.167:8000/play/a03r/index.m3u8
 
-#EXTINF:-11 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
+#EXTINF:-14 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
-#EXTINF:-12 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
+#EXTINF:-15 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
 https://asomatv.duckdns.org/livestream/stream.m3u8
-
-#EXTINF:-13 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | HD
-http://190.95.220.212:8000/play/a04k/index.m3u8
 
 #EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="NOVELAS" , A + GATE +2
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
@@ -1239,9 +1242,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-412 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO", AZTC UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
-
-#EXTINF:-413 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a024c9bc44f4adf14389bbfeab689cd2.webp" group-title="MEXICO", BOOMBERG MX
-https://d3mhf0ikztdylu.cloudfront.net/out/v1/9209160a18004ef1b6760d694acb9af8/index.m3u8 
 
 #EXTINF:-414 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lc.cx/yo9sr-", MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
@@ -2755,18 +2755,16 @@ http://45.5.117.182:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", 769 | RPC TV || PANAMÁ
 http://45.5.117.182:8000/play/a0iq/index.m3u8
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 770 | TVMax || PANAMÁ
-https://mdstrm.com/live-stream-playlist/65d4c7bcbe741b6c4131bd70.m3u8?uid=8kj7PSsK8i8HybT2RUDGro9AMWSM7lgu&sid=wr3ouuE4GjDl2VQsxt6PUlxbXrL0iP8f&pid=ikssdIEQtcbbme3iRNJlwhMZsSW4egJr&an=tvn-pass-app-web&at=web-app&av=v6.0.10&ref=https%3A%2F%2Ftvnpass.com%2F&res=660x371&without_cookies=false&listenerid=&dnt=true&access_token=wMvvRzNSp0A9ODwlpIQNnNDA6p91GW4KmJRpkaKDt0aE01WMqc133KNeTdGTiATwWeT3A0zTJaR&adInsertionSessionId=4ca07d12-c1cc-4f6f-8bc4-12269e94905a
+https://mdstrm.com/live-stream-playlist/65d4c7bcbe741b6c4131bd70.m3u8?uid=5MPeWsSAc8fqZAtrvusorZT8bcXCoOWP&sid=eXk7g6CKPuz3VcmTKyklq7UXWdeqAB3H&pid=B8ttV8MZ1RgKSBsk82k8CmIIyCvSFhAm&an=tvn-pass-app-web&at=web-app&av=v6.0.35&ref=https%3A%2F%2Ftvnpass.com%2F&res=515x290&without_cookies=false&listenerid=&dnt=true&access_token=CzUMEIDDOYIdtOuzexeGXiJsxH5FtG6s4xBSUsclqqrx3dsgQPIfIgdooCf9edKR95TmyQQ08f4&adInsertionSessionId=3096b5da-4643-46d1-beee-c64df09ec116
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro || PANAMÁ
 http://45.5.117.182:8000/play/a0el/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
 http://45.5.117.182:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZpwn42ACqeWUHxjnK3PDsbLzhqG0NYmQdz1Yradw=s900-c-k-c0x00ffffff-no-rj" group-title="PANAMÁ", 774 | Nex || PANAMÁ
-http://45.5.117.182:8000/play/a0g5/index.m3u8
+https://vcp8.myplaytv.com:1936/nextv/nextv/chunklist_w1013736941.m3u8
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
-#EXTINF:-1 tvg-id="PA | Plus TV" tvg-name="PA | Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/84d1f1e27f3b9544f23ee9b01949f2224f8f52dbda505a2ceaea968f2d7933f6.png" group-title="PANAMÁ", 775 | Plus TV || PANAMÁ
-https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PA | Bocas TV" tvg-name="PA | Bocas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-rZTZ1giQXdPgONIYlCLSTiQveiuwrRInO6oErSOIgXp__tM-sM-TiNQeTsI_2ZijEg&usqp=CAU" group-title="PANAMÁ", 776 | Bocas TV || PANAMÁ
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1959525607_ao.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 777 | Canal 2 CDR || COSTA RICA
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 778 | Canal 4 || COSTA RICA
@@ -8616,17 +8614,118 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD(Norte)
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",A&E
+http://190.60.38.114:1010/play/a085/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",AMC 
+http://190.60.38.114:1010/play/a047/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ANIMAL PLANET 
+http://190.60.38.114:1010/play/a06t/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",AXN 
+http://190.60.38.114:1010/play/a08q/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",AXN 
+http://190.60.38.114:1010/play/a02e/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CABLE NOTICIAS 
+http://190.60.38.114:1010/play/a082/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CANAL 1 
+http://190.60.38.114:1010/play/a08m/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CARACOL 
+http://190.60.38.114:1010/play/a07f/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CINECANAL 
+http://190.60.38.114:1010/play/a046/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CITY TV L.D.E. 
+http://190.60.38.114:1010/play/a09n/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CRISTOVICION 
+http://190.60.38.114:1010/play/a08o/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Canal 1 
+http://190.60.38.114:1010/play/a08l/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",DE PELICULAS 
+http://190.60.38.114:1010/play/a08f/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DISCOVERY 
+http://190.60.38.114:1010/play/a076/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DISCOVERY TURBO LISTA DE EMERGENCIA 
+http://190.60.38.114:1010/play/a09m/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DISNEY YUNIOR 
+http://190.60.38.114:1010/play/a08r/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery H&H 
+http://190.60.38.114:1010/play/a06q/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Kids 
+http://190.60.38.114:1010/play/a06p/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Theater 
+http://190.60.38.114:1010/play/a06r/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Turbo 
+http://190.60.38.114:1010/play/a08e/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery World 
+http://190.60.38.114:1010/play/a06s/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Disney Channel 
+http://190.60.38.114:1010/play/a08d/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Disney 
+http://190.60.38.114:1010/play/a043/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Disney Junior 
+http://190.60.38.114:1010/play/a05g/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",E! 
+http://190.60.38.114:1010/play/a04f/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ENLACE 
+http://190.60.38.114:1010/play/a080/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",ESPN 2 
-http://201.159.113.219:49000/play/a03c/index.m3u8 
-
+http://190.60.38.114:1010/play/a02f/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",ESPN 3 
-http://201.159.113.219:49000/play/a02e/index.m3u8 
-
+http://190.60.38.114:1010/play/a040/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",ESPN 4 
-http://201.159.113.219:49000/play/a061/index.m3u8
-
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",ESPN 5 
-http://201.159.113.219:49000/play/a060/index.m3u8
+http://190.60.38.114:1010/play/a02n/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",ESPN EXTRA 
+http://190.60.38.114:1010/play/a07s/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",ESPN 1 
+http://190.60.38.114:1010/play/a096/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",El Gourmet 
+http://190.60.38.114:1010/play/a08n/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",FOX Sports 2 
+http://190.60.38.114:1010/play/a02o/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FX 
+http://190.60.38.114:1010/play/a02q/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sports 1 
+http://190.60.38.114:1010/play/a07i/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports 3 
+http://190.60.38.114:1010/play/a024/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Golden 
+http://190.60.38.114:1010/play/a04d/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",History 2 
+http://190.60.38.114:1010/play/a04j/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",History Channel 
+http://190.60.38.114:1010/play/a02a/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ID 
+http://190.60.38.114:1010/play/a06o/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="MEXICO",Las Estrellas 
+http://190.60.38.114:1010/play/a08k/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Love Nature 
+http://190.60.38.114:1010/play/a08u/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Nat Geo 
+http://190.60.38.114:1010/play/a045/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",RCN 
+http://190.60.38.114:1010/play/a086/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",STAR CHANNEL 
+http://190.60.38.114:1010/play/a02l/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Sony 
+http://190.60.38.114:1010/play/a02c/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Space 
+http://190.60.38.114:1010/play/a07y/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Studio Universal 
+http://190.60.38.114:1010/play/a094/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Studio Universal 
+http://190.60.38.114:1010/play/a049/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Sun Channel 
+http://190.60.38.114:1010/play/a077/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TELEPACIFICO 
+http://190.60.38.114:1010/play/a081/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT 
+http://190.60.38.114:1010/play/a07z/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT Series 
+http://190.60.38.114:1010/play/a07x/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telenovelas 
+http://190.60.38.114:1010/play/a08i/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",UNIVERSAL CHANNEL 
+http://190.60.38.114:1010/play/a02m/index.m3u8 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Win Sports 
+http://190.60.38.114:1010/play/a02g/index.m3u8
 
 #EXTINF:-164 tvg-logo="https://www.minutoar.com.ar/u/fotografias/m/2022/11/15/f500x333-162819_186622_0.jpg" group-title="PARIS 2024", TELE FE | SD
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
@@ -8641,9 +8740,10 @@ http://177.93.46.163:8000/play/a01n
 http://177.93.46.163:8000/play/a01o
 #EXTINF:-1 group-title="PARIS 2024",Venevisión
 http://200.59.188.3:8000/play/a0ak
-
-#EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo =" https://cdn.m3u.cl/logo/1567_Ecuavisa.png "group-title="ECUADOR", Ecuavisa | CE 
-https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 group-title="PARIS 2024",CHV CL
+https://bgtv.xyz/play/2-777.php?idch=198
+#EXTINF:-1 group-title="PARIS 2024",TVP AR
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/210865
 
 #EXTINF:-1 group-title="ECUADOR", TV 5
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
