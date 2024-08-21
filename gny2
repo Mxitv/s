@@ -1115,19 +1115,11 @@ https://panel.tvstream.cl:1936/8040/8040/chunklist_w12528243.m3u8
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 
 #EXTINF:-368 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINE Y SERIES" , GOLDEN
-http://201.159.113.219:49000/play/a02l/index.m3u8
+http://190.60.38.114:1010/play/a04d/index.m3u8
 
-#EXTINF:-369 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="CINE Y SERIES" , GOLDEN Multiplex dorad
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-370tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-371 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y SERIES" , GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-372 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , LAS ESTRELLAS
-https://channel01secure.akamaized.net/hls/live/2022749/event01/index_6.m3u8?hdntl=exp=1723859344~acl=/*~data=hdntl~hmac=82c882a24142e0198ea9a38558f27f464ee60bd8f001d7ee999103695a8d6980&
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-374 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , LAS ESTRELLAS LATI
 http://181.78.105.146:2000/play/a00g/index.m3u8
@@ -1164,12 +1156,6 @@ https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 
 #EXTINF:-386 group-title="DEPORTES" tvg-logo="",Red Bull TV (Español)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-387 group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-388 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="MEXICO" , TUDN (México)
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-389 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES" , TUDN (México)
 http://181.78.105.146:2000/play/a08j/index.m3u8
@@ -1471,15 +1457,8 @@ https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/chunklist_w1192708117.m3u8
 #EXTINF:-57 tvg-logo="https://i.postimg.cc/FzhY58FJ/BARNEY.png" group-title="NIÑOS Y ADOLECENTES", BARNEY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29882-6307 -11eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daaec956-b0c6-4701-a551-d3b7bab3a563&userId=&serverSideAds=true
 
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/g2Hg8BL1/elmariachi.png" group-title="NOVELAS", EL MARIACHI²⁴⁺⁷
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b5f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="NOVELAS", SIN TETAS NO HAY PARAÍSO 2²⁴⁺⁷
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKw5XmFOryjOIHpSLCmLK3f3iSw-AimFNLQ&s",Amor Bravio ²⁴⁺⁷
-https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://i.postimg.cc/1R76ntz6/nms.png",Acción Mexicana ²⁴⁺⁷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
@@ -1489,9 +1468,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="",Canela Telenovelas ²⁴⁺⁷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="",La Fuerza del Destino ²⁴⁺⁷
-https://linear-480.frequency.stream/mt/studio/480/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Novelas Turcas ²⁴⁺⁷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -1825,13 +1801,10 @@ http://177.234.230.226:8010/play/a03k/index.m3u8
 http://177.53.155.236:8000/play/a0bd/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES", Star Channel
-http://45.179.164.30:8000/play/a056/index.m3u8
+http://177.234.247.66:8888/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES", Star Channel
 http://177.234.247.66:8888/play/a033/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES", Star Channel
-http://177.234.247.66:8888/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="CINE Y SERIES", 92 | FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
@@ -1894,23 +1867,17 @@ http://177.53.153.20:8001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="CINE Y SERIES", 109 | Cine Latino
 http://bantel.iptvperu.tv:1935/astralocal/CINELATINO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES", 110 | Golden
-http://45.228.234.167:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE Y SERIES", 112 | Golden Premier
-http://45.228.234.167:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="CINE Y SERIES", 113 | Golden Premier 2
-http://138.59.177.34:8000/play/a019/index.m3u8
-
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="CINE Y SERIES", 115 | Multipremier
-http://45.228.234.167:8000/play/a046/index.m3u8
+http://160.20.165.246:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="CINE Y SERIES", 116 | Canal MC
 http://177.53.153.20:8001/play/a07o/index.m3u8
 
+#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="CINE Y SERIES", 116 | Canal MC
+http://160.20.165.246:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="CINE Y SERIES", 117 | Cine Mexicano
-http://177.234.230.226:8010/play/a00e/index.m3u8
+http://181.78.105.146:2000/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="CINE Y SERIES", 118 | DHE
 http://179.1.146.21:8000/play/a06u/index.m3u8
@@ -3253,23 +3220,19 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1036 | Las Estrellas || MÉXICO
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1037 | Canal 5 || MÉXICO
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1038 | Multimedios Televisión Canal 6 || MÉXICO
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MX | a más+" tvg-name="MX | a más+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/200px-A%2B_2021.svg.png" group-title="MEXICO", 1039 | a más+ || MÉXICO
 http://167.114.156.136:25461/INFINITV/ZX89NM22/113
 #EXTINF:-1 tvg-id="MX | Nu9ve" tvg-name="MX | Nu9ve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="MEXICO", 1040 | Nu9ve || MÉXICO
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Once" tvg-name="MX | Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 1041 | Once || MÉXICO
-http://167.114.156.136:25461/INFINITV/ZX89NM22/111
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 1042 | Unicable || MÉXICO
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="MEXICO", 1043 | ADN 40 || MÉXICO
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://img.asmedia.epimg.net/resizer/__0kSWQYeMV8ePRtOMVM_gEfza0=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", 1044 | N+ Media || MÉXICO
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8?hdntl=exp=1724290007~acl=/*~data=hdntl~hmac=71f0802213648cbe7f30fa18c9881a86bd3838a24f0f12e9cb8721b3227e185f&
 #EXTINF:-1 tvg-id="MX | Milenio Televisión" tvg-name="MX | Milenio Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/150px-Milenio_Television.png" group-title="MEXICO", 1045 | Milenio Televisión || MÉXICO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", 1046 | TV Cuatro de Guanajuato || MÉXICO
@@ -8600,6 +8563,7 @@ http://201.159.113.219:49000/play/a02p/index.m3u8
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionNetwork(Español).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019. png" group-title="NOVELAS", Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/1280px-Tlnovelas_2007_logo.svg.png"group-title="NOVELAS", TLNOVELAS
