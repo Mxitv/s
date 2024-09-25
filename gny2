@@ -1,9 +1,11 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="PERU", 19 | Auténtica Televisión || Moyobamba
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", 88 estéreo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1412956051.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="CINE Y SERIES", A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" , A + GATE +2
+#EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="" , A + GATE +2
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", A+ 
 https://ch2-tva.duin.dev/hls/0/stream.m3u8  
@@ -15,8 +17,6 @@ http://45.179.164.30:8000/play/a0ck/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Lista 1", Afizzionados 
 http://bgtv.xyz/play/play-777.php?ul=939&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Lista 1", Afizzionados En 
-http://bgtv.xyz/play/play-777.php?ul=878&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png" group-title="NOTICIAS", Al Jazeera 
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE Y SERIES", AMC 
@@ -29,10 +29,8 @@ http://45.179.164.30:8000/play/a00o/index.m3u8
 http://190.60.38.114:1010/play/a06t/index.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="NIÑOS Y ADOLECENTES", Animation ²⁴⁺⁷ 
 http://191.97.60.193:10000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo- 2.png" group-title="COLOMBIA", ATN Televisión || COLOMBIA
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="Lista 1", Antena 3 
-http://bgtv.xyz/play/play-777.php?ul=146&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=298&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Central_Depository_of_Armenia_%26_AMX.png"group-title="MEXICO",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="CINE Y SERIES", AXN 
@@ -70,33 +68,35 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/8e6ced/angry-birds/1366_2000.webp" group-title="NIÑOS Y ADOLECENTES", Angry Birrds tv | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1684083203&id=266911&ip=45.224.152.74&override_expiration=1500&sign=pEoOkGAZcjg7b8uJ%2FKu0ivcA2Ig9Xu816%2FXsWu2Ykws%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbhg2tcN/image.png" group-title="PERU", 9 | ATV TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6jHvTpf/atv.png" group-title="PERU", 9.2 | ATV +
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATVSUR/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Lista 1", Baby TV 
-http://bgtv.xyz/play/play-777.php?ul=7&token=asdfasdf 
+#EXTINF:-205 tvg-name="Antares tv" tvg-logo="https://i.postimg.cc/3rjFzXgD/image.jpg" group-title="PERU",Antares tv | SD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Lista 1", Baby Tv 
 http://bgtv.xyz/play/play-777.php?ul=8&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Lista 1", Bandamax ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=833&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png" group-title="Lista 1", Bayblade ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=1584&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png" group-title="Lista 1", BBC Español 
-http://bgtv.xyz/play/play-777.php?ul=931&token=asdfasdf 
+#EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ESPAÑA", BBC Drama | HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BIEN Sports | ᵸᴰ 
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="NIÑOS Y ADOLECENTES", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Lista 1", Bolivisión 
-http://bgtv.xyz/play/play-777.php?ul=783&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="BOLIVIA", Bolivisión 
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8 
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/tKLYYys.png" ,Bolivia tv | SD 
+https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tZRNGMp/BHTV-en-vivo-Online.png" group-title="NOTICIAS", B N TV | HD
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1485617194.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA", 490 | Canal TRO || COLOMBIA
-http://45.177.53.7:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista 1", C5N 
+http://bgtv.xyz/play/play-777.php?ul=427&token=asdfasdf 
 #EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA", Canela Música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA", Cadena Élite
@@ -114,18 +114,14 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="MEXICO" , Canal de las Estrellas
 http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="ECUADOR",LAS ESTRELLAS INTER
-http://181.78.105.146:2000/play/a00g/index.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="http: //x.playerlatino.live/canalonce.png" group-title="Lista 1", Canal Once 
 http://bgtv.xyz/play/play-777.php?ul=15&token=asdfasdf 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Canal Uno (Colombia) 
-http:// bgtv.xyz/play/play-777.php?ul=369&token=asdfasdf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ 2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", Capital del Canal || COLOMBIA
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+http:// bgtv.xyz/play/play-777.php?ul=369&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="ECUADOR", CANAL 5 STV | HD
-https://lstv.duckdns.org:449/hls/stv.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="Lista 1", Cantinflas ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=428&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title=" COLOMBIA", Caracol
+https://lstv.duckdns.org:449/hls/stv.m3u8  
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="COLOMBIA", Caracol
 http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJFFPAL.png" group-title="COLOMBIA", Cali TV | SD
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8 
@@ -136,12 +132,12 @@ http://181.78.105.146:2000/play/a03k/index.m3u8
 http://177.53.153.20:8001/play/a05h/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="Lista 1", CDF Premium ᵸᴰ (TNT Sports Chile) 
 http://bgtv.xyz/play/play-777.php?ul=725&token=asdfasdf 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/certv-canal-4.png" group-title="Lista 1", Cdn (República Dominicana) 
-http://bgtv.xyz/play/play-777.php?ul=206&token=asdfasdf 
+#EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="PERU", CR Televisión || Moyobamba
+https://live.obslivestream.com/crtvmux/index.m3u8 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/certv-canal-4.png"" group-title="REPUBLICA DOMINICANA", Certv-Canal 4 (Republica Dominicana) 
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="COLOMBIA", CITY TV || COLOMBIA
-http://45.177.53.7:8000/play/a0fl/index.m3u8 
+#EXTINF:-1 g-logo="http://x.playerlatino.live/chespirito.jpg" group-title="Lista 1", Chespirito ²⁴⁺⁷ 
+http://bgtv.xyz/play/play-777.php?ul=417&token=asdfasdf 
 #EXTINF:-432 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="CINE Y SERIES",Cine5 (720p)
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="CINE Y SERIES", Cinelife
@@ -216,8 +212,10 @@ http://190.61.55.186:1010/play/a022/index.m3u8
 http://bgtv.xyz/play/play-777.php?ul=328&token=asdfasdf 
 #EXTINF:-17 tvg-logo="https://n9.cl/mxitv" group-title="RELIGIÓN", Cristo tv | SD
 https://ssh101-fl.bozztv.com/ssh101/cristotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Lista 1", Claro Sports Colombia 
-http://bgtv.xyz/play/play-777.php?ul=135&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="DEPORTES", Claro Sports Colombia 
+http://181.78.105.146:2000/play/a053/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="DEPORTES", Canal 13 España | SD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Lista 1", Comedy Central 
 http://bgtv.xyz/play/play-777.php?ul=740&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Lista 1", Comedy Central (ES) 
@@ -233,17 +231,11 @@ http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", DataFx (Colombia) 
 http://bgtv .xyz/play/play-777.php?ul=21&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySbLRyg/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Lista 1", De Pelicula 
-http://bgtv.xyz/play/play-777.php ?ul=1545&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Lista 1", De Pelicula ᵸᴰ 
-http://bgtv.xyz/ play/play-777.php?ul=481&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png" group-title="Lista 1", De Pelicula Plus ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=1544&token=asdfasdf 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Lista 1", DeporTV 
 http://bgtv.xyz/play/play-777.php? ul=844&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Lista 1", DHE 
-http://bgtv.xyz/play/play -777.php?ul=670&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="CINE Y SERIES", DHE 
+http://179.1.146.21:8000/play/a06u/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="NIÑOS Y ADOLECENTES", Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="DOCUMENTALES", Discovery Channel 
@@ -280,21 +272,17 @@ http://181.78.105.146:2000/play/a08t/index.m3u8
 http://bgtv.xyz/play/play-777.php?ul=277&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="Lista 1", DMax ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=923&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="Lista 1", Doraemon ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=521&token=asdfasdf 
+#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PERU", Doble AA TV || Yurimaguas
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="ECUADOR", DUENDE TV
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="ECUADOR", DURAN TV + 
 https://cloudvideo.servers10.com:8081/8074/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DSports 2 
 http://bgtv.xyz/play/play-777.php?ul=667&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DSports 2 ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=975&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DSports 2 Sur ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=978&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Lista 1", DSports Colombia 
-http://bgtv.xyz/play/play-777.php?ul=974&token=asdfasdf 
- #EXTINF:-410 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" , ESTRELLA TV
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Lista 1", E! 
+http://bgtv.xyz/play/play-777.php?ul=483&token=asdfasdf 
+#EXTINF:-410 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" , ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png" group-title="Lista 1", Ed group-title="Lista 1", Edd y Eddy ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=1581&token=asdfasdf 
@@ -311,11 +299,11 @@ http://bgtv.xyz/play/play-777.php?ul=949&token=asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="Lista 1", El Coyote y el Correcaminos ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=429&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Lista 1", El Gallo Claudio ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=845&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=845&token=asdfasdf
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88- ck-c0x00ffffff-no-rj" group-title="DEPORTES", 232 | El Garaje TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Lista 1", El Gourmet 
 http://bgtv.xyz/play/play-777.php?ul=157&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Lista 1", El Gourmet 
-http://bgtv.xyz/play/play-777.php?ul=791&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-57 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", Ecuavisa QUITO
@@ -330,14 +318,6 @@ http://bgtv.xyz/play/play-777.php?ul=772&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=525&token=asdfasdf 
 #EXTINF:-359 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="ECUADOR" ,ECUAMUNDO
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="Lista 1", El Príncipe del Rap ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=430&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="Lista 1", El Príncipe del Rap ²⁴⁺⁷ Op. 2 
-http://bgtv.xyz/play/play-777.php?ul=1553&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Lista 1", El Señor de los Cielos ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php? ul=820&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Lista 1", El Trece 
-http://bgtv.xyz/play/play-777.php?ul=765&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", El Trece 
 http://bgtv.xyz/play/play-777.php?ul=767&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Lista 1", El Trece 
@@ -351,11 +331,7 @@ https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN  
 http://190.60.38.114:1010/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN ᵸᴰ 
-http://181.78.105.146:2000/play/a064/index.m3u8 
-#EXTINF:-1 tvg-shift="0"tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES",ESPN SUR2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD(Norte)
-http://181.78.105.146:2000/play/a03n/index.m3u8
+http://181.78.105.146:2000/play/a064/index.m3u8  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKLwGQZ/espn2.png" group-title="DEPORTES", ESPN 2 
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKLwGQZ/espn2.png" group-title="DEPORTES", ESPN 2 Mx 
@@ -378,24 +354,34 @@ http://190.60.38.114:1010/play/a07i/index.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png" group-title="Lista 1", Europa Europa 
 http://bgtv.xyz/play/play-777.php?ul=957&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fearthewalkingdead.png" group-title="Lista 1", Fear The Walking Dead ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=1558&token=asdfasdf 
+#EXTINF:-114 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="DEPORTES", FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-41 tvg-logo="https://n9.cl/gm3zj" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Lista 1", Cine y Artes ᵸᴰ (EN) 
-http://bgtv.xyz/play/play-777.php?ul=729&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png" group-title="CINE Y SERIES", Frecuencia tv | FHD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed494f69316edb42f4205223d8922f2c.webp" group-title="CINE Y SERIES", 153 | Fiesta en Family TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6292
 #EXTINF:-42 ttvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="NIÑOS Y ADOLECENTES",Fanpop TV (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Lista 1", FX ᵸᴰ 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="CINE Y SERIES", FX ᵸᴰ 
 http://181.78.105.146:2000/play/a05z/index.m3u8 
 #EXTINF:-1 tvg-logo="https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png"group-title="ECUADOR", FM MUNDO TV | HD
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-236 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="PERU" , FUEGO TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES", 123 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-275 group-title="CINE Y SERIES", FREE TV HD
+https://freetv.stream.olympusatmedia.com/index.m3u8
+#EXTINF:-275 group-title="CINE Y SERIES", FREE TV estelar HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=tucine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=2a68c779c897118e597c08ee7ee39604&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1727228844&id=2618&ip=45.224.152.78&override_expiration=1500&sign=zuuTpTS%2FmrGl%2BdskjeLgqrcGdOkngIomnEe5OUxwVl4%3D
+#EXTINF:-275 group-title="CINE Y SERIES", FREE TV drama HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=cinereal&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=2a68c779c897118e597c08ee7ee39604&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1727228717&id=2632&ip=45.224.152.78&override_expiration=1500&sign=OOcvuzfAsPhpr6jMentEnUQSm5imwrSxzZ4U6Vs8wDU%3D
+#EXTINF:-275 group-title="CINE Y SERIES", FREE TV terror HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=horrorfy&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=2a68c779c897118e597c08ee7ee39604&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1727229011&id=2636&ip=45.224.152.78&override_expiration=1500&sign=ceSVvtJoi9K9L5vijwjH4471gBYLKRimHZvLvtG1T%2FE%3D
+#EXTINF:-328 group-title="CINE Y SERIES", FREE TV ACCION
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=topcine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=2a68c779c897118e597c08ee7ee39604&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1727228027&id=2612&ip=45.224.152.78&override_expiration=1500&sign=QoP%2FgM50tsTYMaNIjdc5LCEqR6ik2T%2Bcnkt%2FY0h6IM4%3D
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="PARAGUAY", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", FREE TV HD
@@ -404,22 +390,16 @@ https://freetv.stream.olympusatmedia.com/index.m3u8
 https://stream-pull-a.yololiv.com/yololiv/1144278368544358401_yo720p30f.m3u8
 #EXTINF:-13 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="ECUADOR", GAMAVISION | HD
 http://190.95.220.212:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Lista 1", Gala TV 
-http://bgtv.xyz/play/play-777.php?ul=56&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Lista 1", Gala TV ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=651&token=asdfasdf  
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="Lista 1", Juego de Tronos ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=515&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png" group-title="Lista 1", Garage TV Sí 
-http://bgtv.xyz/play/play-777.php?ul=156&token=asdfasdf 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Garfield ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=812&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Lista 1", Glitz 
-http://bgtv.xyz/play/play-777.php?ul=158&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Lista 1", Glitz 
-http://bgtv.xyz/play/play-777.php?ul=686&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Lista 1", Gol TV 
-http://bgtv.xyz/play/play-777.php?ul=287&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png" group-title="DOCUMENTALES", Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8  
+#EXTINF:-336 group-title="BOLIVIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPM6JzPExsJHBxDgm6MrcD9gsKBS4afdoDNhzmNgyKo1qqdt3-WqE3gnkxdFt-3JCNtI&usqp=CAU",GOGO PLAY
+https://glb.bozztv.com/glb/ssh101/gogoplaysd/index.m3u8
+#EXTINF:-336 group-title="BOLIVIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPM6JzPExsJHBxDgm6MrcD9gsKBS4afdoDNhzmNgyKo1qqdt3-WqE3gnkxdFt-3JCNtI&usqp=CAU",GOGO PLAY
+https://fl1002.bozztv.com/ssh101/gogoplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="PERU", Genios Televisión || Moyobamba
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/whizka1590358958.png",GLORY KICKBOXING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-70 89-11eb- 842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Lista 1", Gol TV ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=514&token=asdfasdf 
 #EXTINF:-368 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINE Y SERIES" , Goldenᵸᴰ 
@@ -444,10 +424,6 @@ http://38.41.8.1:8000/play/a00d
 http://177.53.153.20:8001/play/a0dc/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Lista 1", Hola TV 
-http://bgtv.xyz/play/play-777.php?ul=189&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Lista 1", Hola TV 
-http://bgtv.xyz/play/play-777.php?ul=66&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="MUSICA", HTV 
 http://45.228.234.167:8000/play/a028/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 269 | HTV
@@ -465,35 +441,21 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="Lista 1", La 1 ᵸᴰ 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2ᵸᴰ.png" group-title="Lista 1", La 2 ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=967&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png" group-title="Lista 1", La Casa de los Dibujos ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-77 7.php?ul=1575&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png" group-title="Lista 1", La Familia Monster ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=910&token=asdfasdf 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", La Familia PeLuche ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=811&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=967&token=asdfasdf  
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/xCFzYy2G/Logotipo-de-La-Red-2019-2021.png"group-title="COSTA RICA" ,La Red Tv
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8 
- #EXTINF:-1 tvg-logo="http://x.playerlatino .live/larosadeguadalupe.png" group-title="Lista 1", La Rosa de Guadalupe ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=886&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="Lista 1", La Sexta ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=928&token =asdfasdf 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", La Tele
-http://bgtv.xyz/play/play-777.php?ul=809&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="PERU", Latina 
-https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8 
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="MUSICA", Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Lista 1", Lifetime 
 http://bgtv.xyz/play/play-777.php?ul=152&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Lista 1", Lifetime 
-http://bgtv.xyz/play/play-777.php? ul=890&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima32806760957.jpg" group-title="MEXICO",LIM TV  (HD)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Lista 1", Looney Tunes ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul =524&token=asdfasdf
+#EXTINF:-453 tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="PERU" ,LimaVivo
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="ECUADOR" ,LORETO TV
 https://stmv1.painelcast.com/loretolive/loretolive/chunklist_w1734358261.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",Lobo tv | HD
@@ -505,11 +467,13 @@ http://38.41.8.1:8000/play/a02n
 #EXTINF:-110 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE EN ESPAÑOL
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-219 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/2/LoveNature_TypeMask_FINAL_thumbnail.jpg" group-title="DOCUMENTALES", LOVE NATURE
-https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FcvG9o4XkAA0g8v?format=png&name=240x240" group-title="PERU", Mas 1 Televisión || Moyobamba
+https://live.obslivestream.com/mas1/index.m3u8
 #EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="MUSICA", Maxima FM
 https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="PARAGUAY", MI TV
@@ -530,14 +494,16 @@ https://hdbox.chunklistv.com/live?stream=megabox
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/TdvXGBreTYyJZiwX63BRIA/stream/aba00883-1303-4c27-8750-acb91abe7170:CBF2/variant/4391a7b407903ed9bd54764f8d2a7cfd/bandwidth/1075800.m3u8?uid=CVRRLaPHm73MvHbj5WkcP0jOWdxcwI6u&sid=Kbd1G8Unliw3e62LDYL2i43xjqmpWvRz&pid=9zYbnzoE79vMEow2FIZokJX08u6CL8IO&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=YxbewdhzIUOs5Ok8nKSHtYymL4pHQrGgu3wllVn0b3kXk1vC7L2CO6OeJfCp4BVbP1uxCRwQXhT&adInsertionSessionId=b370fd94-ca9b-47ab-952c-af34b2c42a57&ote=1724706876285&ot=FN4Az6W9w6-bDxI2h8bxkA&es=us-b4-p-e-nq15.cdn.mdstrm.com&proto=https&pz=us&aid=53bc2bcae41e2d9c662e1ba7 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="COSTA RICA", Mega 
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-407 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="BOLIVIA" ,MEGA TV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MEXICO", Miami TV 
 https://668e2e5a0f5bb.streamlock.net/Latino/smil:WEB/.m3u8
 #EXTINF:-439 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="MUSICA",Miamitv music
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nwsdjs.com/wp-content/uploads/2024/02/DJ2RO-LOGO-BLACK-AND-GOLD.png" group-title="MUSICA", MiamitvDJ
 https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/.m3u8
- #EXTINF:-1 tvg-logo="http://x.playerlatino.live/morbidotv.png" group-title="Lista 1", Morbido TV 
-http://bgtv.xyz/play/play-777.php?ul=966&token=asdfasdf 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PERU", Millenium TV || Lamas
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Lista 1", Max 
 http://bgtv.xyz/play/play-777.php?ul=678&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="Lista 1", Movistar Acción ᵸᴰ 
@@ -578,10 +544,17 @@ http://177.53.153.20:8001/play/a07o/index.m3u8
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-143 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-145 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-144 tvg-logo="https://i.postimg.cc/dQy6QJWf/spakinew.png" group-title="MUSICA", MTV SPAKIN' NEW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="MUSICA", Music Top 
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="Lista 1", Naruto ²⁴⁺⁷ 
+#EXTINF:-1 tvg-id="PE | Moyobamba Televisión" tvg-name="PE | Moyobamba Televisión" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="PERU", 15 | Moyobamba Televisión || Moyobamba
+https://live.obslivestream.com/mtv/index.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Lista 1", Nat Geo Wild ᵸᴰ 
+http://bgtv.xyz/play/play-777.php?ul=497&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="COSTA RICA",  NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFX9T5q5/abuela.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ", NOVELAS CON LA ABUELA
@@ -596,18 +569,24 @@ http://bgtv.xyz/play/play-777.php?ul=78&token=asdfasdf
 http://181.78.105.146:2000/play/a04f/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="NIÑOS Y ADOLECENTES", Nick Toons 
 http://201.159.113.219:49000/play/a04y/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1BsPWCB/nickelodeon.png" group-title="NIÑOS Y ADOLECENTES", Nickelodeon 
+ #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1BsPWCB/nickelodeon.png" group-title="NIÑOS Y ADOLECENTES", Nickelodeon 
 http://181.78.105.146:2000/play/a014/index.m3u8 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PERU", Nor Selva Televisión || Rioja
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTSJorN-tIKmKv7kaPCo58xCE343xH1fUFMeZlI=s176-c-k-c0x00ffffff-no-rj" group-title="PERU", Nova TV Star || Yurimaguas
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/k5JNFq2Y/oro.png" group-title="ECUADOR", OROMAR TV | SD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5JNFq2Y/oro.png" group-title="ECUADOR", Oromar TV | ECUADOR
 http://190.95.220.212:8000/play/a04j/index.m3u8
-#EXTINF:-415 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="ECUADOR" ,ORBITA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="ECUADOR" ,ORBITA
 https://ssh101-fl.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 #EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7cf352e11229ca097e2ddfbfbe53192.webp" group-title="PERU", ONDA DIGITAL
 https://v4.tustreaming.cl/odtvgo/index.m3u8
-#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/company/2121-205_company_import.png" group-title="PERU", 5 | Panamericana Televisión
-hhttps://cdnhd.iblups.com/hls/ptv5.m3u8 
+#EXTINF:-76 tvg-logo="https://lc.cx/2aTtXY" group-title="PERU",PANAMERICANA| HD
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU",  Peru TV | SD
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES", PLUTO TV NATURALEZA
@@ -620,6 +599,10 @@ https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 https://v4.tustreaming.cl/poptv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://lc.cx/VRnIpE" group-title="NIÑOS Y ADOLECENTES", Planeta de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8wkK5V/esports.png" group-title="DEPORTES", PLUTO TV E-SPORTS
+https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=26e1d3a7-fa1f-11eb-9b62-0242ac110003
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES", PLUTO TV PELEAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1400514686974578691/Xd3msQu2_400x400.jpg" group-title="MUSICA", Panavision | SD 
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="CINE Y SERIES", Paramount ᵸᴰ (ES) 
@@ -634,28 +617,30 @@ https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;dnt=1&amp;us_privacy=1---&amp;did=00000000-0000-0000-0000-000000000000&amp;app_bundle=com.imps.smurfs&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=smurfs&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=smurfs&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=0&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 #EXTINF:-199 tvg-logo="https://i.postimg.cc/nLRN7HFp/cropped-logo-new-Planeta-2-114x83.png" group-title="ECUADOR", Planeta channel | HD
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", PERÚ: Antares TV 
-http://bgtv.xyz/play/play-777.php?ul=451&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", PERÚ: BHTV 
 http://bgtv.xyz/play/play-777.php?ul=399&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Lista 1", PERÚ: Latina 
-http://bgtv.xyz/play/play-777.php?ul=317&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="PERU", PERÚ: Latina 
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", PERÚ: RBC 
 http://bgtv.xyz/play/play-777.php?ul=220&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Lista 1", PERÚ: RPP 
-http://bgtv.xyz/play/play-777.php?ul=336&token=asdfasdf 
+#EXTINF:-333 group-title="PERU" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/049c98cb65e2cb33606d01d8003f1750.webp",PERU CHANNEL
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", PERÚ: TV Perú 
 http://bgtv.xyz/play/play-777.php?ul=306&token=asdfasdf    
 #EXTINF:-366 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="MUSICA", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w12528243.m3u8
 #EXTINF:-87 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Lista 1", PX TV 
-http://bgtv.xyz/play/play-777.php?ul=193&token=asdfasdf
+#EXTINF:-194 tvg-logo="https://i.postimg.cc/T3Vb5Chd/7987c1d995862d8c841cb43d1c3814b5.webp" group-title="CHILE", EL PNGUINO L | SD
+https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b56260b68f3ebe6b1601e56567d46831.webp"group-title="COSTA RICA", Plomar TV
 https://vcp.myplaytv.com/promar/promar/chunklist_w631540690.m3u8
 #EXTINF:-1 group-title="NIÑOS Y ADOLECENTES", Pluto Cartoon HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7a236036-f0de-11ec-884e-0242ac110003&sid=7a236036-f0de-11ec-884e-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YTIzNjAzNi1mMGRlLTExZWMtODg0ZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODY4NiwianRpIjoiOTU4MDJhYjAtYjgxOS00YmVmLWJjMTgtMDE4ZmU3YTkxYjY0IiwiaWF0IjoxNjU1NzU5ODg2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.QVtzw0AeT2Cowcuere2sMTDHcipfpA-Bx3MJ8dh_tWY&masterJWTPassthrough=true
+#EXTINF:-311 group-title="DEPORTES", PLUTO TV DEPORTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
+#EXTINF:-324 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES", PLUTO TV PELEAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
 #EXTINF:-277 group-title="NIÑOS Y ADOLECENTES", PLUTO ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=da9d3d0c-f0de-11ec-a215-0242ac110003&sid=da9d3d0c-f0de-11ec-a215-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkYTlkM2QwYy1mMGRlLTExZWMtYTIxNS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODg0OCwianRpIjoiYmVhY2M3MzgtNGZhYi00NjRlLTkxZjEtY2Y4ZTUxNDcxMTY3IiwiaWF0IjoxNjU1NzYwMDQ4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.DGlolDvxaXI0mUizu9wDPF_IqyVt1ENy_gxUbWIfy7Y&masterJWTPassthrough=true
 #EXTINF:-276 group-title="NOVELAS²⁴⁺⁷ ᵸᴰ", Pluto Novelas HD
@@ -672,24 +657,34 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbNFmKFOYGc761cKGh7d17nAH2-SdUqMXQw&s" group-title="COLOMBIA", RED TV
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 group-title="COLOMBIA", RED MAS
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgVAzhKEkkeyQQOJXImzZwdg9jk55MjA5gQ&usqp=CAU" group-title="NIÑOS Y ADOLECENTES", 131 | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-156 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="DEPORTES", Real Madrid TV | SD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8 
 #EXTINF:-14 tvg-logo="https://lc.cx/6p7IqW" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="PERU",  Radio Selva Televisión || Moyobamba
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="PERU", Radio Televisión Oriente || Yurimaguas
+https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="COLOMBIA", RCN 
 http://190.60.38.114:1010/play/a086/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="COLOMBIA", RCN 
 http://177.93.46.163:8000/play/a01o
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="PERU", RN Televisión || Yurimaguas
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-177 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="COLOMBIA", RCN MAS | SD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/3000.m3u8
 #EXTINF:-179 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="COLOMBIA", RCN EXTRA | HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
 #EXTINF:-81 tvg-logo="https://i.postimg.cc/zfRxMjRh/thumbnail-logo-rcg-media-250-1-69610a5309.png" group-title="MEXICO",Rcg media | HD
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Lista 1", Rcn Novelas 
+http://bgtv.xyz/play/play-777.php?ul=692&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Lista 1", Ritmoson Latino 
+http://bgtv.xyz/play/play-777.php?ul=154&token=asdfasdf 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Rpc (Panamá) 
 http://bgtv.xyz/play/play-777.php?ul=781&token=asdfasdf 
 #EXTINF:-71 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT News | HD
@@ -697,7 +692,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-72 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT USA | HD
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-73 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT UK | HD
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8 
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="PERU", RTV Total || Yurimaguas
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR", Radio América  Guayaquil (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="ECUADOR", Radio América  Ibarra (720p)
@@ -748,8 +745,14 @@ http://177.234.247.66:8888/play/a033/index.m3u8
 http://181.78.27.128:8000/play/a02c/index.m3u8 
 #EXTINF:-241 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE Y SERIES", SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="PERU", Super Canal Televisión || Yurimaguas
+https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="DEPORTES", SyFy SPORT (ES) ᵸᴰ 
 http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="PERU", Sanjuanera Televisión || Moyobamba
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1  tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="MUSICA", Sanjuanera Televisión || Moyobamba
+https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas 
@@ -760,8 +763,14 @@ https://live-b.cf.dmcdn.net/sec2(Af9fvyprPa3EOpBEMZVKo9YL_HKnv11jLJYGX4GncHe7tBa
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3KxjPWGD1nzI19a_T81rVSuxOrvD9kUI3mlP6OeUGKLoxugxyOFxSZuGVehONUGm-oYE2e_A0qC5rjX_9hbfc8HF_e5R4lIHLDZtVkUCxsj1Hij4YZjS4_o2pKmHmdIytXR2Dn5jr58JA/w350-h350-p-k-no-nu/tele+futuro.png" group-title="BOLIVIA", 694 | Telefuturo TV || BOLIVIA
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w719910685.m3u8
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="PERU", Telecolor || Yurimaguas
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/C8BjHP" group-title="PARAGUAY", TVS
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-193 group-title="DEPORTES", TENIS CHANNEL | SD
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83sIpdN5xB6xRJQ9h21rV8371WrgKgzEB4Q&s"group-title="MEXICO" ,TVmas 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1158872820.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="CINE Y SERIES", TCM 
@@ -772,16 +781,18 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
 http://45.228.234.167:8000/play/a03r/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo. svg/250px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", Teleantioquia (Colombia) 
+#EXTINF:-1 tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA",Tele STRELLA
+https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="COLOMBIA", Teleantioquia (Colombia) 
 http://45.177.53.7:8000/play/a04m/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ARGENTINA", Telefe Español:
+ #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ARGENTINA", Telefe Español:
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ARGENTINA", Telefe hits 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MUSICA", Telehit ᵸᴰ 
 https://cloudvideo.servers10.com:8081/8128/index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA", Teleislas (Colombia) 
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w688268628.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="BOLIVIA" , TDT roja
+https://master.tucableip.com/dtvsc/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="PUERTO RICO", Telemundo ᵸᴰ 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PUERTO RICO", TELEMUNDO HD
@@ -797,7 +808,9 @@ http://bgtv.xyz/play/play-777.php?ul=87&token=asdfasdf
  #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="MEXICO", Tlnovelas 
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png" group-title="MUSICA", TLR (Teleritmo) 
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8 
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="PERU", TV Tropical || Tarapoto
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE Y SERIES", TNT Sur 
 http://177.234.247.66:8888/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="CINE Y SERIES", TNT ᵸᴰ 
@@ -806,26 +819,28 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 http://177.53.153.20:8001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="CINE Y SERIES", TNT Series ᵸᴰ 
 http://181.78.105.146:2000/play/a00m/index.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="Lista 1", Tro (Colombia) 
-http://45.177.53.7:8000/play/a04q/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN 
-http://bgtv.xyz/play/play-777.php?ul=698&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN (Pocos Datos) 
-http://bgtv.xyz/play/play-777.php?ul=822&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN Español 
-http://bgtv.xyz/play/play-777.php?ul=801&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN Op. 2 
-http://bgtv.xyz/play/play-777.php?ul=997&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN USA ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=86&token=asdfasdf 
-#EXTINF: -1 tvg-logo="http://x.playerlatino.live/tvchile.png" group-title="Lista 1", TV Chile 
-http://bgtv.xyz/play/play-777.php?ul=1534&token=asdfasdf 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Tv Galicia 
-http://bgtv.xyz/play/play-777.php?ul=837&token=asdfasdf
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Lista 1", TNT Deportes 
+http://bgtv.xyz/play/play-777.php?ul=509&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="Lista 1", Tom y Jerry ²⁴⁺⁷ 
+http://bgtv.xyz/play/play-777.php?ul=421&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Lista 1", Tooncast 
+http://bgtv.xyz/play/play-777.php?ul=95&token=asdfasdf 
+#EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="PERU", 53 | Top TV || Aguaytía
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Lista 1", Tro (Colombia) 
+http://bgtv.xyz/play/play-777.php?ul=662&token=asdfasdf 
+ #EXTINF:-389 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES" , TUDN (México)
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-122 tvg-logo="https://lc.cx/ocv7bE" group-title="ARGENTINA" , TV PUBLICA
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-454 tvg-logo="https://i.imgur.com/ad0GNqa.png" group-title="PERU" ,Tv Nacional Perú
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+#EXTINF:-230 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d361f1f51796136d9f931586c45f4a33.webp" group-title="PERU" , TVPE INTERNACIONAL
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Lista 1", Tyc Sports 
+http://bgtv.xyz/play/play-777.php?ul=274&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvkG99fN/Unicanal-en-vivo-Online.png" group-title="PARAGUAY", Unicanal | SD
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="ECUADOR", UNITEL TV | HD
@@ -856,8 +871,12 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="COLOMBIA", Uno 
 http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv4sJVxf/image.png" group-title="PERU", USMP TV
+https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="MEXICO", ULTRA PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 group-title="PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Uranio_15_1994.svg/revision/latest/scale-to-width-down/1200?cb=20220831215333&path-prefix=es", URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="NIÑOS Y ADOLECENTES", Varied TV
 https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/vallenato- internacional-radio-tv-3172.jpg" group-title="MUSICA", Vallenato Internacional Radio y TV
@@ -881,35 +900,33 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-178 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA", VISIÓN DORADA TV
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Lista 1", Video Rola 
-http://bgtv.xyz/play/play-777.php?ul=359&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Videos: 1Música 
-http://bgtv.xyz/play/play-777.php?ul=433&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Videos: Compañía Radio TV 
-http://bgtv.xyz/play/play-777.php?ul=435&token=asdfasdf
+http://bgtv.xyz/play/play-777.php?ul=359&token=asdfasdf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PERU", Vía Alto Mayo Televisión || Rioja
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RmVjjd1/VIVA-TV-alpha-mayor-tama-o.png" group-title="PERU", viva tv
+https://live.obslivestream.com/vivatv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="PERU", Vinilos TV
+https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pnk4SsI.jpg"group-title="MUSICA",VideoPlataforma
 https://stream.oursnetworktv.com/latin/encoder34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lPhyOcDjaoJ4wXoeZrt4AyE_xsEsSUm3SWH- m6fuPfWdxPqdSDtHUUp5J5KNY_3lP2A&usqp=CAU" group-title="MUSICA", Visión TV
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZjWMGdx/video.png" group-title="MUSICA", Video Tour Channel
-https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Vivatv (Panamá) 
-http://bgtv.xyz/play/play-777.php?ul=708&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Lista 1", Wapa PR 
-http://bgtv.xyz/play/play-777.php?ul=327&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Lista 1", Warner Channel 
-http://bgtv.xyz/play/play-777.php?ul=102&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Lista 1", Warner Channel 
-http://bgtv.xyz/play/play-777.php?ul=759&token=asdfasdf 
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="PERU", VZ Televisión || Moyobamba
+https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="DEPORTES", VZ Televisión || Moyobamba
+https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="CINE Y SERIES", Warner Channel ᵸᴰ 
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="CINE Y SERIES", 86 | Warner Channel
+http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports ᵸᴰ
 http://190.60.38.114:1010/play/a02g/index.m3u8 
 #EXTINF:-181 tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="ECUADOR", Wuan plus | HD
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Lista 1", WWE Network 
-http://bgtv.xyz/play/play-777.php?ul=276&token=asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="NIÑOS Y ADOLECENTES", Yu-Gi-Oh! ²⁴⁺⁷ 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 #EXTINF:-29 tvg-logo="https://goo.su/ateBAm" group-title="ECUADOR", Zaracay TV | HD
@@ -943,7 +960,7 @@ http://190.60.38.114:1010/play/a09n/index.m3u8
 http://190.60.38.114:1010/play/a08o/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",Canal 1 
 http://190.60.38.114:1010/play/a08l/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",DE PELICULAS 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png"group-title="CINE Y SERIES",DE PELICULAS 
 http://190.60.38.114:1010/play/a08f/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",DISCOVERY 
 http://190.60.38.114:1010/play/a076/index.m3u8 
@@ -981,7 +998,7 @@ http://190.60.38.114:1010/play/a06o/index.m3u8
 http://190.60.38.114:1010/play/a08k/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Love Nature 
 http://190.60.38.114:1010/play/a08u/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Nat Geo 
+#EXTINF:-1 group-title="DOCUMENTALES",Nat Geo 
 http://190.60.38.114:1010/play/a045/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",RCN 
 http://190.60.38.114:1010/play/a086/index.m3u8 
@@ -1003,7 +1020,7 @@ http://190.60.38.114:1010/play/a081/index.m3u8
 http://190.60.38.114:1010/play/a07z/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",TNT Series 
 http://190.60.38.114:1010/play/a07x/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Telenovelas 
+#EXTINF:-1 tvg-shift="-3" group-title="MEXICO",Telenovelas 
 http://190.60.38.114:1010/play/a08i/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",UNIVERSAL CHANNEL 
 http://190.60.38.114:1010/play/a02m/index.m3u8 
@@ -3567,61 +3584,61 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",BLACK PANTHER WAKANDA FOREVER 
 http://208.88.245.85/nuevo/wakandaforever.dual.2022.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/feLMfivbHHla844jWrVnqgzU0Zh.jpg" group-title="Pelis 3" type="movie" , American Ninja 5 (1993) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/feLMfivbHHla844jWrVnqgzU0Zh.jpg" group-title="Pelis 3" type="película" , American Ninja 5 (1993) 
 http://144.217.70.79/VODS-M/720P/American%20Ninja%205%201993.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/Lq9BYXvUIdytoHQto4grfOJDoo.jpg" group-title="Pelis 3" type="movie", Los animales son personas hermosas (1974) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/Lq9BYXvUIdytoHQto4grfOJDoo.jpg" group-title="Pelis 3" type="película", Los animales son personas hermosas (1974) 
 http://144.217. 70.79/VODS-M/720P/Animals%20Are%20Beautiful%20People%201974.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3tKVHAMFTajrSLfU6gUgdubiXBG.jpg" grupo -title="Pelis 3" type=movie"película" , Balto III Alas del Cambio (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3tKVHAMFTajrSLfU6gUgdubiXBG.jpg" grupo -title="Pelis 3" type="película" , Balto III Alas del Cambio (2004) 
 http://144.217.70.79/VODS-M/720P/Balto%20III%20Wings%20of%20Change%202004.mkv 
 
-#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg" group-title="Pelis 3" type="movie", Balto II Wolf Quest (2002) 
+#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg" group-title="Pelis 3" type="película", Balto II Wolf Quest (2002) 
 http ://144.217.70.79/VODS-M/720P/Balto%20II%20Wolf%20Quest%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ wlbov6pkgySqYZilZcO54f29Dg1.jpg" group-title="Pelis 3" type="movie" , Big Mommas House 2 (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ wlbov6pkgySqYZilZcO54f29Dg1.jpg" group-title="Pelis 3" type="película" , Big Mommas House 2 (2006) 
 http://144.217.70.79/VODS-M/720P/Big%20Mommas%20House%202%202006.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg" group-title="Pelis 3" type="movie" , Sangre dentro Sangre afuera (1993 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg" group-title="Pelis 3" type="película" , Sangre dentro Sangre afuera (1993 ) 
 http://144.217.70.79/VODS-M/720P/Blood%20In%20Blood%20Out%201993.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/upSpEygKPAFycoZa9huKg5yBq2o.jpg" group-title="Pelis 3" type="movie", Conductor de autobús (2016) 
 http://144.217.70.79/VODS-M/720P/Bus%20Driver%202016.mkv 
 
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg" group-title="Pelis 3" type="movie", Dennis, la amenaza ataca de nuevo (1998) 
+#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg" group-title="Pelis 3" type="película", Dennis, la amenaza ataca de nuevo (1998) 
 http: //144.217.70.79/VODS-M/720P/Dennis%20the%20Menace%20Strikes%20Again%201998.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500 /dfajtvJeqM79W2rdFuDUFiwq7Fe.jpg" group-title="Pelis 3" type="movie", Tambores a lo largo del Mohawk (1939) 
 http://144.217.70.79/VODS-M/720P/Drums%20Along%20the%20Mohawk%201939.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gYkyJuB8T8ygZGP2Jy6rPewDcRF.jpg" group-title="Pelis 3" type="movie" , Francisco de Asís (1961 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gYkyJuB8T8ygZGP2Jy6rPewDcRF.jpg" group-title="Pelis 3" type="película" , Francisco de Asís (1961 ) 
 http://144.217.70.79/VODS-M/720P/Francis%20of%20Assisi%201961.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKKej989oVbZahldAkrMVmyB8pU.jpg" group-title="Pelis 3" type="movie", Goal II Viviendo el sueño (2007) 
 http://144.217.70.79/VODS-M/720P/Goal% 20II%20Living%20The%20Dream%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg" group-title="Pelis 3" tipo ="movie", Heartbreak Ridge (1986) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg" group-title="Pelis 3" tipo ="película", Heartbreak Ridge (1986) 
 http://144.217.70.79/VODS-M/720P/Heartbreak%20Ridge%201986.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500" group-title="Pelis 3" type="película" , La dama y el vagabundo-720P2019)) 
 http://144.217.70.79/VODS-M/720P/Lady%20and%20the%20tramp -720P2019).mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" group-title="Pelis 3" type="movie" , Milagro (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" group-title="Pelis 3" type="película" , Milagro (2004) 
 http://144.217.70.79/VODS-M/720P/Miracle%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" grupo- title="Pelis 3" type="movie" , Noelle-720P(2019)) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" grupo- title="Pelis 3" type="película" , Noelle-720P(2019)) 
 http://144.217.70.79/VODS-M/720P/Noelle-720P(2019).mp4 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie", Sólo los fuertes1993) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="película", Sólo los fuertes1993) 
 http://144.217.70.79/VODS-M/720P/Only %20the%20Strong1993.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qN5g3lrljKFEhXAAjAEHQuFfWAo.jpg" group-title="Pelis 3" type="movie" , Pumpkinhead Cenizas a las cenizas (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qN5g3lrljKFEhXAAjAEHQuFfWAo.jpg" group-title="Pelis 3" type="película" , Pumpkinhead Cenizas a las cenizas (2006) 
 http://144.217.70.79/VODS-M/720P/Pumpkinhead%20Ashes%20to%20Ashes%202006.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/zgVPIRufWKwIVUVVg7bSXQJty2S.jpg" group-title="Pelis 3" type="movie", Pumpkinhead Blood Feud (2007) 
 http://144.217.70.79/VODS-M/720P/Pumpkinhead%20Blood% 20Feud%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q41zGgRXfhvnObJnn1kGIyoAhSu.jpg" group-title="Pelis 3" type="movie" , Replicante (2001) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q41zGgRXfhvnObJnn1kGIyoAhSu.jpg" group-title="Pelis 3" type="película" , Replicante (2001) 
 http://144.217.70.79/VODS-M/720P/Replicant%202001.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw. jpg" group-title="Pelis 3" type="movie" , Star Wars Episodio IV Una nueva esperanza (1977 (Edición especial de Harmys)) 
@@ -3633,7 +3650,7 @@ http://144.217.70.79/VODS-M/720P/Star%20Wars%20Episode %20V%20The%20Empire%20Str
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xxCnFmRZ83jHTZsBiceG4IBUGoq .jpg" group-title="Pelis 3" type="película" ,Star wars episodio VI el regreso del jedi (1983 (Harmys Despecialized Edition)) 
 http://144.217.70.79/VODS-M/720P/Star%20wars%20episode%20VI%20return%20of%20the%20jedi%201983%20( Harmys%20Despecialized%20Edition).mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/papDk5x8wmkamSpEm70Ssc6SqQG.jpg" group-title="Pelis 3" type="movie" , La Odisea (1997) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/papDk5x8wmkamSpEm70Ssc6SqQG.jpg" group-title="Pelis 3" type="película " , La Odisea (1997) 
 http://144.217.70.79/VODS-M/720P/The%20Odyssey%201997.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/ p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="Pelis 3" type="movie", La Orden (2001) 
@@ -3648,75 +3665,75 @@ http://144.217.70.79/VODS-M/720P/Timmy%20Failure%20Mistakes%20Were%20Made% 20202
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg" group-title="Pelis 3" type="película" , Togo (2019 ) 
 http://144.217.70.79/VODS-M/720P/Togo%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qp0xpheiKwK2ASjX3YUwDPVOzHx.jpg" group-title="Pelis 3" type="movie", Vacancy 2 El primer corte (2008) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qp0xpheiKwK2ASjX3YUwDPVOzHx.jpg" group-title="Pelis 3" type="película", Vacancy 2 El primer corte (2008) 
 http://144.217.70.79/VODS-M/720P/Vacancy%202%20The%20First%20Cut%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xGJSp233k8ru4PfhE0aca3d8TBl.jpg" group-title="Pelis 3" type="movie" , Brujo (1959) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xGJSp233k8ru4PfhE0aca3d8TBl.jpg" group-title="Pelis 3" type="película" , Brujo (1959) 
 http:/ /144.217.70.79/VODS-M/720P/Warlock%201959.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e5jzAQ1pyoUnytzCC8X9S4nayBN.jpg" group-title= "Pelis 3" type="movie" , Puente de Dragones (1999) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e5jzAQ1pyoUnytzCC8X9S4nayBN.jpg" group-title= "Pelis 3" type="película" , Puente de Dragones (1999) 
 http://144.217.70.79/VODS-M/1080P/Bridge%20of%20Dragons%201999.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/pDg8D0jNqmz7RbCBgblWvmPswHE.jpg" group-title="Pelis 3" type="movie", Hecho de Honor (2008) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/pDg8D0jNqmz7RbCBgblWvmPswHE.jpg" group-title="Pelis 3" type="película", Hecho de Honor (2008) 
 http://144.217.70.79/VODS-M /1080P/Made%20of%20Honor%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bzJBmh8U5ofExJara4nrdqlW8f3.jpg" group-title="Pelis 3" type="movie", Llora Macho (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bzJBmh8U5ofExJara4nrdqlW8f3.jpg" group-title="Pelis 3" type="película", Llora Macho (2021) 
 http://144.217.70.79/VODS-M/1080P/Cry%20Macho%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="Pelis 3" type="movie", Venom, que haya matanza (2021) 
 http://144.217.70.79/VODS-M/1080P/Venom% 20Let%20There%20Be%20Carnage%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ki98MXBwD1qDhY3JhMdY16jJucv.jpg" group-title="Pelis 3" type="movie" , El cambio (2011) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ki98MXBwD1qDhY3JhMdY16jJucv.jpg" group-title="Pelis 3" type="película" , El cambio (2011) 
 http://144.217.70.79/VODS-M/1080P/The%20Change-Up%202011.mkv 
 
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/eeoK2gRfAxZyYn9SiBgAlzfTiBI.jpg" group-title="Pelis 3" type="movie", American Yo (1992) 
+#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/eeoK2gRfAxZyYn9SiBgAlzfTiBI.jpg" group-title="Pelis 3" type="película", American Yo (1992) 
 http://144.217 .70.79/VODS-M/1080P/American%20Me%201992.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg" group-title= "Pelis 3" type="película", David y los elfos (2021) 
 http://144.217.70.79/VODS-M/1080P/David%20and%20the%20Elves%202021.mkv 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/9nxs7YlmGERa9dQbRPZXopfcp51.jpg" group-title="Pelis 3" type="movie", Serpiente Blanca (2019) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/9nxs7YlmGERa9dQbRPZXopfcp51.jpg" group-title="Pelis 3" type="película", Serpiente Blanca (2019) 
 http://144.217.70.79/VODS -M/1080P/Blanco%20Snake%202019.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/viZ3SvvQi7CRHJxnSKAG2lHU4AK.jpg" group-title="Pelis 3" type="movie", Mickey y Minnie desean una Navidad (2021) 
 http://144.217.70.79/VODS-M/1080P/Mickey%20and%20Minnie%20Wish%20Upon%20a%20Christmas%202021.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/o4gwFcm6qRgnC9Gff4giy0POHdF.jpg" group-title="Pelis 3" type="movie", The Karate Kid (2010) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/o4gwFcm6qRgnC9Gff4giy0POHdF.jpg" group-title="Pelis 3" type="película", The Karate Kid (2010) 
 http:/ /144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%202010.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bPq6x47nEqMZED5PrKelcWWpezM.jpg" group-title="Pelis 3" type="movie", Toda la verdad (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bPq6x47nEqMZED5PrKelcWWpezM.jpg" group-title="Pelis 3" type="película", Toda la verdad (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Whole%20Truth%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg" group-title="Pelis 3" type="movie", El poder del perro (2021) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg" group-title="Pelis 3" type="película", El poder del perro (2021) 
 http://144.217 .70.79/VODS-M/1080P/The%20Power%20of%20the%20Dog%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wRy3SwJFE55iL2bfKqECzP2qyrd. jpg" group-title="Pelis 3" type="movie", Actividad Paranormal Familiares más cercanos (2021) 
 1http://144.217.70.79/VODS-M/1080P/Paranormal%20Activity%20Next%20of%20Kin%202021. mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5dTZylzoBV9qsrub9vYLAZrNkX3.jpg" group-title="Pelis 3" type="movie" , Abraham Lincoln Cazador de vampiros ( 2012) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5dTZylzoBV9qsrub9vYLAZrNkX3.jpg" group-title="Pelis 3" type="película" , Abraham Lincoln Cazador de vampiros ( 2012) 
 http://144.217.70.79/VODS-M/1080P/Abraham%20Lincoln%20Vampire%20Hunter%202012.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/iowz7MwaTWMYlfLUE6GeM0m3Hze.jpg" group-title="Pelis 3" type="movie" , La cumbre de los dioses (Le Sommet des Dieux) (2021) 
 http://144.217.70.79/VODS-M/1080P/The %20Cumbre%20de%20los%20Dioses%20(Le%20Sommet%20des%20Dieux)%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bJIq2UwwrrVP033Mk3G5paUwYnp .jpg" group-title="Pelis 3" type="movie" , Zona 414 (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bJIq2UwwrrVP033Mk3G5paUwYnp .jpg" group-title="Pelis 3" type="película" , Zona 414 (2021) 
 http://144.217.70.79/VODS-M/1080P/Zone%20414%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy.jpg" group-title="Pelis 3" type="movie" , Asalto al Recinto 13 ( 1976) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy.jpg" group-title="Pelis 3" type="película" , Asalto al Recinto 13 ( 1976) 
 http://144.217.70.79/VODS-M/1080P/Assault%20on%20Precinct%2013%201976.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/hKjBQhsnCMt86kPKpPwV4meeFPo.jpg" group-title="Pelis 3" type="movie" , Querido Evan Hansen (2021) 
 http://144.217.70.79/VODS-M/1080P/Dear%20Evan%20Hansen%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg" group-title="Pelis 3" type="movie", Un castillo para Navidad (2021 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg" group-title="Pelis 3" type="película", Un castillo para Navidad (2021 ) 
 http://144.217.70.79/VODS-M/1080P/A%20Castle%20for%20Christmas%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/bfZPNzAwUQZ6FZQi1d136KLr3wl.jpg" group-title="Pelis 3" type="movie" , Sencillo hasta el final (2021) 
 http://144.217.70.79/VODS-M/1080P/Single%20All%20the%20Way%202021 .mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg" group-title="Pelis 3" type="movie", Serpiente Blanca 2 La Tribulación de la Serpiente Verde (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg" group-title="Pelis 3" type="película", Serpiente Blanca 2 La Tribulación de la Serpiente Verde (2021) 
 http://144.217.70.79/VODS-M/1080P/White%20Snake%202%20The%20Tribulation%20of%20the%20Green%20Snake%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/qGAEBxylayUqsdkYkCjI7bldAtj.jpg" group-title="Pelis 3" type="movie", Mixtape (2021)
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/qGAEBxylayUqsdkYkCjI7bldAtj.jpg" group-title="Pelis 3" type="película", Mixtape (2021)
  http://144.217.70.79/VODS -M/1080P/Mixtape%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/89kgeIn5Cz7u8qRtyts3oyXmx8S.jpg" group-title="Pelis 3" tipo= "película", Navidad otra vez (2021) 
@@ -3725,94 +3742,94 @@ http://144.217.70.79/VODS-M/1080P/Christmas%20Again%202021.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg" group-title="Pelis 3" type="movie", Diario de un niño debilucho (2021) 
 http://144.217.70.79/VODS-M/1080P/Diary%20of% 20a%20Wimpy%20Kid%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="Pelis 3" type="movie", Jolt (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="Pelis 3" type=" película", Jolt (2021) 
 http://144.217.70.79/VODS-M/1080P/Jolt%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Pelis 3" type="movie", Dune (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Pelis 3" type="película", Dune (2021) 
 http://144.217.70.79/VODS-M/1080P/Dune%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/rKEm4XPJHTjh3kCtJKw07hda6VQ.jpg" group-title="Pelis 3" type="movie" , Daño (1992) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/rKEm4XPJHTjh3kCtJKw07hda6VQ.jpg" group-title="Pelis 3" type="película" , Daño (1992) 
 http://144.217.70.79/VODS -M/1080P/Damage%201992.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="Pelis 3" tipo= "movie", Batman Muerte en la Familia (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="Pelis 3" tipo= "película", Batman Muerte en la Familia (2020) 
 http://144.217.70.79/VODS-M/1080P/Batman%20Death%20in%20the%20Family%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg" group-title="Pelis 3" type="movie", Rons salió mal (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg" group-title="Pelis 3" type="película", Rons salió mal (2021) 
 http:/ /144.217.70.79/VODS-M/1080P/Rons%20Gone%20Wrong%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg" group-title="Pelis 3" type="movie" , El último duelo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg" group-title="Pelis 3" type="película" , El último duelo (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Last%20Duel%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg" group-title="Pelis 3" type="movie", Abismo de Chernobyl (2021) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg" group-title="Pelis 3" type="película", Abismo de Chernobyl (2021) 
 http://144.217.70.79/ VODS-M/1080P/Chernobyl%20Abyss%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8j9iIwxFal1Nq8NY4MSLC6Y6bLE.jpg" group-title="Pelis 3 " type="movie", El cuento de Mickey sobre dos brujas (2021) 
 http://144.217.70.79/VODS-M/1080P/Mickeys%20Tale%20of%20Two%20Witches%202021.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/tRnPT88iD5zgeUPjHqaZznrxk5m.jpg" group-title="Pelis 3" type="movie", Extinta (2021) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/tRnPT88iD5zgeUPjHqaZznrxk5m.jpg" group-title="Pelis 3" type="película", Extinta (2021) 
 http://144.217.70.79/VODS- M/1080P/Extinct%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg" group-title="Pelis 3" type="movie", Tick Tick Boom (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg" group-title="Pelis 3" type=" película", Tick Tick Boom (2021) 
 http://144.217.70.79/VODS-M/1080P/Tick%20Tick%20Boom%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg" group-title="Pelis 3" type="película", Anoche en el Soho (2021) 
 http://144.217.70.79/VODS-M/1080P/Last%20Night %20in%20Soho%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg" group-title="Pelis 3" type="movie" , Rey Ricardo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg" group-title="Pelis 3" type="película " , Rey Ricardo (2021) 
 http://144.217.70.79/VODS-M/1080P/King%20Richard%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/ p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg" group-title="Pelis 3" type="movie", Después de que caímos (2021) 
 http://144.217.70.79/VODS-M/1080P/After%20We%20Fell%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wmh1likQEetSLIUs5MAvfWjEayY.jpg" group-title="Pelis 3" type="movie", Maternal (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wmh1likQEetSLIUs5MAvfWjEayY.jpg" group-title="Pelis 3" type="película", Maternal (2021) 
 http ://144.217.70.79/VODS-M/1080P/Motherly%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg" grupo- title="Pelis 3" type="movie" , Robin Robin (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg" grupo- title="Pelis 3" type="película" , Robin Robin (2021) 
 http://144.217.70.79/VODS-M/1080P/Robin%20Robin%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Pelis 3" type="movie" , Un niño llamado Navidad (2021) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Pelis 3" type="película" , Un niño llamado Navidad (2021) 
 http://144.217.70.79/VODS-M /1080P/A%20Boy%20Called%20Christmas%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg" group-title="Pelis 3" type="movie" , Bruised (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg" group-title="Pelis 3" type="película" , Bruised (2020) 
 http://144.217.70.79/VODS-M/1080P/Bruised%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" group-title="Pelis 3" type="movie", Navidad 8 Bits (2021) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" group-title="Pelis 3" type="película", Navidad 8 Bits (2021) 
 http://144.217.70.79/VODS- M/1080P/8-Bit%20Navidad%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vRYbjHs129MARMq1VDbnk9Jboen.jpg" group-title="Pelis 3 " type="movie", La Terminal (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vRYbjHs129MARMq1VDbnk9Jboen.jpg" group-title="Pelis 3 " type="película", La Terminal (2004) 
 http://144.217.70.79/VODS-M/1080P/The%20Terminal%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg" group-title="Pelis 3" type="movie", Maligno (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg" group-title="Pelis 3" type="película", Maligno (2021) 
 http://144.217.70.79/VODS-M/1080P/Malignant%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="Pelis 3" type="movie", Venom (2018) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="Pelis 3" type="película", Venom (2018) 
 http: //144.217.70.79/VODS-M/1080P/Venom%202018.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgd82hYmpiXDM1G867HqNaWe8wj.jpg" título del grupo ="Pelis 3" type="movie" , Harvey (1950) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgd82hYmpiXDM1G867HqNaWe8wj.jpg" título del grupo ="Pelis 3" type="película" , Harvey (1950) 
 http://144.217.70.79/VODS-M/1080P/Harvey%201950.mkv 
 
 #EXTINF:-1 tvg-logo="https://image. tmdb.org/t/p/w500/86jyzdxtAX8p956rVQDKwGbrYh2.jpg" group-title="Pelis 3" type="movie" , Tijereta y la bruja (2020) 
 http://144.217.70.79/VODS-M/1080P/Earwig %20and%20the%20Witch%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZ9NZh4zB80phMxo5PucFyWagjG.jpg" group-title="Pelis 3" type= "movie", Ya terminamos (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZ9NZh4zB80phMxo5PucFyWagjG.jpg" group-title="Pelis 3" type= "película", Ya terminamos (2007) 
 http://144.217.70.79/VODS-M/1080P/Are%20We%20Done%20Yet%202007.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/1qwj0wKFsDoC3w2i2kDhXY330TU.jpg" group-title="Pelis 3" type="movie", Spanglish (2004) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/1qwj0wKFsDoC3w2i2kDhXY330TU.jpg" group-title="Pelis 3" type="película", Spanglish (2004) 
 http://144.217.70.79/VODS-M/1080P/Spanglish% 202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z7MWaPlkKGMrEjbvKOa9rXH4rPg.jpg" group-title="Pelis 3" type="movie", ¿Estamos ahí? Sin embargo (2005) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z7MWaPlkKGMrEjbvKOa9rXH4rPg.jpg" group-title="Pelis 3" type="película", ¿Estamos ahí? Sin embargo (2005) 
 http://144.217.70.79/VODS-M/1080P/Are%20We%20There%20Yet%202005.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/iNybVu4P7DAq5T2ti6Tdo9S7g8j.jpg" group-title="Pelis 3" type="movie" , The Gate 2 Intrusos (1990) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/iNybVu4P7DAq5T2ti6Tdo9S7g8j.jpg" group-title="Pelis 3" type="película" , The Gate 2 Intrusos (1990) 
 http://144.217.70.79/VODS-M/1080P/The%20Gate%202% 20Trespassers%201990.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76rLcn53Fjdh4Dji9EIeJ98aYj1.jpg" group-title="Pelis 3" type="movie" , Serpico (1973) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76rLcn53Fjdh4Dji9EIeJ98aYj1.jpg" group-title="Pelis 3" type="película" , Serpico (1973) 
 http://144.217.70.79/VODS-M/1080P/Serpico%201973.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy. jpg" group-title="Pelis 3" type="movie" , Asalto al Recinto 13 (2005) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy. jpg" group-title="Pelis 3" type="película" , Asalto al Recinto 13 (2005) 
 http://144.217.70.79/VODS-M/1080P/Assault%20on%20Precinct%2013%202005.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg" group-title="Pelis 3" type="movie" , El quinto elemento (1997 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg" group-title="Pelis 3" type="película" , El quinto elemento (1997 ) 
 http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Element%201997.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ fTGr7lGtLIpnXM2JZkx3EUyzFIN.jpg" group-title="Pelis 3" type="movie" , El quinto mandamiento (2008) http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Commandment%202008.mkv #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/3MgwChvi42N1RnhQE9A4pQVHyUY.jpg" group-title="Pelis 3" type="película" , Superman Shazam El regreso de Black Adam (2010 ) 
@@ -3821,103 +3838,103 @@ http://144.217.70.79/VODS-M/1080P/Superman%20Shazam%20The%20Return%20of%20Black%
 #EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/kynvOlKALNek7s0apLw9ThQzniz.jpg" group-title="Pelis 3" type="movie" , El sexto hombre (1997) 
 http://144.217.70.79/VODS-M/1080P/The%20Sixth% 20Man%201997.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oF750ITKUAOaEGmIVkraH9S1Ijm.jpg" group-title="Pelis 3" type="movie" , La Clímax (1944) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oF750ITKUAOaEGmIVkraH9S1Ijm.jpg" group-title="Pelis 3" type="película" , La Clímax (1944) 
 http://144.217.70.79/VODS-M/1080P/The%20Climax%201944.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500 /dqoshZPLNsXlC1qtz5n34raUyrE.jpg" group-title="Pelis 3" type="movie" , Candyman (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500 /dqoshZPLNsXlC1qtz5n34raUyrE.jpg" group-title="Pelis 3" type="película" , Candyman (2021) 
 http://144.217.70.79/VODS-M/1080P/Candyman%202021.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg" group-title="Pelis 3" type="movie" , Impulsado (2019) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg" group-title="Pelis 3" type="película" , Impulsado (2019) 
 http://144.217.70.79/VODS- M/1080P/Driven%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="Pelis 3" type="movie", Hogar, dulce hogar, solo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="Pelis 3" type=" película", Hogar, dulce hogar, solo (2021) 
 http://144.217.70.79/VODS-M/1080P/Home%20Sweet%20Home%20Alone%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image .tmdb.org/t/p/w500/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg" group-title="Pelis 3" type="movie", 7 Prisioneros (2021) 
+#EXTINF:-1 tvg-logo="https://image .tmdb.org/t/p/w500/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg" group-title="Pelis 3" type="película", 7 Prisioneros (2021) 
 http://144.217.70.79/VODS-M/1080P/7% 20Prisoners%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Pelis 3" type="movie" , Shang -Chi y la leyenda de los diez anillos (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Pelis 3" type="película" , Shang -Chi y la leyenda de los diez anillos (2021) 
 http://144.217.70.79/VODS-M/1080P/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="Pelis 3" type="movie", Aviso rojo (2021) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="Pelis 3" type="película", Aviso rojo (2021) 
 http:// 144.217.70.79/VODS-M/1080P/Red%20Notice%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jXp6ERnrFdG04Gli3d34GtANsuw.jpg" título del grupo ="Pelis 3" tipo="película", Pasando (2021) 
 http://144.217.70.79/VODS-M/1080P/Passing%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6BngDhDNfbBjhVFWDT2yMve32vi.jpg" group-title="Pelis 3" type="movie", Nunca me han besado (1999) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6BngDhDNfbBjhVFWDT2yMve32vi.jpg" group-title="Pelis 3" type="película", Nunca me han besado (1999) 
 http:/ /144.217.70.79/VODS-M/1080P/Never%20Been%20Kissed%201999.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9JV0LOcazudqEcz2NNOMqEIzACz.jpg" group-title="Pelis 3" type="movie", Amor duro (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9JV0LOcazudqEcz2NNOMqEIzACz.jpg" group-title="Pelis 3" type="película", Amor duro (2021) 
 http://144.217.70.79/VODS-M/1080P/Love%20Hard%202021.mkv 
 
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/9a2O1CVhw7L339aSF6lZJhYcP7j.jpg" group-title="Pelis 3" type="movie", Triggered (2020) 
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/9a2O1CVhw7L339aSF6lZJhYcP7j.jpg" group-title="Pelis 3" type="película", Triggered (2020) 
 http://144.217.70.79/VODS-M/ 1080P/Triggered%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="Pelis 3" type="movie" , Pinzón (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="Pelis 3" type="película" , Pinzón (2021) 
 http://144.217.70.79/VODS-M/1080P/Finch%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ 6vA3SbLQ6aH2m3eOKMv2Ki49ypV.jpg" group-title="Pelis 3" type="película" , La familia Claus (2020) 
 http://144.217.70.79/VODS-M/1080P/The%20Claus%20Family%202020.mkv 
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/sKJcrnjngg6rcl9khSBFGCI62VM.jpg" group-title="Pelis 3" type="movie" , Ainbo Espíritu del Amazonas (2021) 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/sKJcrnjngg6rcl9khSBFGCI62VM.jpg" group-title="Pelis 3" type="película" , Ainbo Espíritu del Amazonas (2021) 
 http ://144.217.70.79/VODS-M/1080P/Ainbo%20Spirit%20of%20the%20Amazon%202021.mkv 
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/szvidvi0Fo4j2gmMtk1sNe1rkzw.jpg" group-title="Pelis 3" type="movie" , Sra. Doubtfire (1993) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/szvidvi0Fo4j2gmMtk1sNe1rkzw.jpg" group-title="Pelis 3" type="película" , Sra. Doubtfire (1993) 
 http: //144.217.70.79/VODS-M/1080P/Mrs%20Doubtfire%201993.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" grupo -title="Pelis 3" type="movie" , Sin tiempo para morir (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" grupo -title="Pelis 3" type="película" , Sin tiempo para morir (2021) 
 http://144.217.70.79/VODS-M/1080P/No%20Time%20to%20Die%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="Pelis 3" type="movie", Reminiscencia (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="Pelis 3" type="película", Reminiscencia (2021) 
 http://144.217.70.79 /VODS-M/1080P/Reminiscence%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg" group-title="Pelis 3" type="movie", Halloween (1978) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg" group-title="Pelis 3" type="película", Halloween (1978) 
 http://144.217.70.79/VODS-M/1080P/Halloween%201978.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="Pelis 3" type="movie" , Halloween 2 (1981) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="Pelis 3" type="película" , Halloween 2 (1981) 
 http://144.217.70.79/VODS-M/1080P/Halloween%202%201981.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WABfdeaThFYXCySGIOvRNv2sSW.jpg" group-title="Pelis 3" type="movie" ,Halloween 3 Temporada de la bruja (1983) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WABfdeaThFYXCySGIOvRNv2sSW.jpg" group-title="Pelis 3" type="película" ,Halloween 3 Temporada de la bruja (1983) 
 http://144.217.70.79/VODS-M/1080P/Halloween%203%20Season%20of%20the%20Witch%201983.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg" group-title="Pelis 3" type="movie" , Halloween 4 El regreso de Michael Myers (1988) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg" group-title="Pelis 3" type="película" , Halloween 4 El regreso de Michael Myers (1988) 
 http://144.217.70.79/ VODS-M/1080P/Halloween%204%20The%20Return%20of%20Michael%20Myers%201988.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rYvP6yMXCIVHnkVtwGaAXFmpzkB .jpg" group-title="Pelis 3" type="movie" , Halloween 5 La venganza de Michael Myers (1989) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rYvP6yMXCIVHnkVtwGaAXFmpzkB .jpg" group-title="Pelis 3" type="película" , Halloween 5 La venganza de Michael Myers (1989) 
 http://144.217.70.79/VODS-M/1080P/Halloween%205%20The%20Revenge%20of %20Michael%20Myers%201989.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg" group-title="Pelis 3" type="movie" , Halloween La maldición de Michael Myers (1995) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg" group-title="Pelis 3" type="película " , Halloween La maldición de Michael Myers (1995) 
 http://144.217.70.79/VODS-M/1080P/Halloween%20The%20Curse%20of%20Michael%20Myers%201995.mkv 
 
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg" group-title="Pelis 3" type="movie" , Halloween H20 (20 años después (1998) 
 http://144.217.70.79 /VODS-M/1080P/Halloween%20H20%2020%20Years%20Later%201998.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg" group-title="Pelis 3" type="movie , Amina (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg" group-title="Pelis 3" type="película" , Amina (2021) 
 http://144.217.70.79/VODS-M/1080P/Amina%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https:/ /image.tmdb.org/t/p/w500/poVoLKLxUqsTLSntA40Po2F78dZ.jpg" group-title="Pelis 3" type="movie", Desde París con amor (2010) 
+#EXTINF:-1 tvg-logo="https:/ /image.tmdb.org/t/p/w500/poVoLKLxUqsTLSntA40Po2F78dZ.jpg" group-title="Pelis 3" type="película", Desde París con amor (2010) 
 http://144.217.70.79/VODS-M/ 1080P/From%20Paris%20with%20Love%202010.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg" group-title="Pelis 3 " type="movie", Fuerza de la naturaleza (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg" group-title="Pelis 3 " type="película", Fuerza de la naturaleza (2020) 
 http://144.217.70.79/VODS-M/1080P/Force%20of%20Nature%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="Pelis 3" type="movie" , Blade Runner (2049 (2017) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="Pelis 3" type="película" , Blade Runner (2049 (2017) 
 http://144.217.70.79/VODS-M/1080P /Blade%20Runner%202049%202017.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" group-title="Pelis 3" tipo= "movie", Blade Trinity (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" group-title="Pelis 3" tipo= "película", Blade Trinity (2004) 
 http://144.217.70.79/VODS-M/1080P/Blade%20Trinity%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/rE3dBsEwBAfWoZvGRrBjCbTxNXD.jpg" group-title="Pelis 3" tipo="movie" , Blade 2 (2002) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/rE3dBsEwBAfWoZvGRrBjCbTxNXD.jpg" group-title="Pelis 3" tipo="película" , Blade 2 (2002) 
 http://144.217.70.79/VODS-M/1080P/Blade%202%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f6l9rghSHORkWLurUGJhaKAiyjY.jpg" group-title="Pelis 3" type="movie" , En busca de la felicidad (2006 ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f6l9rghSHORkWLurUGJhaKAiyjY.jpg" group-title="Pelis 3" type="película" , En busca de la felicidad (2006 ) 
 http://144.217.70.79/VODS-M/1080P/The%20Pursuit%20of%20Happyness%202006.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="Pelis 3" type="movie" , El Renacido (2015) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="Pelis 3" type="película" , El Renacido (2015) 
 http:// 144.217.70.79/VODS-M/1080P/The%20Revenant%202015.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg" group-title="Pelis 3" tipo="movie" , Paw Patrol La Película (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg" título del grupo ="Pelis 3" tipo="película" , Paw Patrol La Película (2021) 
 http://144.217.70.79/VODS-M/1080P/Paw%20Patrol%20The%20Movie%202021.mkv 
 
 #EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/rUgVTCBLnXngVlpOaVWZupxwmHZ.jpg" group-title="Pelis 3" type="película", Drácula AD (1972) 
@@ -3929,43 +3946,43 @@ http://144.217.70.79/VODS-M/1080P/The%20Harder%20They%20Fall%202021.mkv
 #EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg" group-title="Pelis 3" type="movie" , La educación de Fredrick Fitzell (Flashback) (2020) 
 http://144.217. 70.79/VODS-M/1080P/The%20Education%20of%20Fredrick%20Fitzell%20(Flashback)%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/rfQtqLHeisaQ4HlYtNremtUl9oP.jpg" group-title="Pelis 3" type="movie" , Gamer (2009) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/rfQtqLHeisaQ4HlYtNremtUl9oP.jpg" group-title="Pelis 3" type="película" , Gamer (2009) 
 http://144.217.70.79/VODS-M/1080P/Gamer%202009.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg" group-title="Pelis 3" type="movie", Las verdaderas aventuras de Wolfboy (2019) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg" group-title="Pelis 3" type="película", Las verdaderas aventuras de Wolfboy (2019) 
 http://144.217 .70.79/VODS-M/1080P/The%20True%20Adventures%20of%20Wolfboy%202019.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j04Oepj3LGTWSb1ltXm0pcy50Xq. jpg" group-title="Pelis 3" type="película" , Ejército de ladrones (2021) 
 http://144.217.70.79/VODS-M/1080P/Army%20of%20Thieves%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="Pelis 3" type="movie", Sigue (2014) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="Pelis 3" type="película", Sigue (2014) 
 http://144.217. 70.79/VODS-M/1080P/It%20Follows%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/52E0LGcMKHOO91P4j6hdHKVwITP.jpg" group-title=" Pelis 3" type="movie" , La casa profunda (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/52E0LGcMKHOO91P4j6hdHKVwITP.jpg" group-title=" Pelis 3" type="película" , La casa profunda (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Deep%20House%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" group-title="Pelis 3" type="movie" , La calavera (1965) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" group-title="Pelis 3" type="película" , La calavera (1965) 
 http://144.217.70.79/VODS-M/1080P /The%20Skull%201965.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kETYRGA15L0wkVPugSl8lKmSgFn.jpg" group-title="Pelis 3" type="movie" , Perro de Roca (2016) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kETYRGA15L0wkVPugSl8lKmSgFn.jpg" group-title="Pelis 3" type="película " , Perro de Roca (2016) 
 http://144.217.70.79/VODS-M/1080P/Rock%20Dog%202016.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kETYRGA15L0wkVPugSl8lKmSgFn.jpg" group-title="Pelis 3" type="movie", Rock Dog 2 Rock Around the Park (2021) 
 http://144.217.70.79/VODS-M/1080P/ Rock%20Dog%202%20Rock%20Around%20the%20Park%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg" título del grupo ="Pelis 3" type="movie", Cada respiro que tomas (Me perteneces) (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg" título del grupo ="Pelis 3" type="película", Cada respiro que tomas (Me perteneces) (2021) 
 http://144.217.70.79/VODS-M/1080P/Every%20Breath%20You%20Take%20(You% 20Belong%20to%20Me)%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg" group-title="Pelis 3" type= "película", Nadie duerme en el bosque esta noche 2 
 http://144.217.70.79/VODS-M/1080P/Nobody%20Sleeps%20in%20the%20Woods%20Tonight%202 %20(W%20lesie%20dzis%20nie%20zasnie%20nikt%202)%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vTPi1dtW5yrEsReRhIjk80KhUTW.jpg "group-title="Pelis 3" type="movie", Hipnótico (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vTPi1dtW5yrEsReRhIjk80KhUTW.jpg "group-title="Pelis 3" type="película", Hipnótico (2021) 
 http://144.217.70.79/VODS-M/1080P/Hypnotic%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/moUFIySnC5zhKoVeEcR4liyvstm.jpg" group-title="Pelis 3" type="movie" , Wolfen (1981) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/moUFIySnC5zhKoVeEcR4liyvstm.jpg" group-title="Pelis 3" type="película" , Wolfen (1981) 
 http://144.217.70.79/VODS-M/1080P/ Wolfen%201981.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="Pelis 3" type="movie" , No Respira 2 (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="Pelis 3" type="película" , No Respira 2 (2021) 
 http://144.217.70.79/VODS-M/1080P/Dont%20Breathe%202%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/ p/w500/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg" group-title="Pelis 3" type="movie" , Resurrección de Halloween (2002) 
@@ -3977,58 +3994,58 @@ http:/ /144.217.70.79/VODS-M/1080P/Halloween%209%202007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5AaKulwpUtkscAokKWtLenGTfVS.jpg" grupo- title="Pelis 3" type="película" , Batido de pólvora (2021) 
 http://144.217.70.79/VODS-M/1080P/Gunpowder%20Milkshake%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Pelis 3" type="movie" , Dune (1984) 
+#EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Pelis 3" type="película" , Dune (1984) 
 http://144.217.70.79/VODS-M/1080P/ Dune%201984.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5emgnXYrXjqyiup2JsvtuENseiV.jpg" group-title="Pelis 3" type="movie" , Virtuosidad (1995) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5emgnXYrXjqyiup2JsvtuENseiV.jpg" group-title="Pelis 3" type="película" , Virtuosidad (1995) 
 http://144.217.70.79/VODS-M/1080P/Virtuosity%201995.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6a1iqhfM0Y31kNPOSNPIuPrsYQ6. jpg" group-title="Pelis 3" type="movie", Polaroid (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6a1iqhfM0Y31kNPOSNPIuPrsYQ6. jpg" group-title="Pelis 3" type="película", Polaroid (2019) 
 http://144.217.70.79/VODS-M/1080P/Polaroid%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pxw27cuek8QPQI9yMd7Uugr85R8.jpg" group-title="Pelis 3 " type="movie", Stillwater (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pxw27cuek8QPQI9yMd7Uugr85R8.jpg" group-title="Pelis 3 " type="película", Stillwater (2021) 
 http://144.217.70.79/VODS-M/1080P/Stillwater%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="Pelis 3" type="movie" , Halloween 2 (H2) (2009) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/ t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="Pelis 3" type="película" , Halloween 2 (H2) (2009) 
 http://144.217.70.79/VODS-M/1080P/Halloween%202% 20(H2)%202009.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg" group-title="Pelis 3" type="movie" , Halloween (2018) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg" group-title="Pelis 3" type="película " , Halloween (2018) 
 http://144.217.70.79/VODS-M/1080P/Halloween%202018.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500 /y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg" group-title="Pelis 3" type="movie" , El contador de cartas (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Card%20Counter%202021.mkv 
 
-#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg" group-title="Pelis 3" type="movie", Dientes de noche (2021) 
+#EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg" group-title="Pelis 3" type="película", Dientes de noche (2021) 
 http:/ /144.217.70.79/VODS-M/1080P/Night%20Teeth%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" grupo- title="Pelis 3" type="movie" , El escuadrón suicida (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" grupo- title="Pelis 3" type="película" , El escuadrón suicida (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Suicide%20Squad%202021.mkv 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg" group-title="Pelis 3" type="movie", La casa de noche (2020) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg" group-title="Pelis 3" type="película", La casa de noche (2020) 
 http://144.217.70.79/VODS -M/1080P/La%20Noche%20Casa%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iQUj7MptHUlcXpaMLrqRNZRxGA9.jpg" group-title="Pelis 3" type="movie", El protegido (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iQUj7MptHUlcXpaMLrqRNZRxGA9.jpg" group-title="Pelis 3" type="película", El protegido (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Protege%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image. tmdb.org/t/p/w500/hKZ4ZVuHoph9bXZ0v9w9FmM20H3.jpg" group-title="Pelis 3" type="movie", Advertencia (2021) 
 http://144.217.70.79/VODS-M/1080P/Warning%202021. mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i8aR3usDzjSCeJ78ttHxNDCaEhc.jpg" group-title="Pelis 3" type="movie", Sueño de fiebre (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i8aR3usDzjSCeJ78ttHxNDCaEhc.jpg" group-title="Pelis 3" type="película", Sueño de fiebre (2021) 
 http://144.217.70.79/VODS-M/1080P/Fever%20Dream%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg "group-title="Pelis 3" type="movie", Ojos de serpiente GI Joe Origins (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg "group-title="Pelis 3" type="película", Ojos de serpiente GI Joe Origins (2021) 
 http://144.217.70.79/VODS-M/1080P/Snake%20Eyes%20GI%20Joe%20Origins%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/npcWz1YMEESjhgkdNY11M34PfcT.jpg" group-title="Pelis 3" type="movie", Cubo (1997) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/npcWz1YMEESjhgkdNY11M34PfcT.jpg" group-title="Pelis 3" type="película", Cubo (1997) 
 http: //144.217.70.79/VODS-M/1080P/Cube%201997.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bEqqwtwUP7lm56VyeVONhv9JtYu.jpg" group-title="Pelis 3" type="movie" , Cubo 2 Hipercubo (2002) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bEqqwtwUP7lm56VyeVONhv9JtYu.jpg" group-title="Pelis 3" type="película" , Cubo 2 Hipercubo (2002) 
 http://144.217.70.79/VODS-M/1080P/Cube%202%20Hypercube%202002.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p3t7ofvNlNhRkbAspiUe4ZdNcGA.jpg" group-title="Pelis 3" type="movie", Cubo Cero (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p3t7ofvNlNhRkbAspiUe4ZdNcGA.jpg" group-title="Pelis 3" type="película", Cubo Cero (2004) 
 http://144.217. 70.79/VODS-M/1080P/Cube%20Zero%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qfjGtlrMynBlkcLgNeziDTmm1M4.jpg" group-title=" Pelis 3" type="movie" , Hunter Hunter (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qfjGtlrMynBlkcLgNeziDTmm1M4.jpg" group-title=" Pelis 3" type="película" , Hunter Hunter (2020) 
 http://144.217.70.79/VODS-M/1080P/Hunter%20Hunter%202020.mkv 
 
 #EXTINF:-1 tvg-logo="https://imagen .tmdb.org/t/p/w500/kWhXubAiIcHW0xn5GThflqaKZqh.jpg" group-title="Pelis 3" type="movie", The Vault (Way Down) (2021) 
@@ -4037,22 +4054,22 @@ http://144.217.70.79/VODS-M/ 1080P/The%20Vault%20(Way%20Down)%202021.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dabXVfrAFfhDte8XVemom3mTJog.jpg" group-title= "Pelis 3" type="movie" , El viaje (I onde dager) (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Trip%20(I%20onde%20dager)%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg" group-title="Pelis 3" type="movie" , La batalla olvidada (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg" group-title="Pelis 3" type="película" , La batalla olvidada (2020) 
 http://144.217.70.79/VODS-M/1080P/The%20Forgotten%20Battle%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ir9eyz1mtgsohjvo7UYtqUfFuES .jpg" group-title="Pelis 3" type="movie", Halloween Kills (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ir9eyz1mtgsohjvo7UYtqUfFuES .jpg" group-title="Pelis 3" type="película", Halloween Kills (2021) 
 http://144.217.70.79/VODS-M/1080P/Halloween%20Kills%202021.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg" group-title="Pelis 3" type="movie", Ataque al bloque (2011) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg" group-title="Pelis 3" type="película", Ataque al bloque (2011) 
 http://144.217.70.79 /VODS-M/1080P/Attack%20The%20Block%202011.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title= "Pelis 3" type="movie", Antiguo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vclShucpUmPhdAOmKgf3B3Z4POD.jpg" group-title= "Pelis 3" type="película", Antiguo (2021) 
 http://144.217.70.79/VODS-M/1080P/Old%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg" group-title="Pelis 3" type="movie" , El peaje (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg" group-title="Pelis 3" type="película" , El peaje (2020) 
 http://144.217.70.79/VODS-M/1080P/The%20Toll% 202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="Pelis 3" type="movie" , Vaqueros (2020) ) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="Pelis 3" type="película" , Vaqueros (2020) ) 
 http://144.217.70.79/VODS-M/1080P/Cowboys%202020.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5Xz9A54GMf0AHCmtK19pR2QWsJd.jpg" group-title="Pelis 3" type="película" , Poseedor (2020) 
@@ -4061,61 +4078,61 @@ http://144.217.70.79/VODS-M/1080P/Possessor%202020.mkv
 #EXTINF:-1 tvg-logo="https:/ /image.tmdb.org/t/p/w500/GaPJQscaH4MtYQTbJyWjCUIho8.jpg" group-title="Pelis 3" type="movie" , Hay alguien dentro de tu casa (2021) 
 http://144.217.70.79/VODS-M/1080P/Hay%20Alguien%20Interior%20Tu%20Casa%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eNf7Dp1m6eTKDY7p56iZdterZkL.jpg " group-title="Pelis 3" type="movie" , La mansión (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eNf7Dp1m6eTKDY7p56iZdterZkL.jpg " group-title="Pelis 3" type="película" , La mansión (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Manor%202021.mkv 
 
-#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg" group-title="Pelis 3" type="movie", Madres (2021) 
+#EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg" group-title="Pelis 3" type="película", Madres (2021) 
 http://144.217.70.79/VODS-M /1080P/Madres%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vGcHyV9s1N2I7bJLSBODvqHTYLL.jpg" group-title="Pelis 3" type="movie ", Pokémon la Película Secretos de la Selva (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vGcHyV9s1N2I7bJLSBODvqHTYLL.jpg" group-title="Pelis 3" type="película ", Pokémon la Película Secretos de la Selva (2020) 
 http://144.217.70.79/VODS-M/1080P/Pokemon%20the%20Movie%20Secrets%20of%20the%20Jungle%202020.mkv 
 
-#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg" group-title="Pelis 3" type="movie", La mansión encantada de los Muppets (2021) 
+#EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg" group-title="Pelis 3" type="película", La mansión encantada de los Muppets (2021) 
 http://144.217.70.79 /VODS-M/1080P/Muppets%20Haunted%20Mansion%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eJ0q6GIac00TvanshEDREQ79mpz.jpg" group-title= "Pelis 3" type="movie", Ripper Untold (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eJ0q6GIac00TvanshEDREQ79mpz.jpg" group-title= "Pelis 3" type="película", Ripper Untold (2021) 
 http://144.217.70.79/VODS-M/1080P/Ripper%20Untold%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/izw41PkE8y891yraO6fN1tCNmOG.jpg" group-title="Pelis 3" type="movie", Mamá (2013) 
+#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/izw41PkE8y891yraO6fN1tCNmOG.jpg" group-title="Pelis 3" type="película", Mamá (2013) 
 http://144.217.70.79/VODS-M/1080P/Mama% 202013.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg" group-title="Pelis 3" type="movie" , Hombres lobo dentro ( 2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg" group-title="Pelis 3" type="película" , Hombres lobo dentro ( 2021) 
 http://144.217.70.79/VODS-M/1080P/Werewolves%20Within%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zm9WLu8x0UZXQVR6AuQHWbF9dp2 .jpg" group-title="Pelis 3" type="movie", Allan el perro (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zm9WLu8x0UZXQVR6AuQHWbF9dp2 .jpg" group-title="Pelis 3" type="película", Allan el perro (2020) 
 http://144.217.70.79/VODS-M/1080P/Allan%20the%20Dog%202020.mkv 
 
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/cwNeP2fz0vqNhmKIcSgLD0xc6g2.jpg" group-title="Pelis 3" type="movie", The Rundown (2003) 
+#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/cwNeP2fz0vqNhmKIcSgLD0xc6g2.jpg" group-title="Pelis 3" type="película", The Rundown (2003) 
 http://144.217 .70.79/VODS-M/1080P/The%20Rundown%202003.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hOdW30Yk3aAmiWGjbfeNJ316QQY.jpg" group-title= "Pelis 3" type="movie", Seis minutos para la medianoche (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hOdW30Yk3aAmiWGjbfeNJ316QQY.jpg" group-title= "Pelis 3" type="película", Seis minutos para la medianoche (2020) 
 http://144.217.70.79/VODS-M/1080P/Six%20Minutes%20to%20Midnight%202020.mkv 
 
-#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/lP7FIxojVrgWsam9efElk5ba3I5.jpg" group-title="Pelis 3" type="movie", La aventura del ewok (1984) 
+#EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/lP7FIxojVrgWsam9efElk5ba3I5.jpg" group-title="Pelis 3" type="película", La aventura del ewok (1984) 
 http://144.217.70.79/ VODS-M/1080P/The%20Ewok%20Adventure%201984.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ntgKdekb7xMKscyh2Hei706LBLf.jpg" group-title=" Pelis 3" type="movie", Los Ewoks La batalla por Endor (1985) 
 http://144.217.70.79/VODS-M/1080P/The%20Ewoks%20The%20Battle%20for%20Endor%201985.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nljjng1lu0UDl50zlVexUXvGrA .jpg" group-title="Pelis 3" type="movie" , Friendzone (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nljjng1lu0UDl50zlVexUXvGrA .jpg" group-title="Pelis 3" type="película" , Friendzone (2021) 
 http://144.217.70.79/VODS-M/1080P/Friendzone%202021.mkv 
 
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg" group-title="Pelis 3" type="movie", Nadie sale vivo (2021) 
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg" group-title="Pelis 3" type="película", Nadie sale vivo (2021) 
 http://144.217.70.79/ VODS-M/1080P/No%20One%20Gets%20Out%20Alive%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" grupo -title="Pelis 3" type="movie" , Crucero por la jungla (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" grupo -title="Pelis 3" type="película" , Crucero por la jungla (2021) 
 http://144.217.70.79/VODS-M/1080P/Jungle%20Cruise%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="Pelis 3" type="movie", Chico libre (2021) 
+#EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="Pelis 3" type="película", Chico libre (2021) 
 http://144.217.70.79/VODS-M/ 1080P/Free%20Guy%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg" group-title="Pelis 3" type="movie", Negro como la noche (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg" group-title="Pelis 3" type=" película", Negro como la noche (2021) 
 http://144.217.70.79/VODS-M/1080P/Black%20as%20Night%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg" group-title="Pelis 3" type="movie", LEGO Star Wars Cuentos terroríficos (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg" group-title="Pelis 3" type="película", LEGO Star Wars Cuentos terroríficos (2021) 
 http://144.217.70.79/VODS-M/1080P/LEGO% 20Star%20Wars%20Terrifying%20Tales%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pBeRHioTDNRlgIKzkOCSk0ihkLW.jpg" group-title="Pelis 3" tipo ="movie" , El culpable (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pBeRHioTDNRlgIKzkOCSk0ihkLW.jpg" group-title="Pelis 3" tipo ="película" , El culpable (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Guilty%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg" group-title="Pelis 3" type="movie" , Los muchos santos de Newark (2021) 
@@ -4127,16 +4144,16 @@ http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%202%202021.mkv
 #EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/heaz45kpFa4Oa7iLis0OBas68ls.jpg" group-title="Pelis 3" type="película", Matándolos suavemente (2012) 
 http://144.217.70.79/VODS-M/1080P/ Killing%20Them%20Softly%202012.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg" group-title="Pelis 3" type="movie", Sí hombre (2008) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg" group-title="Pelis 3" type=" película", Sí hombre (2008) 
 http://144.217.70.79/VODS-M/1080P/Yes%20Man%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg" group-title="Pelis 3" type="movie", El Estornino (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg" group-title="Pelis 3" type="película", El Estornino (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Starling%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg" group-title="Pelis 3" type="movie" , My Little Pony Una Nueva Generación (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg" group-title="Pelis 3" type="película" , My Little Pony Una Nueva Generación (2021) 
 http://144.217.70.79/VODS-M/1080P/My%20Little%20Pony%20A%20New%20Generation%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="Pelis 3" type="movie" , Escape Room (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="Pelis 3" type="película" , Escape Room (2021) 
 http://144.217.70.79/VODS-M/1080P/Escape%20Room% 202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="movie" , Space Jam A Nuevo legado (2021) 
@@ -4211,7 +4228,7 @@ http://144.217.70.79/VODS-M/1080P/Kate%202021.mkv
 #EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg" group-title="Pelis 3" type="movie", Los Voyeurs (2021) 
 http:/ /144.217.70.79/VODS-M/1080P/The%20Voyeurs%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg" group-title="Pelis 3" type="movie" , El jinete del dragón (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg" grupo- title="Pelis 3" type="movie" , El jinete del dragón (2020) 
 http://144.217.70.79/VODS-M/1080P/Dragon%20Rider%202020.mkv 
 
 #EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/dmswSI4RZ27MmYQFr5SMddxGdKf.jpg" group-title="Pelis 3" type="movie" , Paul (2011) 
@@ -4296,7 +4313,7 @@ http://144.217.70.79/VODS-M/1080P/Arctic%20Dogs%202019.mkv
 #EXTINF:-1 tvg-logo ="https://image.tmdb.org/t/p/w500/tM0hpWw3GONam6TKcMMciecHjhT.jpg" group-title="Pelis 3" type="movie" , El chico de al lado (2015) 
 http://144.217.70.79 /VODS-M/1080P/The%20Boy%20Next%20Door%202015.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nJJrceb2xHGIA0irADX0JvWSIHT.jpg"group-title="Pelis 3" type="movie" , El espía de al lado (2010) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nJJrceb2xHGIA0irADX0JvWSIHT.jpg" grupo- title="Pelis 3" type="movie" , El espía de al lado (2010) 
 http://144.217.70.79/VODS-M/1080P/The%20Spy%20Next%20Door%202010.mkv 
 
 #EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/gntsO8yN1xiFp1CldoJkk0jzxh7.jpg" group-title="Pelis 3" type="movie" , La Patrulla Fronteriza Pastora (2008) 
@@ -4335,7 +4352,7 @@ http://144.217.70.79/VODS-M/1080P/Good%20Luck%20Chuck%202007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t /p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Pelis 3" type="movie" , El sorprendente Hombre Araña 2 El ascenso del Electro (2014) 
 http://144.217.70.79/VODS-M/1080P/The% 20Amazing%20Spider%20Man%202%20Rise%20of%20Electro%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="Pelis 3" tipo="movie" , Spider-Man 3 (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" título del grupo ="Pelis 3" tipo="movie" , Spider-Man 3 (2007) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%203%202007.mkv 
 
 #EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Pelis 3" type="movie" , Spider-Man 2 (2004) 
@@ -4365,13 +4382,13 @@ http://144.217.70.79/VODS-M/1080P/Iron%20Man%202%202010.mkv
 #EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="Pelis 3" type="movie" , Iron Man (2008) 
 http://144.217 .70.79/VODS-M/1080P/Iron%20Man%202008.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uOCIrFOT4U9QXML3SLlpCxGs7BV.jpg" group-title="Pelis 3" tipo="movie", Línea de tiempo (2003) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uOCIrFOT4U9QXML3SLlpCxGs7BV.jpg" título-grupo= "Pelis 3" tipo="movie", Línea de tiempo (2003) 
 http://144.217.70.79/VODS-M/1080P/Timeline%202003.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb .org/t/p/w500/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg" group-title="Pelis 3" type="movie", Memorias de un asesino Las cintas de Nilsen (2021) 
 http://144.217.70.79/VODS-M/1080P /Memories%20of%20a%20Murderer%20The%20Nilsen%20Tapes%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg" group-title="Pelis 3" type="movie" , Los invisibles (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg" grupo- title="Pelis 3" type="movie" , Los invisibles (2007) 
 http://144.217.70.79/VODS-M/1080P/The%20Invisible%202007.mkv 
 
 #EXTINF:-1 tvg-logo="https: //image.tmdb.org/t/p/w500/sYjpJZEdwELjdHy4OVzazeJVT0z.jpg" group-title="Pelis 3" type="movie" , Predestinación (2014) 
@@ -4422,7 +4439,7 @@ http://144.217.70.79/VODS-M/1080P/Beckett%202021.mkv
 #EXTINF :-1 tvg-logo="https://image.tmdb.org/t/p/w500/4zFrnSerWypyhypXmifo2Rh1TQx.jpg" group-title="Pelis 3" type="movie", CODA (2021) 
 http://144.217.70.79/VODS-M/1080P/CODA%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" group-title="Pelis 3" type="movie" , El conjuro El diablo me obligó a hacerlo (2021) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" título del grupo ="Pelis 3" type="movie" , El conjuro El diablo me obligó a hacerlo (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Conjuring%20The%20Devil%20Made%20Me%20Do% 20It%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="Pelis 3" type="movie" , Infinita (2021) 
@@ -4569,13 +4586,13 @@ http://144.217.70.79/VODS-M/1080P/Sea%20Fever%202019.mkv
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/1NBVGBi8Z6MhJBAJ5SuRMqP7o3T.jpg" group-title="Pelis 3" type="movie", Diversión con Dick y Jane (2005) 
 http://144.217.70.79/ VODS-M/1080P/Fun%20with%20Dick%20and%20Jane%202005.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AudA8gnTWSBWXBHSBHnr3HHHUXXM.jpg" group-title="Pelis 3" type="movie" , El pequeño Nicky (2000) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AudA8gnTWSBWXBHSBHnr3HHHUXXM.jpg" grupo -title="Pelis 3" type="movie" , El pequeño Nicky (2000) 
 http://144.217.70.79/VODS-M/1080P/Little%20Nicky%202000.mkv 
 
 #EXTINF:-1 tvg-logo="https ://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="Pelis 3" type="movie", Trollhunters El ascenso de los titanes (2021) 
 http://144.217.70.79/VODS -M/1080P/Trollhunters%20Rise%20of%20the%20Titans%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" group-title="Pelis 3" type="movie" , Indiana Jones y el Reino de la Calavera de Cristal (2008) http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Kingdom%20of% 20the%20Crystal%20Skull%202008.mkv 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" grupo- title="Pelis 3" type="movie" , Indiana Jones y el Reino de la Calavera de Cristal (2008) http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Kingdom%20of% 20the%20Crystal%20Skull%202008.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg" group-title="Pelis 3" type="movie", Indiana Jones y la última cruzada (1989) 
 http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Last%20Crusade%201989.mkv 
@@ -4637,7 +4654,7 @@ http://144.217.70.79/VODS-M/1080P/Siberia%202020.mkv
 #EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="Pelis 3" type="movie, El Padrino III (1990) 
 http://144.217.70.79/ VODS-M/1080P/The%20Godfather%20Part%20III%201990.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" group-title="Pelis 3" type="movie" , El Padrino Parte II (1974) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" título del grupo ="Pelis 3" type="movie" , El Padrino Parte II (1974) 
 http://144.217.70.79/VODS-M/1080P/The%20Godfather%20Part%20II%201974.mkv 
 
 #EXTINF:-1 tvg- logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="Pelis 3" type="movie" , El Padrino (1972) 
@@ -4950,7 +4967,6 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
 https://cdn.adultiptv.net/pov.m3u8
 
