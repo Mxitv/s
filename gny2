@@ -253,7 +253,7 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="ECUADOR", DUENDE TV
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="ECUADOR", DURAN TV + 
-https://cloudvideo.servers10.com:8081/8074/index.m3u8 
+https://cloudvideo.servers10.com:8081/8074/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DSports 2 
 http://bgtv.xyz/play/play-777.php?ul=667&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="DOCUMENTALES", E! 
@@ -431,7 +431,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-453 tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="PERU" ,LimaVivo
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="ECUADOR" ,LORETO TV
-https://stmv1.painelcast.com/loretolive/loretolive/chunklist_w1734358261.m3u8 
+https://stmv1.painelcast.com/loretolive/loretolive/chunklist_w898144802.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",Lobo tv | HD
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1358609055.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",TV Lobo | HD
@@ -554,10 +554,8 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/k5JNFq2Y/oro.png" group-title="ECUADOR", OROMAR TV | SD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5JNFq2Y/oro.png" group-title="ECUADOR", Oromar TV | ECUADOR
-http://190.95.220.212:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="ECUADOR" ,ORBITA
-https://ssh101-fl.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7cf352e11229ca097e2ddfbfbe53192.webp" group-title="PERU", ONDA DIGITAL
 https://v4.tustreaming.cl/odtvgo/index.m3u8
 #EXTINF:-404 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hIa_LLCYSPa4U-Zs7a8teeWaKihATkL25w&s" group-title="VENEZUELA" ,OXIGENO TV
@@ -5564,4 +5562,5 @@ https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZONA 18 XXX", SELEN
 http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+
 
