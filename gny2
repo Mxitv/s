@@ -348,6 +348,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", FREE TV HD
 https://freetv.stream.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE Y SERIES",Film&Arts
+http://181.78.105.146:2000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JdM9swv/Gamavisi-n2018new.png" group-title="ECUADOR", GAMAVISION | SD
 https://stream-pull-a.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 #EXTINF:-13 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="ECUADOR", GAMAVISION | HD
@@ -540,8 +542,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
  #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqZbtGH6/NICKTEEN.png" group-title="NIÑOS Y ADOLECENTES", NICK TEEN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Lista 1", Nick 
-http://bgtv.xyz/play/play-777.php?ul=78&token=asdfasdf 
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="NIÑOS Y ADOLECENTES", Nick JR 
 http://181.78.105.146:2000/play/a04f/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="NIÑOS Y ADOLECENTES", Nick Toons 
@@ -1368,96 +1369,25 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/man
 #EXTINF:-1 tvg-id="ES | Escapa TV" tvg-name="ES | Escapa TV" tvg-logo="https://empresas.adamo.es/hubfs/ASJ/TV/Hubdb/Estilo%20de%20vida/escapatv.png" group-title="ESPAÑA", 1121 | Escapa TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",A&E
-http://190.60.38.114:1010/play/a085/index.m3u8 
 #EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",AMC 
-http://190.60.38.114:1010/play/a047/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",ANIMAL PLANET 
-http://190.60.38.114:1010/play/a06t/index.m3u8
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",AXN 
-http://190.60.38.114:1010/play/a08q/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",AXN 
-http://190.60.38.114:1010/play/a02e/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CABLE NOTICIAS 
-http://190.60.38.114:1010/play/a082/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CANAL 1 
-http://190.60.38.114:1010/play/a08m/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CARACOL 
-http://190.60.38.114:1010/play/a07f/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",CINECANAL 
-http://190.60.38.114:1010/play/a046/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CITY TV L.D.E. 
-http://190.60.38.114:1010/play/a09n/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CRISTOVICION 
-http://190.60.38.114:1010/play/a08o/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",Canal 1 
-http://190.60.38.114:1010/play/a08l/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png"group-title="CINE Y SERIES",DE PELICULAS 
-http://190.60.38.114:1010/play/a08f/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",DISCOVERY 
-http://190.60.38.114:1010/play/a076/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",DISCOVERY TURBO LISTA DE EMERGENCIA 
-http://190.60.38.114:1010/play/a09m/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",DISNEY YUNIOR 
-http://190.60.38.114:1010/play/a08r/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery H&H 
-http://190.60.38.114:1010/play/a06q/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",Discovery Kids 
-http://190.60.38.114:1010/play/a06p/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery Theater 
-http://190.60.38.114:1010/play/a06r/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery Turbo 
-http://190.60.38.114:1010/play/a08e/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery World 
-http://190.60.38.114:1010/play/a06s/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",Disney Channel 
-http://190.60.38.114:1010/play/a08d/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",Disney 
-http://190.60.38.114:1010/play/a043/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",Disney Junior 
-http://190.60.38.114:1010/play/a05g/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",E! 
-http://190.60.38.114:1010/play/a04f/index.m3u8
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Golden 
-http://190.60.38.114:1010/play/a04d/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",History 2 
-http://190.60.38.114:1010/play/a04j/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",History Channel 
-http://190.60.38.114:1010/play/a02a/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",ID 
-http://190.60.38.114:1010/play/a06o/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="MEXICO",Las Estrellas 
-http://190.60.38.114:1010/play/a08k/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Love Nature 
-http://190.60.38.114:1010/play/a08u/index.m3u8 
-#EXTINF:-1 group-title="DOCUMENTALES",Nat Geo 
-http://190.60.38.114:1010/play/a045/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",RCN 
-http://190.60.38.114:1010/play/a086/index.m3u8
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",STAR CHANNEL 
-http://190.60.38.114:1010/play/a02l/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Sony 
-http://190.60.38.114:1010/play/a02c/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Space 
-http://190.60.38.114:1010/play/a07y/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Studio Universal 
-http://190.60.38.114:1010/play/a094/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Studio Universal 
-http://190.60.38.114:1010/play/a049/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",Sun Channel 
-http://190.60.38.114:1010/play/a077/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",TELEPACIFICO 
-http://190.60.38.114:1010/play/a081/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",TNT 
-http://190.60.38.114:1010/play/a07z/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",TNT Series 
-http://190.60.38.114:1010/play/a07x/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="MEXICO",Telenovelas 
-http://190.60.38.114:1010/play/a08i/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",UNIVERSAL CHANNEL 
-http://190.60.38.114:1010/play/a02m/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Win Sports 
-http://190.60.38.114:1010/play/a02g/index.m3u8
+http://185.189.225.150:85/AMC/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",paramount HD 
+http://185.189.225.149/paramount/index.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",boing HD 
+http://185.189.225.150:85/boing/index.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="NIÑOS Y ADOLECENTES",BABY TV
+http://185.189.225.149/BabyTV/index.m3u8
+#EXTINF:-1 grupo-título="COSTA RICA", mega
+http://185.189.225.149/mega/index.m3u8
+#EXTINF:-1 título del grupo="MUSICA", MTVHits
+http://185.189.225.157/MTVHits/index.m3u8
+#EXTINF:-1 group-title="ESPAÑA", nova
+http://185.189.225.157/nova/index.m3u8
+#EXTINF:-1 group-title="NIÑOS Y ADOLECENTES", panda
+http://185.189.225.150:85/panda/index.m3u8
+#EXTINF:-1 group-title="ESPAÑA", ¡HOLA! PLAY
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",Beetlejuice Beetlejuice (2024) CAM 
@@ -5562,7 +5492,6 @@ https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZONA 18 XXX", SELEN
 http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
-
 
 
 
