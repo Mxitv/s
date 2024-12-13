@@ -762,7 +762,7 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
-http://45.228.234.167:8000/play/a03r/index.m3u8
+https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="VENEZUELA" ,TELESUR EC
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="ECUADOR" ,TELESUR EC
@@ -5504,6 +5504,8 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
 #EXTINF:-1 group-title="PELIS ANIMADAS" type="movie" tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg",Susurros del Corazon
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJv2-w3aDF5qFos80Tlk7PXan8gXkRtI8VDw&s",Django
+https://zte054upd8.guardstorage.net/hls_3/PODm7cHDt-66hCI8h4m35qj2WWmgiJctY3QlmnE4AV-rLj7584COR9QraWmDCyY4J2FG45W5tD_KzgmsJMqoL6tpaCYLAFqsGyFHSW_gqMExmjmLHEyxgbSt8NnfrZTNdQMd2TD6vipHkiFkYSXD_14WBnMm-A6lylZJkM3fmMLAXUSnlgLCNgYngxClAcm0QyWb4C6yDw-KnIhCUe7u_Q/master.m3u8?sig=ZaOMjUjEPqMtFVfX-VYaUA&expires=1734126471
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
@@ -5639,3 +5641,7 @@ https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZONA 18 XXX", SELEN
 http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+
+
+
+
