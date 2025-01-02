@@ -503,6 +503,8 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTINF:-190 tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="COLOMBIA", Multicanal | SD
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 #EXTINF:-289 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8snrz6a7tTcg29UUpirGBQIRVZkYCqAfToF9fdEVvEbDf6NlD0AFU44qqZfJf_mXoXI&usqp=CAU" group-title="COLOMBIA" , Multizona tv  HD
+https://panel.host-live.com/825000/825000/.m3u8
+#EXTINF:-289 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_CVweXyKOSjaCUuZVQjXZA1D6aPuYUjBvi6k31ggfgCzxBqhvv2T2LZWIcmk8tkrM6E&usqp=CAU" group-title="COLOMBIA" , Multivision tv  HD
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="MEXICO", Multimedios 
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -732,7 +734,7 @@ https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas 
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(xeKa4DNMoO2lL9Xrgocs94FDAWQhMwtPY_AJBgFhDfMukTsQNvZXw5K93BoOK4-KE7isBWq5xXRQJ8RNeVAnqTTKur6OPsvY7GDq_q89SA4XUiRnJKZK6V9BElpdj0Hz)/dm/3/x7wijay/d/live-480.m3u8
+https://live-b.cf.dmcdn.net/sec2(743WkO8bFt1qOIr3WncEeTPC1DeH_pBi6rIyc72EkQGGBrXuTv2qv5eo2livWZLAPVcJ61fCghmv_Xmj09WySztPx9SKyXXzK6rxwMepRu77lwgAL8kgtde4jR50TAW8)/dm/3/x7wijay/d/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
@@ -5506,8 +5508,47 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJv2-w3aDF5qFos80Tlk7PXan8gXkRtI8VDw&s",Django
 https://zte054upd8.guardstorage.net/hls_3/PODm7cHDt-66hCI8h4m35qj2WWmgiJctY3QlmnE4AV-rLj7584COR9QraWmDCyY4J2FG45W5tD_KzgmsJMqoL6tpaCYLAFqsGyFHSW_gqMExmjmLHEyxgbSt8NnfrZTNdQMd2TD6vipHkiFkYSXD_14WBnMm-A6lylZJkM3fmMLAXUSnlgLCNgYngxClAcm0QyWb4C6yDw-KnIhCUe7u_Q/master.m3u8?sig=ZaOMjUjEPqMtFVfX-VYaUA&expires=1734126471
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/484354d0bf71b7124267aa78a641730019f82d9a5228c5b7c0c03e5500b20de3.jpg",la-muerte-viaja-a-caballo
+https://7mph08a3pw.guardstorage.net/hls_3/d5Jy5JbEh9vKrnW0DAY37ZUImFY1P-r5s5mFzXcpDHczH44dANoSQcc7vHeOP-zY2e3u7dkXEjWavfnsWGkrZp1n-mkF_gS1an1vWSYxGkj1T9CAeE7DoHT-oyipZ4nFt5pKTwT1BTrAiN7Z-fef6XifG_jk5T4Bv6mEVIE8VezfnbIyTPV34JnapB3l8txADENd71-7kF-xsiZKFLiTlQ/master.m3u8?sig=9TCLUraZMttzZJ3pxhwHSw&expires=1735843600
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", PlayboyX Tv
+http://live.redtraffic.xyz/latina.m3u8
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", Dusk
+http://live.redtraffic.xyz/milf.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", Juice
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", You Porn
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", VENUS
+http://live.redtraffic.xyz/interracial.m3u8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
 https://cdn.adultiptv.net/pov.m3u8
 
@@ -5516,21 +5557,6 @@ https://cdn.adultiptv.net/pornstar.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
 https://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/bX-tSUxSylEPRpQtYg6ztA/21/1730097331/index.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/PdD1eSXpeRVvrGTQsHYbJg/11/1730097399/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", FAP TV 2
-https://s.oxax.tv/3CGT_2wOqJMDQrr1ni3nnw/35/1730097451/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XXX",Penthouse gold HD 
-https://s.oxax.tv/WMNi6nvsmoXcuDb9mXxrIQ/39/1730097521/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", XXPLUS 
-https://s.oxax.tv/f5SlEtqW2h-QgbG0cmc_rg/47/1730097586/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XXX", LiveCams 
 http://cdn.adultiptv.net/livecams.m3u8 
@@ -5641,7 +5667,3 @@ https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZONA 18 XXX", SELEN
 http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
-
-
-
-
