@@ -737,8 +737,10 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas QUITO
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas GYAQUIL
+https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/b545dc57-91af-4f6b-bac7-8d9337166407.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
 https://live-b.cf.dmcdn.net/sec2(2vtZYnIHAad6uOHm-9CqqAiTJzXAdOTDfuoiKm9e5i8hRrM4PYCHGm4DcatFCPKC0J-9n-ljGlEyU104uc-LWBxtAXzXmSbnxOXNQ0_hRNZ-yMmC9e_z4A_IokE5WEZB)/dm/3/x7wijay/d/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
