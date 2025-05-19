@@ -689,6 +689,12 @@ https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/p
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png"group-title="ECUADOR", Radio América  Quito
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3YAeVQruG2orebY4kKmIamsEQlvfcogaoQ&s"group-title="CINE Y SERIES", RUM TIME CINE
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3YAeVQruG2orebY4kKmIamsEQlvfcogaoQ&s"group-title="CINE Y SERIES", RUM TIME ACCION
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3YAeVQruG2orebY4kKmIamsEQlvfcogaoQ&s"group-title="CINE Y SERIES", RUM TIME ANA Y LOS 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3874
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png"group-title="ARGENTINA", Santa fe tv
 https://playback2.akamaized.net/streams/22636012_8242619_lsij943v6ghwi7gf445_1/master.m3u8?dw=14400&hdnts=exp=1726846856~acl=/streams/22636012_8242619_lsij943v6ghwi7gf445_1/master.m3u8*~hmac=174505026c1bd50d656f0ea66da70a5754c17276f1b664445f5f3d3ac8310709
 #EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="COLOMBIA", Senal Colombia 
