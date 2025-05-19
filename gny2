@@ -256,6 +256,8 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="ECUADOR", DURAN TV + 
 https://cloudvideo.servers10.com:8081/8074/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/WDBQ5l" group-title="MUSICA", EXA TV + 
+https://mvs-live.daioncdn.net/exatv/exatv.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="DOCUMENTALES", E! 
 http://181.78.105.146:2000/play/a03i/index.m3u8 
 #EXTINF:-410 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" , ESTRELLA TV
@@ -835,8 +837,6 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 http://190.60.38.114:1010/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="CINE Y SERIES", TNT Series ᵸᴰ 
 http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Lista 1", TNT Deportes 
-http://bgtv.xyz/play/play-777.php?ul=509&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="PERU", 53 | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8 
 #EXTINF:-389 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES" , TUDN (México)
@@ -902,14 +902,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSICA", VEVO LATIN
 https://d3k7iagvenqkpa.cloudfront.net/720p/index.m3u8
 #EXTINF:-16 tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="MUSICA", Venus Media | SD
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8 
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG2fpKN4/image.png" group-title="ECUADOR",VENTANAS TV | FHD
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-157 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91ce8a6df9674a7ff01fa203cdca71c9.webp" group-title="VENEZUELA", VEPACO TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-178 tvg-logo="" group-title="VENEZUELA", VENEVISIÓN TV
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
- #EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="ECUADOR", Vos y la tV ᵸᴰ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="ECUADOR", Vos y la tV ᵸᴰ 
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="MUSICA", 309 | VM Latino
 https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530 
@@ -917,6 +917,8 @@ https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8?manifestfilter
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-178 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA", VISIÓN DORADA TV
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-178 tvg-logo="https://acortar.link/IHGOIN" group-title="MUSICA", VISIÓN TV
+https://cloudpro.servidoresdestream.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PERU", Vía Alto Mayo Televisión || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RmVjjd1/VIVA-TV-alpha-mayor-tama-o.png" group-title="PERU", viva tv
@@ -962,6 +964,7 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-78 group-title="ECUADOR" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/10045.v12.png",538 RADIO
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SV | Canal 4" tvg-name="SV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 817 | Canal 4 || EL SALVADOR
