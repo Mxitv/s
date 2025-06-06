@@ -482,8 +482,8 @@ https://eu1.servers10.com:8081/8214/index.m3u8
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/TdvXGBreTYyJZiwX63BRIA/stream/aba00883-1303-4c27-8750-acb91abe7170:CBF2/variant/4391a7b407903ed9bd54764f8d2a7cfd/bandwidth/1075800.m3u8?uid=CVRRLaPHm73MvHbj5WkcP0jOWdxcwI6u&sid=Kbd1G8Unliw3e62LDYL2i43xjqmpWvRz&pid=9zYbnzoE79vMEow2FIZokJX08u6CL8IO&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=YxbewdhzIUOs5Ok8nKSHtYymL4pHQrGgu3wllVn0b3kXk1vC7L2CO6OeJfCp4BVbP1uxCRwQXhT&adInsertionSessionId=b370fd94-ca9b-47ab-952c-af34b2c42a57&ote=1724706876285&ot=FN4Az6W9w6-bDxI2h8bxkA&es=us-b4-p-e-nq15.cdn.mdstrm.com&proto=https&pz=us&aid=53bc2bcae41e2d9c662e1ba7 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="COSTA RICA", Mega 
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
-#EXTINF:-407 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="BOLIVIA" ,MEGA TV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-407 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="BOLIVIA" ,MEGAzine TV
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MEXICO", Miami TV 
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/.m3u8
 #EXTINF:-439 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="MUSICA",Miamitv music
