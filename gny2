@@ -748,12 +748,7 @@ https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas QUITO
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas GYAQUIL
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-c.cf.dmcdn.net/sec2(ZPgR9V3qkDQNyBQA_-0Az07blMOyH-b_n6KvxVqNdg14I1C4Peu6CDSMG4ghkGeLtmILdOOd2kl9QiTAXyUSrHElKelNxUFy1GLyIGFY10ANYYEkGWUakPNDg8Hxl8nK)/dm/3/x7wijay/d/live-480.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
