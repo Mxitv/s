@@ -80,7 +80,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="NIÑOS Y ADOLECENTES", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="BOLIVIA", Bolivisión 
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8 
+https://live.airstream.run/alba-bo-bolivision-bolivision/480p.m3u8 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/tKLYYys.png" ,Bolivia tv | SD 
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tZRNGMp/BHTV-en-vivo-Online.png" group-title="NOTICIAS", B N TV | HD
@@ -746,7 +746,7 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1  tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="MUSICA", Sanjuanera Televisión || Moyobamba
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
-https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+https://live.airstream.run/alba-ec-tvc-tvc/live_0.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas QUITO
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas GYQUIL
