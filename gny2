@@ -455,7 +455,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-219 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/2/LoveNature_TypeMask_FINAL_thumbnail.jpg" group-title="DOCUMENTALES", LOVE NATURE
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FcvG9o4XkAA0g8v?format=png&name=240x240" group-title="PERU", Mas 1 Televisión || Moyobamba
@@ -566,7 +566,7 @@ https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/k5JNFq2Y/oro.png" group-title="ECUADOR", OROMAR TV | SD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="ECUADOR" ,ORBITA
-https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/OrbitaFM953/playlist.m3u8
 #EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7cf352e11229ca097e2ddfbfbe53192.webp" group-title="PERU", ONDA DIGITAL
 https://v4.tustreaming.cl/odtvgo/index.m3u8
 #EXTINF:-404 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hIa_LLCYSPa4U-Zs7a8teeWaKihATkL25w&s" group-title="VENEZUELA" ,OXIGENO TV
