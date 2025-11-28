@@ -1510,7 +1510,9 @@ http://190.60.38.114:1010/play/a02m/index.m3u8
 #EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Win Sports 
 http://190.60.38.114:1010/play/a02g/index.m3u8
 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://i.ebayimg.com/images/g/UNAAAOSw1vlUtP69/s-l400.jpg",CASPER 2 CAM 
 
+https://vod-ltweb.yamyday.com/vod/4B34FAD8282B44628D4E12DEA5593DD1_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-ltweb.yamyday.com%26app_id%3Dcom.global.latinowebs%26trans_id%3DBUNL8wop6QBx_H23vIuwxVSQN%26app_version%3D10102%26client_ip%3D34.150.153.88%26dev_id%3Db50e47036d31b20c8444eb5ab39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26user_id%3D23983871%26expired%3D1764306297%26token%3D974b91fe0448be2b913a48861efc8847&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.latinowebs%26media_code%3D4B34FAD8282B44628D4E12DEA5593DD1%26expired%3D1764306297%26token%3Dd45a28b765196edd7937c637b812f462
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2OTY4MDk4NF5BMl5BanBnXkFtZTcwMzA0NzExNw@@._V1_.jpg",FULL METAL CAM 
 https://vod-ltweb.yamyday.com/vod/8DABB2CE9CED46C8ADC4D3C0F0B8F94D_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-ltweb.yamyday.com%26app_id%3Dcom.global.latinowebs%26trans_id%3Dnh8Gwe8mVaL4_xuISd8OgHpbX%26app_version%3D10102%26client_ip%3D34.150.153.88%26dev_id%3Db50e47036d31b20c8444eb5ab39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26user_id%3D23983871%26expired%3D1764304344%26token%3D2c2bb54f2d8c0fac14cc9a68a8d28f48&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.latinowebs%26media_code%3D8DABB2CE9CED46C8ADC4D3C0F0B8F94D%26expired%3D1764304344%26token%3D75b19f3d001e3d97cc49bbd69086072d
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",Beetlejuice Beetlejuice (2024) CAM 
