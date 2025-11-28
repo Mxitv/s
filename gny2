@@ -241,7 +241,7 @@ http://bgtv.xyz/play/play-777.php?ul=30&token=asdfasdf
  #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Lista 1", Disney Junior ᵸᴰ 
 http://181.78.105.146:2000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Lista 1", Disney XD 
-http://bgtv.xyz/play/play-777.php?ul=31&token=asdfasdf 
+https://live-latinoweb.yamyday.com/live/cyx_36500962871796188.m3u8?content_auth2=user_id%3D23983871%26app_id%3Dcom.global.latinowebs%26client_ip%3D45.224.152.78%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3Dc9whVUIXnads%26dev_id%3Db39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26link%3Dcf%26spared_addr%3D%26app_ver%3D10102%26main_addr%3Dhttps://live-latinoweb.yamyday.com/v3/youshi/%26expired%3D1764302276%26tag%3De9b37d%26check_play_ip%3Dtrue%26token%3DB9A764249FF7DA9B2F4CFCE7D9D2916A&content_license2=app_id%3Dcom.global.latinowebs%26tag%3De9b37d%26scheme%3Dmd5-01%26media_code%3Dcyx_36500962871796188%26expired%3D1764891089%26token%3DB69BC43A34B9444DD781CEB819188CD4&timestamp=1764289372584
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="MEXICO",Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/71oc1G" tvg-id="DistritoComedia.mx"group-title="MEXICO",Distrito Comedia (576p)
