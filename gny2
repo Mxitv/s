@@ -265,7 +265,7 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="ARGENTINA", El 13 Argentina 
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="DEPORTES", El Canal Del Futbol 
-http:// bgtv.xyz/play/play-777.php?ul=892&token=asdfasdf 
+https://live-latinoweb.yamyday.com/live/cyx_EEBC94D34AB680F7_480p.m3u8?content_auth2=user_id%3D23983871%26app_id%3Dcom.global.latinowebs%26client_ip%3D45.224.152.78%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3Dc9whVUIXnads%26dev_id%3Db39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26link%3Dcf%26spared_addr%3D%26app_ver%3D10102%26main_addr%3Dhttps://live-latinoweb.yamyday.com/v3/youshi/%26expired%3D1764302276%26tag%3De9b37d%26check_play_ip%3Dtrue%26token%3DB9A764249FF7DA9B2F4CFCE7D9D2916A&content_license2=app_id%3Dcom.global.latinowebs%26tag%3De9b37d%26scheme%3Dmd5-01%26media_code%3Dcyx_EEBC94D34AB680F7_480p%26expired%3D1764891089%26token%3DC334DC0CB822416D991B41079031AB52&timestamp
 #EXTINF:-39 tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png" group-title="CINE Y SERIES", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88- ck-c0x00ffffff-no-rj" group-title="DEPORTES", 232 | El Garaje TV
