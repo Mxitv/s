@@ -485,9 +485,9 @@ https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:-407 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="BOLIVIA" ,MEGAzine TV
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MEXICO", Miami TV 
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:80302/playlist.m3u8
 #EXTINF:-439 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="MUSICA",Miamitv music
-https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
+https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1091869129_b5096000.m3u8
 #EXTINF:-1 tvg-logo="https://nwsdjs.com/wp-content/uploads/2024/02/DJ2RO-LOGO-BLACK-AND-GOLD.png" group-title="MUSICA", MiamitvDJ
 https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PERU", Millenium TV || Lamas
@@ -5666,13 +5666,13 @@ http://201.159.113.219:49000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI VIP
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
+https://59ec5453559f0.streamlock.net/miamitvmodels/smil:529634/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI GOLD
-https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/.m3u8
+https://59ec5453559f0.streamlock.net/miamitvgold/smil:19869/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI FASHION
-https://59ec5453559f0.streamlock.net/miamitvfashion/fashion/.m3u8
+https://59ec5453559f0.streamlock.net/miamitvfashion/smil:34256/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI LIFE
-https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/.m3u8
+https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ZONA 18 XXX", teen anal invasion sex
 https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
