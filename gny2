@@ -601,7 +601,9 @@ http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="CINE Y SERIES", PARAMOUNT NETWORK HD
 http://45.179.164.30:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ", Pasiones 
-http://200.59.188.3:8000/play/a00x 
+http://200.59.188.3:8000/play/a00x
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ", Pasiones
+https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00375-fusemediafast-somosnovelas-fuseus/cb57381b6570678a84cb3a64cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fdb30e44d968a7b9011bc02941fa83439fd401b2d1820a83178074a0419995a58cd3178be4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a513e8264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206eabb0711647f14807b4bb5a879280e9d34e2a8d1725c861887/9/1280x720_3343260/index.m3u8
 #EXTINF:-23 tvg-logo="https://i.postimg.cc/L6ptNDNw/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis | HD
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 #EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
