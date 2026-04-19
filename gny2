@@ -99,8 +99,6 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w463973390.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , Canal de las Estrellas ᵸᴰ 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="MEXICO" , Canal de las Estrellas
-http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="ECUADOR",LAS ESTRELLAS INTER
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-341 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png",CANTINA TV
@@ -570,12 +568,13 @@ https://v4.tustreaming.cl/odtvgo/index.m3u8
 #EXTINF:-404 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hIa_LLCYSPa4U-Zs7a8teeWaKihATkL25w&s" group-title="VENEZUELA" ,OXIGENO TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-76 tvg-logo="https://lc.cx/2aTtXY" group-title="PERU",PANAMERICANA| HD
-https://sae11.playlist.live-video.net/v1/playlist/CrIFQqzk8KNbjBB-JC-hrglpAUXlI6O4ewt1lWEFqBHACPGebvrgAY3pbWVDMEH2NmErJax4Hu0xJ2HHHLiTKillF2lYn-Bp5zGdN2jUukmqsmok8E2HWpX0oSJgspWrOQP8PF3OtFwuqgj9ImmvANojqsXLZCjVk_wNXmX-jxDAbolrMi0CYOYXUHb6TWBBm5wZMaCeQQLSL0V8Lb7ix6FzGOSd0PJlPA4H3CHmts_y6RtVcO8Gke3dkzOMCSS9TG71_gJcJ20ZkAp_oVfijitGAOA8M02rLRsefchE2J4uOYWaPGtMJ9Km4wvdakzvCuqoo9GG6ooKQgobqQIY5c62iar8CzDMYaCer3IgvEoES4FiP7tuBmWa64LqByIx3Ks8DiYjfQ2lLCI-yn2HuriqDmerkKHMhxL8YFh0pEMnyh2_kl3RsOYXo2ry4-5Dz-oeKrXsTILPdpCjxgz2-ZttClQ28qrhTqBFhJVUdfNSMtiA-8QfWA3P4dySmTqg-UXIz4ZHoE00epGv1w35BnkGDqhRCFLmxMRVn6-_Ep7Rek58cwztWdy7ox2mvYa8Jz97ZEmIl8j-I5hTRQrs-uoHD50z8WuuLXakWMclEGbkvUQr2Z_NyFraiItALl8wHHqY6tej0lgNeI-RoPcbQCJmXSi24UepjWwolYmaSTXcxRZHEB-W9na7SQzmxQsS9XTI37rL73v4I-cZhhlTmPwY4bUq0BHqX3mbBRG_5Z393lapyY_BN3MC14kn3f2_G3syS0uSHEcVufVk3cwlQ3iJxi2-c010Eu59_wgx-C2VkXF0ZodapBGsgSpTbn6bTrZmCXYVkvddboZmlUpAhluXQ60sUcM3OqMoeESxlpid5H38cq9YbrzHf1hYfsMEz7M7tFSJbq12Me7EbAIBemHuwWB1GgwtE7bJaZkmwPf95XQgASoJdXMtZWFzdC0yMIUM.m3u8
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SnObcKtKq69K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvU25PYmNLdEtxNjlLIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc0OTQzNDQxOX0.F-4IxPuT58zY1BsbCCg8hc13Q2r_GUuu9qPKXUbjUxkKMCLyQIjX947BihyE7e9MfAC0zEmcekYH21kQOZR8RMlMbZrGcHH--UTahIRt6u_WXQsOONfkDTJ6HwAZLlBY&player_version=1.19.0
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(3fz_ysEJLMNkXZWaarXc0J6MSPozjFMZ7GCFNewljFMCchnggJUmamSFg4sdyamV0BSK6izpnFDxnc8keIDJcSl6sWKPMM7K3fYypoo5fzwHVA0F_v5Th_e6YqhfZDOK)/cloud/3/xa50i1c/s/live-720.m3u8
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU",  Peru TV | SD
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
+https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="PERU", 16 | Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES", PLUTO TV NATURALEZA
@@ -638,6 +637,8 @@ https://cloudvideo.servers10.com:8081/8154/index.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://regionalradiotv.com/wp-content/uploads/2022/08/cropped-REGIONAL-RADIO-TV-Transparente.png" group-title="MUSICA",REGIONAL TV (HD)
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist_w1637404953.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/JZdYdC" group-title="PERU",REGION TV (HD)
+https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="NIÑOS Y ADOLECENTES",  Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="MUSICA",  Retro PLUS
