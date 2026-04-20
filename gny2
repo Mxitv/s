@@ -807,6 +807,8 @@ https://master.tucableip.com/dtvsc/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PUERTO RICO", TELEMUNDO HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PUERTO RICO", TELEMUNDO ACCION
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", Televisión popular
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 EXTINF:-1 group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" tvg-logo="",Tierra De Amor Y Venganza ²⁴⁺⁷
@@ -950,7 +952,9 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(inIXWoTX94DZbsNsWV6NCFAscrwKGh_FdUw8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="CINE Y SERIES", 86 | Warner Channel
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports ᵸᴰ
-http://190.60.38.114:1010/play/a02g/index.m3u8
+https://rm8zcvk3.fubohd.com/winsports/mono.m3u8?token=1ebe356e43a844c59e73c9aa8059d0e9161b0adb-ce-1776665559-1776647559
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports PLUS ᵸᴰ
+https://cgxheq.fubohd.com/winsports/mono.m3u8?token=99575f1ad2657ac8ab51e8d306289b790977e037-88-1776665348-1776647348
 #EXTINF:-181 tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="ECUADOR", Wuan plus | HD
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 #EXTINF:-1 group-title="NICARAGUA", WTV Nicaragua
