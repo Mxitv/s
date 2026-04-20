@@ -121,7 +121,9 @@ http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="NIÑOS Y ADOLECENTES", Cartoon Network ᵸᴰ 
 http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="NIÑOS Y ADOLECENTES", Cartoonito 
-http://177.53.153.20:8001/play/a05h/index.m3u8 
+http://177.53.153.20:8001/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5422806b245e7d27eb68d97344a68113.webp" group-title="NIÑOS Y ADOLECENTES", Canela kids
+https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
 #EXTINF:-299 tvg-logo="https://plataformas.news/online/nota_thema-lanza-vive-kanal-d-drama-en-espana-.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" ,Canal del drama
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="PERU", CR Televisión || Moyobamba
@@ -195,7 +197,7 @@ http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-17 tvg-logo="https://n9.cl/mxitv" group-title="RELIGIOSOS", Cristo tv | SD
 https://ssh101-fl.bozztv.com/ssh101/cristotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="DEPORTES", Claro Sports Colombia 
-http://181.78.105.146:2000/play/a053/index.m3u8 
+https://en-vivo.clarosports.com/en-vivo-sud/index_960x540_2000k_20251224T192622.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="DEPORTES", Canal 13 España | SD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS",CNN en Español
