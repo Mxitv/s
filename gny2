@@ -289,27 +289,23 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-209 tvg-logo="https://i.postimg.cc/L5YShJLc/Educa-sinfoto.jpg" group-title="ECUADOR", Educa EC | SD
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN  
-http://190.60.38.114:1010/play/a096/index.m3u8
+https://c2nvdxq.fubohd.com/espn/mono.m3u8?token=fd1b602e8c5ff93ac90fa16101fccbe28cbd16aa-b4-1776660967-1776642967
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN ᵸᴰ 
-http://181.78.105.146:2000/play/a064/index.m3u8  
+https://qzv4jmsc.fubohd.com/espndeportes/mono.m3u8?token=f2e7be72ca0e59d5f7134dd8e6c12eb51ea46e95-fe-1776661375-1776643375  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKLwGQZ/espn2.png" group-title="DEPORTES", ESPN 2 
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKLwGQZ/espn2.png" group-title="DEPORTES", ESPN 2 Mx 
-http://190.60.38.114:1010/play/a02f/index.m3u8   
+https://tyg2mnl9.fubohd.com/espn2/mono.m3u8?token=d21213222fe869a5604258d8ffbe72906f558cdd-be-1776661063-1776643063  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2V3TVT1/espn3.png" group-title="DEPORTES", ESPN 3 ᵸᴰ 
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2V3TVT1/espn3.png" group-title="DEPORTES", ESPN 3 ᵸᴰ
-http://190.60.38.114:1010/play/a040/index.m3u8
+https://aw1wcm92zq.fubohd.com/espn3/mono.m3u8?token=501950371f2756dab4cde92474f3f0ece8bea0b0-d0-1776661120-1776643120
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRLV19dv/espn4.png" group-title="DEPORTES", ESPN 4
-http://190.60.38.114:1010/play/a07s/index.m3u8
+https://wp9xqedt.fubohd.com/espn4/mono.m3u8?token=7fc73647d8d5cc1eb84803d0f996e47032aad33f-21-1776661155-1776643155
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMCDzxHq/D5.png" group-title="DEPORTES", ESPN 5 
-http://190.60.38.114:1010/play/a02n/index.m3u8
+https://cgxheq.fubohd.com/espn5/mono.m3u8?token=a90e71355345dad1f9c4e2f51171322544fdf567-cc-1776661231-1776643231
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvBF424d/ESPN-6.png" group-title="DEPORTES", ESPN 6
-http://190.60.38.114:1010/play/a024/index.m3u8
+https://anvtcax.fubohd.com/espn6/mono.m3u8?token=ec354c72a0af2e25d8ab324a22afdd4d99cdb017-74-1776661262-1776643262
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8BJk7C/ESPN7.png" group-title="DEPORTES",ESPN 7
-http://190.60.38.114:1010/play/a02o/index.m3u8
+https://ym9yzq.fubohd.com/espn7/mono.m3u8?token=6ea20b8b53add29f43e6c7d4c6dcdb5aae46f47a-9f-1776661294-1776643294
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMZnT0WN/espnpremium.png" group-title="DEPORTES", ESPN Premium 
-http://190.60.38.114:1010/play/a07i/index.m3u8 
+https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=26186011951142b6b84e3c6d0e6d441b3a254470-1e-1776661329-1776643329
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" ,ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8 
 #EXTINF:-437 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ", ENTRE NOSOTRAS
@@ -752,9 +748,11 @@ https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/medialist_4276517416086298479_hls.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas QUITO
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas GYQUIL
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas GYQUIL
+https://ag9wzq.fubohd.com/ecdf_ligapro/mono.m3u8?token=3dd291c4648cc160d1d676510eb4b7a281b0dcb7-13-1776659850-1776641850
 #EXTINF:-1 tvg-logo="" group-title="ECUADOR", TUNGURAGUA
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
@@ -1509,9 +1507,11 @@ http://190.60.38.114:1010/play/a07x/index.m3u8
 #EXTINF:-1 tvg-shift="-3" group-title="MEXICO",Telenovelas 
 http://190.60.38.114:1010/play/a08i/index.m3u8
 #EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",UNIVERSAL CHANNEL 
-http://190.60.38.114:1010/play/a02m/index.m3u8 
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Win Sports 
-http://190.60.38.114:1010/play/a02g/index.m3u8
+http://190.60.38.114:1010/play/a02m/index.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES"TYC Sports 
+https://rm8zcvk3.fubohd.com/tycsports/mono.m3u8?token=48da6b3bfbe1a00f0b27d52694e2afa2727e6719-f-1776660849-1776642849
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES"DSports 
+https://aw1wcm92zq.fubohd.com/dsports/mono.m3u8?token=2ce0a658b9549aa40a31de220b2c126f26209fcf-8a-1776660524-1776642524
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://i.ebayimg.com/images/g/UNAAAOSw1vlUtP69/s-l400.jpg",CASPER 2 CAM 
 
