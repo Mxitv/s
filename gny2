@@ -46,19 +46,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=
 #EXTINF:-450 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO" ,AZTCAGUATE
 https://ch1-tva.duin.dev/hls/1/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bwbzaRE.png" group-title="MEXICO", Azteca 7 ᵸᴰ
-http://181.78.105.146:2000/play/a08z/index.m3u8
+https://tyg2mnl9.fubohd.com/azteca7/mono.m3u8?token=5f4ec010bffe4975e7424a81e3d17873024042a8-22-1776664086-1776646086
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TV_Azteca_Deportes_2023_Official.svg/revision/latest/scale-to-width-down/250?cb=20230630151649" group-title="DEPORTES", Azteca DEPORTESᵸᴰ 
 https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="MEXICO", Azteca Uno 1 
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M1mWGZJ/azteca1.png" group-title="MEXICO", Azteca Internacional: 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M1mWGZJ/azteca1.png" group-title="DEPORTES", Azteca DEPORTES
+https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"group-title="MEXICO",Azteca Uno (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="MEXICO", Azteca Uno ᵸᴰ 
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8 
 #EXTINF:-1 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
-https://asomatv.duckdns.org/livestream/stream.m3u8
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="ECUADOR",AustralTV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/8e6ced/angry-birds/1366_2000.webp" group-title="NIÑOS Y ADOLECENTES", Angry Birrds tv | SD
@@ -130,8 +132,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="CINE Y SERIES", Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="CINE Y SERIES", Claro Cinema
-http://38.41.8.1:8000/play/a066
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="CINE Y SERIES", CANELA Cinema
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Logo_Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="CINE Y SERIES",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w965300982.m3u8
 #EXTINF:-210 tvg-logo=" https://latinartv.com/sites/default/files/logos/cine-real.jpg"group-title="CINE Y SERIES", CINE REAL
@@ -1508,13 +1510,16 @@ http://190.60.38.114:1010/play/a07x/index.m3u8
 http://190.60.38.114:1010/play/a08i/index.m3u8
 #EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",UNIVERSAL CHANNEL 
 http://190.60.38.114:1010/play/a02m/index.m3u8
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES"TYC Sports 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",TYC Sports 
 https://rm8zcvk3.fubohd.com/tycsports/mono.m3u8?token=48da6b3bfbe1a00f0b27d52694e2afa2727e6719-f-1776660849-1776642849
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES"DSports 
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",DSports 2
+https://qzv4jmsc.fubohd.com/dsports2/mono.m3u8?token=e3b74e49feb078021665dcc917708a837786e687-71-1776662750-1776644750
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",DSports 
 https://aw1wcm92zq.fubohd.com/dsports/mono.m3u8?token=2ce0a658b9549aa40a31de220b2c126f26209fcf-8a-1776660524-1776642524
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",DSports 2
+https://qzv4jmsc.fubohd.com/dsports2/mono.m3u8?token=e3b74e49feb078021665dcc917708a837786e687-71-1776662750-1776644750
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://i.ebayimg.com/images/g/UNAAAOSw1vlUtP69/s-l400.jpg",CASPER 2 CAM 
-
 https://vod-ltweb.yamyday.com/vod/4B34FAD8282B44628D4E12DEA5593DD1_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-ltweb.yamyday.com%26app_id%3Dcom.global.latinowebs%26trans_id%3DBUNL8wop6QBx_H23vIuwxVSQN%26app_version%3D10102%26client_ip%3D34.150.153.88%26dev_id%3Db50e47036d31b20c8444eb5ab39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26user_id%3D23983871%26expired%3D1764306297%26token%3D974b91fe0448be2b913a48861efc8847&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.latinowebs%26media_code%3D4B34FAD8282B44628D4E12DEA5593DD1%26expired%3D1764306297%26token%3Dd45a28b765196edd7937c637b812f462
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2OTY4MDk4NF5BMl5BanBnXkFtZTcwMzA0NzExNw@@._V1_.jpg",FULL METAL CAM 
 https://vod-ltweb.yamyday.com/vod/8DABB2CE9CED46C8ADC4D3C0F0B8F94D_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-ltweb.yamyday.com%26app_id%3Dcom.global.latinowebs%26trans_id%3Dnh8Gwe8mVaL4_xuISd8OgHpbX%26app_version%3D10102%26client_ip%3D34.150.153.88%26dev_id%3Db50e47036d31b20c8444eb5ab39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26user_id%3D23983871%26expired%3D1764304344%26token%3D2c2bb54f2d8c0fac14cc9a68a8d28f48&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.latinowebs%26media_code%3D8DABB2CE9CED46C8ADC4D3C0F0B8F94D%26expired%3D1764304344%26token%3D75b19f3d001e3d97cc49bbd69086072d
