@@ -481,11 +481,11 @@ https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:-407 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="BOLIVIA" ,MEGAzine TV
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MEXICO", Miami TV 
-https://59ec5453559f0.streamlock.net/Latino/smil:80302/playlist.m3u8
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
 #EXTINF:-439 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="MUSICA",Miamitv music
-https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1091869129_b5096000.m3u8
+https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nwsdjs.com/wp-content/uploads/2024/02/DJ2RO-LOGO-BLACK-AND-GOLD.png" group-title="MUSICA", MiamitvDJ
-https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/.m3u8
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PERU", Millenium TV || Lamas
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="ARGENTINA", Max 
@@ -1032,7 +1032,6 @@ http://170.82.37.21:8000/play/a00e/index.m3u8
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Teledanlí" tvg-name="HN | Teledanlí" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_1g2d_zrJFqen8rp4OK-7NBbcQqUt_Z-7N1yng=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 841 | Teledanlí || HONDURAS
 https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="HONDURAS", 843 | LTV || HONDURAS
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | DTP Canal 15" tvg-name="HN | DTP Canal 15" tvg-logo="https://play-lh.googleusercontent.com/qBFWeXRZ1Q_4dZ1NaejEULj9V-mHF9HAHdKZ-UZA3LUc9uTS9lyMo9E7yPpmc5REqc4" group-title="HONDURAS", 844 | DTP || HONDURAS
@@ -5674,9 +5673,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://201.159.113.219:49000/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/.m3u8
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI VIP
-https://59ec5453559f0.streamlock.net/miamitvmodels/smil:529634/playlist.m3u8
+https://47a5d1da46b54926a272de4c51610d1e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI GOLD
 https://59ec5453559f0.streamlock.net/miamitvgold/smil:19869/playlist.m3u8
 #EXTINF:-1 group-title="ZONA 18 XXX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI FASHION
