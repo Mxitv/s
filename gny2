@@ -138,8 +138,8 @@ https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&co
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Logo_Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="CINE Y SERIES",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w965300982.m3u8
-#EXTINF:-210 tvg-logo=" https://latinartv.com/sites/default/files/logos/cine-real.jpg"group-title="CINE Y SERIES", CINE REAL
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8 
+#EXTINF:-210 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp"group-title="CINE Y SERIES", Canal Mas
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="CINE Y SERIES", CINE EN ESPAÑOL 
 https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/cb57381b6570678a84cb3a64cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee05a168c6bf3b101489c2e47fa83439c8201e988825f83158070f9169894f589d417d38c81599306f224365a37739d8c7ce1bb37c6d99564779d7c25495047f3ad87f74339dc0e293ffcf6cfcd2795539c8873d96360ec599b17dd67db3af20cf2b819a3fde3da47163ca197023777f4bfd5e0933423ad59f5a3e4d80115f391066d49dd64d527714bfa91cc1094d12a95b92d96b167094aa3fb24cac7d9e98bb7895a8e57a9ad95c8673b2411070d8849a79479e425d46eaddd0733594c49dff93fa5d783345a01438b942cb7797ae981fee9b30d33cb6e155fe45fd75a0869be51061ff738f7c05606ea220491475e913965da3796da25e5d5b48f6b6fe0909510ab21bee0589ca15af329563701bcfc385a4b5842c3eb671e3f77b1378ea3ebd15e3613e9f6def1ce7d2d0a3b124056cf8892739480d42c1302fe43346f7005149316e967de0d4c7245a377e1893958a4250400c3fd4737316893deb88282e9c745be7aa1a6975e2b3e4a68a93c157c1ab9dc984ac22859776c5c83161625d7630b7bc4d893b4f3ed6fde8c5bb92c6d0666fae5054d7b12191d028f8478c404addc0aae8c844ed9e1991b488072b7175f9ad5ca65fbe8929d3a65f6b95411669edd55ae1944f532e407a9f155f5950f11765e5549b09f3ef072b6c593cb279b63f801533ea24fb292e7bcc17516c9a50a626347054c3f657f225aec81957c562fa5fc06f64deaee62ac407f3a2b088bd15710d5be3754b71d4a4d89ec8b87a4c10650ed6bf77ec62943855f1f21ecc977bbd1e6bdaac93f1a509985aa4abab381ce99859d682d5d5e0bf1b337afb267478aee22c2ef7a59ec9c8ae1d57ce50d885788a5c6e060a1c2b1d13da18589f6bb561a5b485effc08d9a5ebbee4d2de90aa58aa530d2157b2b1cff76812cd0d56e40cf764fa33b6c54caaab423dd2aa1e7283fee8b5394b41e3decefe52f10c425e8757c2db185b66735cbcc18800db5a1b75e1cc25845a470576ffa28a1c7a73f3ba8fc321041e10e308975afc1cd130c21f9dc35736a45273d3dfc6c106ce83761a05a95e1e1ba6769ce22821d30b27ce09305f3ec5ca0a38aa3eed63963a6e50559a75cb045ea75bcace5920fad5d65a57f825a33f6adbbd0fcac96e7818f641972f0639406cf7a9fbcd9b27d140577db4f760a1ff513c7041e40d6a371cfb4467889cef76196504c242e63469e5c7d2c1cfa34485e281737dc/56/1920x1080_5500000/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="CINE Y SERIES", CINE ESPANTO | HD 
@@ -187,7 +187,7 @@ http://190.90.252.200:16001/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="CINE Y SERIES", 121 | Cine Familiar
 http://190.90.252.200:16001/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="CINE Y SERIES",Cine Romantico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656 
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE Y SERIES", Cinecanal Español: 
 http://181.78.105.146:2000/play/a04q/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="CINE Y SERIES", Cinemax | HD
@@ -466,8 +466,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6GzMFYz-tf4Uc1In5986T_696MDYtnBs2Vg&s" group-title="ECUADOR" , MAX RADIO
 https://stream.zeno.fm/64nxbrzhsuhvv 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Max Up ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=659&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/arte-canal-youtube-musica-plana_52683-58795.jpg?size=626&ext=jpg&ga=GA1.1.539837299.1711843200&semt=ais" group-title="MUSICA", MIX músic channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" group-title="MUSICA", Megabox
@@ -531,7 +529,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-144 tvg-logo="https://i.postimg.cc/dQy6QJWf/spakinew.png" group-title="MUSICA", MTV SPAKIN' NEW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="MUSICA", Music Top 
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8?uid=d8ccafe1584362585c59ad5b161ae99a
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="PERU", 15 | Moyobamba Televisión || Moyobamba
 https://live.obslivestream.com/mtv/index.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="RELIGIOSOS",Nazarenas TV (720p) [Not 24/7]
