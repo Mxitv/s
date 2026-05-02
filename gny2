@@ -280,8 +280,8 @@ https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 https://redirector.rudo.video/hls-video/plus226/ecuavisa2/ecuavisa2.smil/playlist.m3u8
 #EXTINF:-8 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
-#EXTINF:-359 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="ECUADOR" ,ECUAMUNDO
-https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-359 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b4266bdc3b2eb45f8b04c8cfb20382a.webp" group-title="ECUADOR" ,Unitel tv
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ARGENTINA", El Trece 
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="ARGENTINA", El Trece 
@@ -392,8 +392,8 @@ http://38.41.8.1:8000/play/a00d
 http://177.53.153.20:8001/play/a0dc/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="MUSICA", HTV 
-http://45.228.234.167:8000/play/a028/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="CINE Y SERIES",TVS RETRO TV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 269 | HTV
 http://201.159.113.219:49000/play/a02k/index.m3u8
 #EXTINF:-134 tvg-logo="https://i.postimg.cc/9QV9H9fY/inf.png" group-title="ECUADOR", INFINITA TV | HD
