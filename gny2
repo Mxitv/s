@@ -119,11 +119,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJFFPAL.png" group-title="COLOMBIA", Cali TV | SD
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
-http://177.93.46.163:8000/play/a01n 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="NIÑOS Y ADOLECENTES", Cartoon Network ᵸᴰ 
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="NIÑOS Y ADOLECENTES", Cartoonito 
-http://177.53.153.20:8001/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5422806b245e7d27eb68d97344a68113.webp" group-title="NIÑOS Y ADOLECENTES", Canela kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
 #EXTINF:-299 tvg-logo="https://plataformas.news/online/nota_thema-lanza-vive-kanal-d-drama-en-espana-.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" ,Canal del drama
@@ -135,7 +130,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-432 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="CINE Y SERIES",Cine5 (720p)
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="CINE Y SERIES", Cinelife
-https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="CINE Y SERIES", CANELA Cinema
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Logo_Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="CINE Y SERIES",CINERAMA
@@ -146,56 +141,15 @@ https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/cb57381b6570678a84cb3a64cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee05a168c6bf3b101489c2e47fa83439c8201e988825f83158070f9169894f589d417d38c81599306f224365a37739d8c7ce1bb37c6d99564779d7c25495047f3ad87f74339dc0e293ffcf6cfcd2795539c8873d96360ec599b17dd67db3af20cf2b819a3fde3da47163ca197023777f4bfd5e0933423ad59f5a3e4d80115f391066d49dd64d527714bfa91cc1094d12a95b92d96b167094aa3fb24cac7d9e98bb7895a8e57a9ad95c8673b2411070d8849a79479e425d46eaddd0733594c49dff93fa5d783345a01438b942cb7797ae981fee9b30d33cb6e155fe45fd75a0869be51061ff738f7c05606ea220491475e913965da3796da25e5d5b48f6b6fe0909510ab21bee0589ca15af329563701bcfc385a4b5842c3eb671e3f77b1378ea3ebd15e3613e9f6def1ce7d2d0a3b124056cf8892739480d42c1302fe43346f7005149316e967de0d4c7245a377e1893958a4250400c3fd4737316893deb88282e9c745be7aa1a6975e2b3e4a68a93c157c1ab9dc984ac22859776c5c83161625d7630b7bc4d893b4f3ed6fde8c5bb92c6d0666fae5054d7b12191d028f8478c404addc0aae8c844ed9e1991b488072b7175f9ad5ca65fbe8929d3a65f6b95411669edd55ae1944f532e407a9f155f5950f11765e5549b09f3ef072b6c593cb279b63f801533ea24fb292e7bcc17516c9a50a626347054c3f657f225aec81957c562fa5fc06f64deaee62ac407f3a2b088bd15710d5be3754b71d4a4d89ec8b87a4c10650ed6bf77ec62943855f1f21ecc977bbd1e6bdaac93f1a509985aa4abab381ce99859d682d5d5e0bf1b337afb267478aee22c2ef7a59ec9c8ae1d57ce50d885788a5c6e060a1c2b1d13da18589f6bb561a5b485effc08d9a5ebbee4d2de90aa58aa530d2157b2b1cff76812cd0d56e40cf764fa33b6c54caaab423dd2aa1e7283fee8b5394b41e3decefe52f10c425e8757c2db185b66735cbcc18800db5a1b75e1cc25845a470576ffa28a1c7a73f3ba8fc321041e10e308975afc1cd130c21f9dc35736a45273d3dfc6c106ce83761a05a95e1e1ba6769ce22821d30b27ce09305f3ec5ca0a38aa3eed63963a6e50559a75cb045ea75bcace5920fad5d65a57f825a33f6adbbd0fcac96e7818f641972f0639406cf7a9fbcd9b27d140577db4f760a1ff513c7041e40d6a371cfb4467889cef76196504c242e63469e5c7d2c1cfa34485e281737dc/56/1920x1080_5500000/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="CINE Y SERIES", CINE ESPANTO | HD 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691084212&id=6813&ip=45.224.152.74&override_expiration=1500&sign=6aote%2FsxHrM%2FGd07KYygmatUqUgMav7yelfQpm%2FuYIo%3D
-#EXTINF:-324 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES", PLUTO TV PELEAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
-#EXTINF:-325 tvg-logo="https://i.postimg.cc/t4fgL8RM/cine_adrenalina.png" group-title="CINE Y SERIES", CINE ADRENALINA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69- 11eb- a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
-#EXTINF:-326 tvg-logo="https://i.postimg.cc/XJ7dX5Np/CINE-SUSPENSO.png" group-title="CINE Y SERIES", CINE SUSPENSO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-1 1eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
-#EXTINF:-327 tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE Y SERIES", CINE TERROR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11 eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
-#EXTINF:-346 tvg-logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png" group-title="CINE Y SERIES", CINE PREMIERE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
-#EXTINF:-347 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
-#EXTINF:-348 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
-#EXTINF:-349 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR 3
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="CINE Y SERIES" ,CINESTRELLA
-https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
 #EXTINF:-403 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="CINE Y SERIES" ,CineSTRELLA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="CINE Y SERIES", Cine Mexicano
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-457 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES", CINE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11 eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
-#EXTINF:-458 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES", CINE 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089 -11eb- 842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
-#EXTINF:-459 tvg-logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png" group-title="CINE Y SERIES", CINE ESTRENO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-1 1eb- a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
-#EXTINF:-460 tvg-logo="https://i.postimg.cc/XvV9jbHr/cine_clasico.png" group-title="CINE Y SERIES", CINE CLÁSICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-1 1eb- 8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
-#EXTINF:-461tvg-logo="https://i.postimg.cc/XvV9jbHr/cine_clasico.png" group-title="CINE Y SERIES", CINE CLÁSICO (España)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=% 7BTARGETOPT%7D&ID del dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-465 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="CINE Y SERIES", CINE FAMILIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-1 1eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-#EXTINF:-462 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="CINE Y SERIES", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307 -11eb- b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="CINE Y SERIES", 119 | Cine Premium
-http://190.90.252.200:16001/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="CINE Y SERIES", 120 | Cine Hispano
-http://190.90.252.200:16001/play/a061/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="CINE Y SERIES", 121 | Cine Familiar
-http://190.90.252.200:16001/play/a063/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="CINE Y SERIES",Cine Romantico
 https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE Y SERIES", Cinecanal Español: 
-http://181.78.105.146:2000/play/a04q/index.m3u8 
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="CINE Y SERIES", Cinemax | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.ammo.runtime&amp;app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&amp;app_domain=runtime.tv&amp;app_name=runtime&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=runtime&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=https%253A%252F%252Fwww.runtime.tv%252F&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1676561741&amp;id=2964&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=kEJu1%2Bg4igYcXJGirWitAeu2PDryiqCaws%2BdjxoACnQ%3D 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE Y SERIES", Cinemax ᵸᴰ 
-http://190.61.55.186:1010/play/a022/index.m3u8 
+ 
 #EXTINF:-17 tvg-logo="https://n9.cl/mxitv" group-title="RELIGIOSOS", Cristo tv | SD
 https://ssh101-fl.bozztv.com/ssh101/cristotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="DEPORTES", Claro Sports Colombia 
@@ -208,48 +162,15 @@ http://181.78.67.178:1010/play/a030/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1695619344&id=10405&ip=45.224.152.74&override_expiration=1500&sign=9%2BBDfDcGJSblGBL0tMEcR3SEQOhYPntEptel4SGWo0E%3D
 #EXTINF:-1 tvg- logo="https://i0.wp.com/www.cosmovisiondigital.com/wp-content/uploads/2016/05/logo_white_huge.png" group-title="COLOMBIA", Cosmovisión (Colombia) 
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="CINE Y SERIES", 93 | Clover Channel
-http://160.20.165.246:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="PERU",Colosal TV (720p) [Not 24/7]
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-393 tvg-logo="https://culturavenezuela.com/wp-content/uploads/2021/07/cropped-Cierre-Alfa-SE.00_00_04_25.Imagen-fija003-150x150.png" group-title="VENEZUELA" , CulturaVenezuela
 https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
 #EXTINF:-288 tvg-logo="https://canalesdominicanos.live/template/images/radios/dantv.jpg" group-title="VENEZUELA", DAN TV
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySbLRyg/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8 
- #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="CINE Y SERIES", DHE 
-http://179.1.146.21:8000/play/a06u/index.m3u8 
+ 
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="NIÑOS Y ADOLECENTES", Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="DOCUMENTALES", Discovery Channel 
-http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="DOCUMENTALES", Discovery H&H 
-http://181.78.105.146:2000/play/a017/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="DOCUMENTALES", Discovery Theater H&H ᵸᴰ
-http://181.78.105.146:2000/play/a00v/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="DOCUMENTALES", Discovery Theater 
-http://177.53.153.20:8001/play/a02q/index.m3u8  
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="DOCUMENTALES", Discovery SCI 
-http://181.78.105.146:2000/play/a04y/index.m3u8  
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="DOCUMENTALES", Discovery Turbo 
-http://177.53.153.20:8001/play/a09y/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="DOCUMENTALES", Discovery World 
-http://177.53.153.20:8001/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="NIÑOS Y ADOLECENTES", Discovery Kids 
-http://181.78.105.146:2000/play/a015/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Lista 1", Disney Channel 
-http://bgtv.xyz/play/play-777.php?ul=30&token=asdfasdf 
- #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Lista 1", Disney Junior ᵸᴰ 
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Lista 1", Disney XD 
-https://live-latinoweb.yamyday.com/live/cyx_36500962871796188.m3u8?content_auth2=user_id%3D23983871%26app_id%3Dcom.global.latinowebs%26client_ip%3D45.224.152.78%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3Dc9whVUIXnads%26dev_id%3Db39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26link%3Dcf%26spared_addr%3D%26app_ver%3D10102%26main_addr%3Dhttps://live-latinoweb.yamyday.com/v3/youshi/%26expired%3D1764302276%26tag%3De9b37d%26check_play_ip%3Dtrue%26token%3DB9A764249FF7DA9B2F4CFCE7D9D2916A&content_license2=app_id%3Dcom.global.latinowebs%26tag%3De9b37d%26scheme%3Dmd5-01%26media_code%3Dcyx_36500962871796188%26expired%3D1764891089%26token%3DB69BC43A34B9444DD781CEB819188CD4&timestamp=1764289372584
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="MEXICO",Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
-#EXTINF:-1 tvg-logo="https://lc.cx/71oc1G" tvg-id="DistritoComedia.mx"group-title="MEXICO",Distrito Comedia (576p)
-http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Lista 1", Djing Ibiza 
-http://bgtv.xyz/play/play-777.php?ul=277&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="ARGENTINA", DMax ᵸᴰ 
 https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/.m3u8 
 #EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PERU", Doble AA TV || Yurimaguas
@@ -259,9 +180,7 @@ https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="ECUADOR", DURAN TV + 
 https://cloudvideo.servers10.com:8081/8074/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/WDBQ5l" group-title="MUSICA", EXA TV + 
-https://mvs-live.daioncdn.net/exatv/exatv.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="DOCUMENTALES", E! 
-http://181.78.105.146:2000/play/a03i/index.m3u8 
+https://mvs-live.daioncdn.net/exatv/exatv.m3u8 
 #EXTINF:-410 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" , ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="ARGENTINA", El 13 Argentina 
@@ -334,10 +253,9 @@ http://181.78.105.146:2000/play/a05z/index.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-236 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="PERU" , FUEGO TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES", 123 | FMH Family
-http://160.20.165.246:8000/play/a01j/index.m3u8
+
 #EXTINF:-275 group-title="CINE Y SERIES", FREE TV HD
-https://freetv.stream.olympusatmedia.com/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782083315&id=19361&ip=131.196.112.93&override_expiration=1500&sign=yyKGAVRdRwbNOsl7kERcN73LDyoI2BIrF90ZUOQoIQM%3D
 #EXTINF:-275 group-title="CINE Y SERIES", FREE TV estelar HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=tucine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=2a68c779c897118e597c08ee7ee39604&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1727228844&id=2618&ip=45.224.152.78&override_expiration=1500&sign=zuuTpTS%2FmrGl%2BdskjeLgqrcGdOkngIomnEe5OUxwVl4%3D
 #EXTINF:-275 group-title="CINE Y SERIES", FREE TV drama HD
