@@ -8,8 +8,9 @@ https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="MEXICO" , A + GATE +2
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", A+ 
-https://ch2-tva.duin.dev/hls/0/stream.m3u8  
-
+https://ch2-tva.duin.dev/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", AZTECA 7
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx1H064S/adn40.png" group-title="MEXICO", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 EXTINF:-358 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="ECUADOR" ,ANTENA UNO
