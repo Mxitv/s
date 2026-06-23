@@ -295,6 +295,8 @@ http://181.78.105.146:2000/play/a04y/index.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdydF4yB/KPO.png" group-title="MUSICA", Kpoptv 
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/vNdriI" group-title="CINE Y SERIES", La Granja tv
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="ESPAÑA", La 1 ᵸᴰ 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2ᵸᴰ.png" group-title="ESPAÑA", La 2 ᵸᴰ 
