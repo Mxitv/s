@@ -153,7 +153,8 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySbLRyg/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8 
- 
+#EXTINF:-1 tvg-logo="https://acortar.link/hXa1dD" group-title="NIÑOS Y ADOLECENTES", Disney chanel ᵸᴰ 
+https://regionales.saohgdasregions.fun:9092/MTMxLjE5Ni4xMTIuOTM=/28_.m3u8?token=QfkegsJgATaVRoGPbvROhg&expires=1782224724
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="NIÑOS Y ADOLECENTES", Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="ARGENTINA", DMax ᵸᴰ 
