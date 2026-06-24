@@ -574,11 +574,11 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://d2b5h5wyivfnfl.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas QUITO
+#EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas QUITO
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas GYQUIL
+#EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas GYQUIL
 https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ECUADOR", TUNGURAGUA
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
@@ -592,12 +592,12 @@ https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-193 group-title="DEPORTES", TENIS CHANNEL | SD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-183 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
-https://s5.mexside.net:1936/telemax/telemax/.m3u8
+#EXTINF:-183 tvg-logo="https://goo.su/0qrNJmZ" group-title="ARGENTINA", Telemax | HD
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-184 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="ARGENTINA", Telpin Canal 2 | SD
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
 #EXTINF:-193 group-title="PERU", LATELE | SD
-https://rds3tf.desdeparaguay.net/latele/latele_int_alta/playlist.m3u8?k=69654621714287fa40c73683a4f005fb47e4b31c2edcbe7ca27316d68cb83075&exp=1727237530
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=1acfb253e056226a84b5000b6df2cbe7bae53911aeddaef3d3ddf83fa7af4a36&exp=1782271401
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83sIpdN5xB6xRJQ9h21rV8371WrgKgzEB4Q&s"group-title="MEXICO" ,TVmas 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1158872820.m3u8
 #EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
@@ -610,12 +610,10 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA",Tele STRELLA
 https://s.emisoras.tv:8081/tve/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA", Teleantioquia (Colombia) 
-http://45.177.53.7:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", TeleFORMULA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="MUSICA", Telehit ᵸᴰ 
-https://cloudvideo.servers10.com:8081/8128/index.m3u8 
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="BOLIVIA" , TDT roja
 https://master.tucableip.com/dtvsc/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="PUERTO RICO", Telemundo ᵸᴰ 
@@ -625,7 +623,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PUERTO RICO", TELEMUNDO ACCION
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", Televisión popular
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12690&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 EXTINF:-1 group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" tvg-logo="",Tierra De Amor Y Venganza ²⁴⁺⁷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="NIÑOS Y ADOLECENTES", Toon Goggles | HD
@@ -639,18 +637,18 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="NIÑOS Y ADOLECENTES",TV Cuatro 4.3 (1080p)
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png" group-title="MUSICA", TLR (Teleritmo) 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png" group-title="MUSICA", TLR (TELE RITMO ) 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://lamegatv.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png" group-title="COSTA RICA", TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="PERU", TV Tropical || Tarapoto
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="PERU", 53 | Top TV || Aguaytía
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8 
+https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:-122 tvg-logo="https://lc.cx/ocv7bE" group-title="ARGENTINA" , TV PUBLICA
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", ,TV PERU | SD
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-454 tvg-logo="https://i.imgur.com/ad0GNqa.png" group-title="PERU" ,Tv Nacional Perú
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:-230 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d361f1f51796136d9f931586c45f4a33.webp" group-title="PERU" , TVPE INTERNACIONAL
