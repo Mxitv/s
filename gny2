@@ -78,7 +78,9 @@ https://d3jtkprncicwfh.cloudfront.net/out/v1/23cde7c3eec04c07a03cd755b8eb70e4/in
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(c7Z2dM7tZjX_ZJf0FRIgL7Tog9X0qW2HfNJDYKWaqXTcW8amhZdx0B9C-tPGyutnmPb50XN2WJ9Tu_g90vTKfYaYs7mY1uFefnffGv4V_TjGwkzc8PeJkqh07sOzVxB6)/cloud/3/x9nzqpo/d/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-YGbpd8blSIWvwbVqGE4s8N-9T3B-Barmw&s" group-title="MEXICO", BLOOMBERG MX TV | HD
 https://live-b2.cf.dmcdn.net/sec2(UHE4u2wsouiCxt-6-gEfyctK_tAt7UhNLcsT68WSXphKJHxHS1a_ILrgoNZ5x7bRuULb66RGAalwNqBgZVdzyaNlSSy2D8slW3Bz1j2tESLZaZjL_o-m0d1YY7t6A-OI)/cloud/3/x90qe0k/d/live-720.m3u8
-#EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA", Canela Música
+#EXTINF:-45 tvg-logo="https://assets.teleon.tv/180_webp/capricho-tv-ec.webp" group-title="ECUADOR",CAPRICHO TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA",Canela Música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA", Cadena Élite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8 
