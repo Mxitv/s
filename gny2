@@ -17,7 +17,8 @@ EXTINF:-358 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="ECUADOR" ,AN
 https://tvdatta.com:3578/live/antenaunolive.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png" group-title="NOTICIAS", Al Jazeera 
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8 
-
+#EXTINF:-1 tvg-logo="https://n9.cl/3c7x2" group-title="CINE Y SERIES", AMC Español
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 group-title="DEPORTES", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="PERU", América TV 
