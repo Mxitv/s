@@ -362,15 +362,14 @@ https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 https://hdbox.chunklistv.com/live?stream=megabox 
 #EXTINF:-356 tvg-logo="https://i.imgur.com/yID5T2S.jpg"tvg-id="MarioPintoTV.ec" group-title="ECUADOR" ,Metropoli Medios TV
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="CHILE", Mega 
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/TdvXGBreTYyJZiwX63BRIA/stream/aba00883-1303-4c27-8750-acb91abe7170:CBF2/variant/4391a7b407903ed9bd54764f8d2a7cfd/bandwidth/1075800.m3u8?uid=CVRRLaPHm73MvHbj5WkcP0jOWdxcwI6u&sid=Kbd1G8Unliw3e62LDYL2i43xjqmpWvRz&pid=9zYbnzoE79vMEow2FIZokJX08u6CL8IO&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=YxbewdhzIUOs5Ok8nKSHtYymL4pHQrGgu3wllVn0b3kXk1vC7L2CO6OeJfCp4BVbP1uxCRwQXhT&adInsertionSessionId=b370fd94-ca9b-47ab-952c-af34b2c42a57&ote=1724706876285&ot=FN4Az6W9w6-bDxI2h8bxkA&es=us-b4-p-e-nq15.cdn.mdstrm.com&proto=https&pz=us&aid=53bc2bcae41e2d9c662e1ba7 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="COSTA RICA", Mega 
-https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b157c3c4e4df514dab25bcb6e5d53cc.webp" group-title="CHILE", Mega 
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b157c3c4e4df514dab25bcb6e5d53cc.webpg" group-title="COSTA RICA", Mega 
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-407 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="BOLIVIA" ,MEGAzine TV
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MEXICO", Miami TV 
-https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
-#EXTINF:-439 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="MUSICA",Miamitv music
+ #EXTINF:-439 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="MUSICA",Miamitv music
 https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nwsdjs.com/wp-content/uploads/2024/02/DJ2RO-LOGO-BLACK-AND-GOLD.png" group-title="MUSICA", MiamitvDJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
@@ -701,7 +700,7 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="ECUADOR", Vos y la tV ᵸᴰ 
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="MUSICA", 309 | VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1288539930.m3u8 
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-244 group-title="CHILE" , VIVA MOVIL 2 TV
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-178 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA", VISIÓN DORADA TV
@@ -725,9 +724,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/c259ef3a5ff14f8da764c45f1f4cc5b8/m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMEdANL9F2M6tkYMMCnaxQ_SWa9L1c1uPUw&s"group-title="VENEZUELA", VIVE TV
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="PERU", VZ Televisión || Moyobamba
-https://live.obslivestream.com/vztv/index.m3u8
+https://www.vztv.online/canalvztelevisionweb/index.m3u8
 #EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="DEPORTES", VZ Televisión || Moyobamba
-https://live.obslivestream.com/vztv/index.m3u8
+https://www.vztv.online/canalvztelevisionweb/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="CINE Y SERIES", Warner Channel ᵸᴰ 
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
@@ -745,7 +744,7 @@ https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 #EXTINF:-1 group-title="NICARAGUA", WTV Nicaragua
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="CINE Y SERIES", Xtrema TV - Cine Acción ᵸᴰ
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls_ctx=u342i757
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-29 tvg-logo="https://goo.su/ateBAm" group-title="ECUADOR", Zaracay TV | HD
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="NIÑOS Y ADOLECENTES", ZooMoo
