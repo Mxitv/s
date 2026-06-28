@@ -78,7 +78,7 @@ https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="BOLIVIA", Bolivisión2
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/tKLYYys.png" ,Bolivia tv | SD 
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(c7Z2dM7tZjX_ZJf0FRIgL7Tog9X0qW2HfNJDYKWaqXTcW8amhZdx0B9C-tPGyutnmPb50XN2WJ9Tu_g90vTKfYaYs7mY1uFefnffGv4V_TjGwkzc8PeJkqh07sOzVxB6)/cloud/3/x9nzqpo/d/live-480.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(6XsCTayFIAw0XAGK3J_0TMiLRv3Oj7DVWVcW4viRRHnIKnN4YxIc_9IXkaBFh4-lzzsOEwAtun7Co7NtBA0WrbmCv9NbDaTFeSSLk4etpCiGS-wRWe1gsLKjO8G__abb)/cloud/3/x9nzqpo/d/live-480.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-YGbpd8blSIWvwbVqGE4s8N-9T3B-Barmw&s" group-title="MEXICO", BLOOMBERG MX TV | HD
 https://live-b2.cf.dmcdn.net/sec2(UHE4u2wsouiCxt-6-gEfyctK_tAt7UhNLcsT68WSXphKJHxHS1a_ILrgoNZ5x7bRuULb66RGAalwNqBgZVdzyaNlSSy2D8slW3Bz1j2tESLZaZjL_o-m0d1YY7t6A-OI)/cloud/3/x90qe0k/d/live-720.m3u8
 #EXTINF:-45 tvg-logo="https://assets.teleon.tv/180_webp/capricho-tv-ec.webp" group-title="ECUADOR",CAPRICHO TV
@@ -86,7 +86,7 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA",Canela Música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA", Cadena Élite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8 
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-75 tvg-logo="https://lc.cx/99ZvHx" group-title="ECUADOR",Canal uno Ecuador
 https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg" group-title="MEXICO", Canal 5 ᵸᴰ 
@@ -94,7 +94,7 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="CINE Y SERIES", CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13dWJT4P/RTQ-logo-blanco-1.jpg" group-title="MEXICO", CANAL 10 RTQ (MX)
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w463973390.m3u8
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/serenotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , Canal de las Estrellas ᵸᴰ 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="ECUADOR",LAS ESTRELLAS INTER
@@ -220,7 +220,7 @@ https://anvtcax.fubohd.com/espn6/mono.m3u8?token=ec354c72a0af2e25d8ab324a22afdd4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8BJk7C/ESPN7.png" group-title="DEPORTES",ESPN 7
 https://ym9yzq.fubohd.com/espn7/mono.m3u8?token=6ea20b8b53add29f43e6c7d4c6dcdb5aae46f47a-9f-1776661294-1776643294
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMZnT0WN/espnpremium.png" group-title="DEPORTES", ESPN Premium 
-https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=26186011951142b6b84e3c6d0e6d441b3a254470-1e-1776661329-1776643329
+https://khala.skylivehd.com/dsportsar/tracks-v1a1/mono.m3u8?ip=131.196.112.93&token=0fc21cd4644f0b4639e96399488551d43da33127-f1-1782661568-1782607568
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" ,ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8 
 #EXTINF:-437 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="NOVELAS²⁴⁺⁷ ᵸᴰ", ENTRE NOSOTRAS
