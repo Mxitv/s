@@ -65,9 +65,9 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8 
 #EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ESPAÑA", BBC Drama | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BIEN Sports | ᵸᴰ 
+#EXTINF:-1 tvg-logo="https://h1.nu/maxitv1" group-title="DEPORTES", BIEN Sports | ᵸᴰ 
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://h1.nu/maxitv1" group-title="DEPORTES", BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="NIÑOS Y ADOLECENTES", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
