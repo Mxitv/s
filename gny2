@@ -104,7 +104,7 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="ECUADOR", CANAL 5 STV | HD
 https://lstv.duckdns.org:449/hls/stv.m3u8  
 #EXTINF:-469 tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg"tvg-id="Canal5.mx"group-title="MEXICO",Canal 5 (1080p)
-https://regionales.saohgdasregions.fun:9092/MTMxLjE5Ni4xMTIuOTM=/2_.m3u8?token=jEPEQa2VFRlODKcb0eI-wA&expires=1783608114
+https://notusaauth.univision.com/api/v3/video-auth/url-signature-token-by-id?mcpid=1556360&mcpOrigin=MX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="COSTA RICA", CANAL 21 ESA
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
 #EXTINF:-1 group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" tvg-logo="",Canela Telenovelas ²⁴⁺⁷
@@ -120,7 +120,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/certv-canal-4.png" group-title="REPUBLICA DOMINICANA", Certv-Canal 4 (Republica Dominicana) 
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-432 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="CINE Y SERIES",Cine5 (720p)
-https://regionales.saohgdasregions.fun:9092/MTMxLjE5Ni4xMTIuOTM=/2_.m3u8?token=jEPEQa2VFRlODKcb0eI-wA&expires=1783608114
+https://notusaauth.univision.com/api/v3/video-auth/url-signature-token-by-id?mcpid=1556360&mcpOrigin=MX
 #EXTINF:-1 tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="CINE Y SERIES", Cinelife
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="CINE Y SERIES", CANELA Cinema
@@ -156,7 +156,7 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySbLRyg/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8V4ZkLDLkO6eTYICIrtzUQlv1LaL0JjkTWdNH_DklMA&s=10" group-title="MEXICO", DISTRITO COMEDIA ᵸᴰ 
-https://regionales.saohgdasregions.fun:9092/MTMxLjE5Ni4xMTIuOTM=/75_.m3u8?token=Ji-r7kUWQAYT4eSYXAqVZg&expires=1783606944
+https://notusaauth.univision.com/api/v3/video-auth/url-signature-token-by-id?mcpid=1541500&mcpOrigin=MX
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="NIÑOS Y ADOLECENTES", Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="ARGENTINA", DMax ᵸᴰ 
