@@ -81,6 +81,8 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(6XsCTayFIAw0XAGK3J_0TMiLRv3Oj7DVWVcW
 https://live-b2.cf.dmcdn.net/sec2(UHE4u2wsouiCxt-6-gEfyctK_tAt7UhNLcsT68WSXphKJHxHS1a_ILrgoNZ5x7bRuULb66RGAalwNqBgZVdzyaNlSSy2D8slW3Bz1j2tESLZaZjL_o-m0d1YY7t6A-OI)/cloud/3/x90qe0k/d/live-720.m3u8
 #EXTINF:-45 tvg-logo="https://assets.teleon.tv/180_webp/capricho-tv-ec.webp" group-title="ECUADOR",CAPRICHO TV
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-45 tvg-logo="https://assets.teleon.tv/180_webp/capricho-tv-ec.webp" group-title="COLOMBIA",CARACOL TV
+https://regionales.saohgdasregions.fun:9092/MTMxLjE5Ni4xMTIuOTM=/17_.m3u8?token=liptF-ZspY9qahn0IIuNlA&expires=1783608576
 #EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA",Canela Música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA", Cadena Élite
