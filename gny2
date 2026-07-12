@@ -204,6 +204,8 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-209 tvg-logo="https://i.postimg.cc/L5YShJLc/Educa-sinfoto.jpg" group-title="ECUADOR", Educa EC | SD
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-209 tvg-logo="https://h1.nu/ECIVI" group-title="DOCUMENTALES",  ECO TV | SD
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN  
 https://khala.skylivehd.com/global/espnmx/index.m3u8?ip=131.196.112.93&token=d05ac7faa0853f139c83ec78c7c1c258b93308fa-10-1782403817-1782349817
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN ᵸᴰ 
