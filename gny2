@@ -185,14 +185,12 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-57 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", Ecuavisa QUITO
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-57 tvg-logo="https://i.imgur.com/Hl5wowk.png"group-title="ECUADOR",Ecuavisa PLAY
-https://teleon.tv/stream/cG5wODQ4MzU0NnBucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png"group-title="ECUADOR", Ecuavisa | CE 
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png"group-title="ECUADOR", Ecuavisa
 https://redirector.rudo.video/hls-video/plus226/ecuavisa2/ecuavisa2.smil/playlist.m3u8
 #EXTINF:-8 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
-https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
+https://video.misistemareseller.com:3027/stream/play.m3u8
 #EXTINF:-359 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b4266bdc3b2eb45f8b04c8cfb20382a.webp" group-title="ECUADOR" ,Unitel tv
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="ARGENTINA", El Trece 
