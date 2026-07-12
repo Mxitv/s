@@ -56,11 +56,11 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/8e6ced/angry-birds/1366_2000.webp" group-title="NIÑOS Y ADOLECENTES", Angry Birrds tv | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1684083203&id=266911&ip=45.224.152.74&override_expiration=1500&sign=pEoOkGAZcjg7b8uJ%2FKu0ivcA2Ig9Xu816%2FXsWu2Ykws%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbhg2tcN/image.png" group-title="PERU", 9 | ATV TV
-https://tr-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/playlist.m3u8?timestamp=1783893000&wmkid=0&token=d0421b7d8b4d624bf2a899c46f0100d1&manifestfilter=video_bitrate:1-10000000&uid=16270416
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6jHvTpf/atv.png" group-title="PERU", 9.2 | ATV +
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://h1.nu/ATVSUR" group-title="PERU", 9.3 | ATV Sur
+https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
 #EXTINF:-205 tvg-name="Antares tv" tvg-logo="https://i.postimg.cc/3rjFzXgD/image.jpg" group-title="PERU",Antares tv | SD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8 
 #EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ESPAÑA", BBC Drama | HD
@@ -316,7 +316,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-337 group-title="PERU" tvg-logo="https://cdn.m3u.cl/logo/1442_Latina_TV.png",LATINA TV
-https://tr-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/playlist.m3u8?timestamp=1783818912&wmkid=0&token=b02ed6dd4a3ce94fe79969d1f6c5614b&manifestfilter=video_bitrate:1-10000000&uid=16270416
+https://tr-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv+-UDP_abr/playlist.m3u8?timestamp=1783893123&wmkid=0&token=4c71dd997259328a80841595b461087a&manifestfilter=video_bitrate:1-10000000&uid=16270416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=56102393bc953cf6798dbb19d537320e0707d4b5d3c8c4a950584de9d0582a2e&exp=1771537026 
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="PERU",Like TV
