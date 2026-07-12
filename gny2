@@ -233,8 +233,10 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?hls_marker=1&live=1&pod_duration=120&site_page=viva&position=preroll&network_id=12680
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png" group-title="CINE Y SERIES", Frecuencia tv | FHD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed494f69316edb42f4205223d8922f2c.webp" group-title="CINE Y SERIES", 153 | Fiesta en Family TV 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6292
+#EXTINF:-1 tvg-logo="https://h1.nu/FMHMOVIES" group-title="CINE Y SERIES",FMH MOVIES TV 
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/playlist.m3u8?timestamp=1783889850&wmkid=0&token=90f1a41862d883c786379cef9d859134&manifestfilter=video_bitrate:1-10000000&uid=16270416
+#EXTINF:-1 tvg-logo="https://h1.nu/FMHKIDS"group-title="NIÑOS Y ADOLECENTES", FMH KIDS TV | HD
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/playlist.m3u8?timestamp=1783887462&wmkid=0&token=ec3333d33b4c3be593671f775703efa2&manifestfilter=video_bitrate:1-10000000&uid=16270416
 #EXTINF:-42 ttvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="NIÑOS Y ADOLECENTES",Fanpop TV (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="CINE Y SERIES", FX ᵸᴰ 
@@ -243,19 +245,19 @@ http://181.78.105.146:2000/play/a05z/index.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-236 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="PERU" , FUEGO TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-275 group-title="CINE Y SERIES", FREE TV ACCION HD
+#EXTINF:-1 tvg-logo="https://h1.nu/FREEYVACCION"group-title="CINE Y SERIES", FREE TV ACCION HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782083315&id=19361&ip=131.196.112.93&override_expiration=1500&sign=yyKGAVRdRwbNOsl7kERcN73LDyoI2BIrF90ZUOQoIQM%3D
-#EXTINF:-275 group-title="CINE Y SERIES", FREE TV estelar HD
+#EXTINF:-1 tvg-logo="https://h1.nu/FREETVESTELAR"group-title="CINE Y SERIES", FREE TV estelar HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782083889&id=16532&ip=131.196.112.93&override_expiration=1500&sign=8gwu38wx5TUeGEDbQZ14UOt35Uk7o%2BMdKVG2kNyo7GU%3D
-#EXTINF:-275 group-title="CINE Y SERIES", FREE TV drama HD
+#EXTINF:-1 tvg-logo="https://h1.nu/FREETVDRAMA" group-title="CINE Y SERIES", FREE TV drama HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16198&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782084064&id=19353&ip=131.196.112.93&override_expiration=1500&sign=DDhp1q4dmWZZKtFm5Bp8HHKyrMkP6xXwDRzwjNugNwk%3D
-#EXTINF:-275 group-title="CINE Y SERIES", FREE TV terror HD
+#EXTINF:-1 tvg-logo="https://h1.nu/freetvterror" group-title="CINE Y SERIES", FREE TV terror HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16194&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782084145&id=19363&ip=131.196.112.93&override_expiration=1500&sign=djM8Bs5TIqhSdm4KJsIhId6m64gwZiPXoTDuD3jEIoA%3D
-#EXTINF:-328 group-title="CINE Y SERIES", FREE TV hits
+#EXTINF:-1 tvg-logo="https://h1.nu/freetvhig" group-title="CINE Y SERIES", FREE TV hits
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16473&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782084254&id=23361&ip=131.196.112.93&override_expiration=1500&sign=AUm8ydpcWMStDUismmEhcXggA69v6cG3eZr782Yus5I%3D
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="PARAGUAY", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", FREE TV LIVE HD
+#EXTINF:-1 tvg-logo="https://h1.nu/freetvlive" group-title="CINE Y SERIES", FREE TV LIVE HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16195&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782084431&id=19357&ip=131.196.112.93&override_expiration=1500&sign=%2BiF%2FKgC%2Biexi62GpdVtvENDzOniEMT%2FWSHjZMxNAdvs%3D
 #EXTINF:-1 tvg-logo="https://h1.nu/1xQsa"group-title="DEPORTES",FOX DEPORTES
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -426,12 +428,14 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/k5JNFq2Y/oro.png" group-title="ECUADOR", OROMAR TV | SD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://acortar.link/IvaihQ" group-title="ECUADOR" ,Telemar
- https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-7 tvg-logo="https://h1.nu/ONCETV" group-title="PERU", ONCE TV | SD
+https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
 #EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7cf352e11229ca097e2ddfbfbe53192.webp" group-title="PERU", ONDA DIGITAL
 https://v4.tustreaming.cl/odtvgo/index.m3u8
 #EXTINF:-404 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hIa_LLCYSPa4U-Zs7a8teeWaKihATkL25w&s" group-title="VENEZUELA" ,OXIGENO TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1tvg-logo="https://h1.nu/planetahistoriastv" group-title="DOCUMENTALES", PLANETA HISTORIAS TV | HD
+https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/playlist.m3u8
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU",  Peru TV | SD
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
@@ -573,10 +577,12 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://d2b5h5wyivfnfl.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
-#EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas QUITO
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-logo="https://h1.nu/telemar" group-title="ECUADOR" ,Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas QUITO
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas GYQUIL
 https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ECUADOR", TUNGURAGUA
