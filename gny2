@@ -244,7 +244,7 @@ http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/ZwZxi9"group-title="ECUADOR", FM MUNDO TV | HD
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-236 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="PERU" , FUEGO TV
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://h1.nu/FREEYVACCION"group-title="CINE Y SERIES", FREE TV ACCION HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ec&country_region=imbabura&postal_code=&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1782083315&id=19361&ip=131.196.112.93&override_expiration=1500&sign=yyKGAVRdRwbNOsl7kERcN73LDyoI2BIrF90ZUOQoIQM%3D
 #EXTINF:-1 tvg-logo="https://h1.nu/FREETVESTELAR"group-title="CINE Y SERIES", FREE TV estelar HD
@@ -436,6 +436,8 @@ https://v4.tustreaming.cl/odtvgo/index.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1tvg-logo="https://h1.nu/planetahistoriastv" group-title="DOCUMENTALES", PLANETA HISTORIAS TV | HD
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/playlist.m3u8
+#EXTINF:-1tvg-logo="https://h1.nu/SALVAJE" group-title="DOCUMENTALES", PLANETA SALVAJE TV | HD
+https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/playlist.m3u8
 #EXTINF:-124 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU",  Peru TV | SD
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
