@@ -4920,7 +4920,7 @@ https://galleryn1.vcmdiawe.com/f8d2e11bd6c43618af00d6f28c91232a15/1b5d821082beb6
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZONA 18 XXX", SELEN
 https://galleryn0.vcmdiawe.com/f8d2e11bd6c43618af00d6f28c91232a1b/96836866d8e6fcb8945decf1be164a2c.mp4
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV Noticias 
