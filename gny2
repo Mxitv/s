@@ -151,6 +151,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
 https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
 #EXTINF:-1 tvg-logo="https://www.cumbiamix.com/Logos/Cumbiamix.png" group-title="MUSICA", Cumbia Mix tv | SD
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1631_Cumbia_TV.png" group-title="MUSICA", Cumbia tv | SD
+https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/5.m3u8
 #EXTINF:-288 tvg-logo="https://canalesdominicanos.live/template/images/radios/dantv.jpg" group-title="VENEZUELA", DAN TV
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySbLRyg/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
@@ -166,7 +168,7 @@ https://videoserver.tmcreativos.com:19360/fpazwatwja/fpazwatwja.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="ECUADOR", DUENDE TV
 https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="ECUADOR", DURAN TV + 
-https://cloudvideo.servers10.com:8081/8074/tracks-v1a1/mono.m3u8
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/WDBQ5l" group-title="MUSICA", EXA TV + 
 https://mvs-live.daioncdn.net/exatv/exatv.m3u8 
 #EXTINF:-410 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" , ESTRELLA TV
