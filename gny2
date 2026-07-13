@@ -187,7 +187,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png"group-title="ECUADOR", Ecuavisa
 https://redirector.rudo.video/hls-video/plus226/ecuavisa2/ecuavisa2.smil/playlist.m3u8
-#EXTINF:-8 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
+#EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg4iBRmjewGiAXzg2yxFXceaxYaQ-rKDy4ol574RN35g&s=10" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com:3027/stream/play.m3u8
 #EXTINF:-359 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b4266bdc3b2eb45f8b04c8cfb20382a.webp" group-title="ECUADOR" ,Unitel tv
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
