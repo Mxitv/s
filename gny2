@@ -319,11 +319,11 @@ https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1358609055.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",TV Lobo | HD
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-110 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE EN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE EN ESPAÑOL
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-406 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="VENEZUELA" ,TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-219 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/2/LoveNature_TypeMask_FINAL_thumbnail.jpg" group-title="DOCUMENTALES", LOVE NATURE
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/2/LoveNature_TypeMask_FINAL_thumbnail.jpg" group-title="DOCUMENTALES",LOVE NATURE
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
 https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8
