@@ -275,6 +275,8 @@ https://glb.bozztv.com/glb/ssh101/gogoplaysd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="PERU", Genios Televisión || Moyobamba
 https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgMoK3s7MJhh74RW_cWoRULS79gYTFWdDKtv-1_-dkg&s=10" group-title="ECUADOR", GEN TV || HD
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-169 tvg-logo="https://i.postimg.cc/13DhNxTj/znddkhgxhbqp.jpg" group-title="ECUADOR", Hechos tv
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV 360
@@ -287,8 +289,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 http://201.159.113.219:49000/play/a02k/index.m3u8
 #EXTINF:-134 tvg-logo="https://i.postimg.cc/9QV9H9fY/inf.png" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8 
-#EXTINF:-1 group-title="DEPORTES", ITV DEPORTES
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-688d3402a6fe30698ab42007.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=atcxsGy8jFkZC4ez3uYE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoFWcpYQLu2TAu64DyJsBjhr4MTtCLsbF4cxihh2pIw&s=10" group-title="CINE Y SERIES", ISLA TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="MEXICO",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdydF4yB/KPO.png" group-title="MUSICA", Kpoptv 
@@ -317,14 +319,12 @@ https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1358609055.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",TV Lobo | HD
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQFdAU1qHO5HLw/company-logo_200_200/0/1572863101739?e=2147483647&v=beta&t=rCVG3SLF7zMjcfOfIScjaFkE1mHM4onFuIhlUhxB2Mk" group-title="MUSICA", 263 | Lolly Niños
-http://38.41.8.1:8000/play/a02n
 #EXTINF:-110 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE EN ESPAÑOL
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-406 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="VENEZUELA" ,TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-219 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/2/LoveNature_TypeMask_FINAL_thumbnail.jpg" group-title="DOCUMENTALES", LOVE NATURE
-https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8 
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
 https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
@@ -336,7 +336,9 @@ https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximaf
 #EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="PARAGUAY", MI TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqv531s9/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png" group-title="PARAGUAY", MI TV 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbSy0HSUXdWxsnZTEba3lqmE5xL2aGBhCWTfXwJWAUw&s=10" group-title="ECUADOR", MI CANAL RETRO HITS
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
+https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv6vRM8V/145px-Logomagic96.png" group-title="NIÑOS Y ADOLECENTES", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6GzMFYz-tf4Uc1In5986T_696MDYtnBs2Vg&s" group-title="ECUADOR" , MAX RADIO
@@ -472,8 +474,8 @@ https://vcp.myplaytv.com/promar/promar/chunklist_w631540690.m3u8
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 #EXTINF:-362 tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="ECUADOR" ,RADIO BONITA
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
-#EXTINF:-1 tvg-logo="https://is.gd/K2PLxu" group-title="CINE Y SERIES", Rakuten Drama | SD
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWK9m_NOOKGSuauRGSmnmMRM6htoKuCnmhlUoiR6FpyLBfarP1pWXSK8A&s=10" group-title="CINE Y SERIES", Rakuten Drama | SD
+https://drama-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/5a0f20e6-a560-4c7d-a0cc-d6a4f2e518bd/1.m3u8
 #EXTINF:-1 tvg-logo="https://regionalradiotv.com/wp-content/uploads/2022/08/cropped-REGIONAL-RADIO-TV-Transparente.png" group-title="MUSICA",REGIONAL TV (HD)
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist_w1637404953.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/JZdYdC" group-title="PERU",REGION TV (HD)
@@ -739,6 +741,8 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:-1 group-title="ESPAÑA", ¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWWYJbYRTbMKdRrviSbLy9dQIb-zxcxuyOPZOgPnEVA&s=10",EN BOBA DEL LOBO CAM 
+https://fast.wistia.com/embed/medias/n3poswpe1l.m3u8
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://i.ebayimg.com/images/g/UNAAAOSw1vlUtP69/s-l400.jpg",CASPER 2 CAM 
 https://vod-ltweb.yamyday.com/vod/4B34FAD8282B44628D4E12DEA5593DD1_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-ltweb.yamyday.com%26app_id%3Dcom.global.latinowebs%26trans_id%3DBUNL8wop6QBx_H23vIuwxVSQN%26app_version%3D10102%26client_ip%3D34.150.153.88%26dev_id%3Db50e47036d31b20c8444eb5ab39e4c97%26auth_id%3D23983871_com.global.latinowebs__1%26user_id%3D23983871%26expired%3D1764306297%26token%3D974b91fe0448be2b913a48861efc8847&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.latinowebs%26media_code%3D4B34FAD8282B44628D4E12DEA5593DD1%26expired%3D1764306297%26token%3Dd45a28b765196edd7937c637b812f462
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2OTY4MDk4NF5BMl5BanBnXkFtZTcwMzA0NzExNw@@._V1_.jpg",FULL METAL CAM 
