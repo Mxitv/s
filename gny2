@@ -336,8 +336,8 @@ https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximaf
 #EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="PARAGUAY", MI TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqv531s9/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png" group-title="PARAGUAY", MI TV 2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbSy0HSUXdWxsnZTEba3lqmE5xL2aGBhCWTfXwJWAUw&s=10" group-title="ECUADOR", MI CANAL RETRO HITS
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbSy0HSUXdWxsnZTEba3lqmE5xL2aGBhCWTfXwJWAUw&s=10" group-title="ECUADOR", MI CANAL RETRO HITS
 https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv6vRM8V/145px-Logomagic96.png" group-title="NIÑOS Y ADOLECENTES", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
