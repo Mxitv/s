@@ -4,9 +4,9 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", 88 estéreo
 https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="MEXICO" , A + GATE +2
-https://ch2-tva.duin.dev/hls/0/stream.m3u8
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", A+ 
-https://ch2-tva.duin.dev/hls/0/stream.m3u8
+chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", AZTECA 7
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx1H064S/adn40.png" group-title="MEXICO", ADN 40 
@@ -343,7 +343,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNwlgaZrEMnXw2-4rfq97c-36gYMy2YjrUzNknNzH6A&s=10" group-title="ECUADOR" , MAX RADIO
 https://stream.zeno.fm/64nxbrzhsuhvv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNwlgaZrEMnXw2-4rfq97c-36gYMy2YjrUzNknNzH6A&s=10" group-title="ECUADOR" , MAX tv RADIO
-https://stmv6.voxtvhd.com.br/maxitv/maxitv/playlist.m3u8?hls_ctx=53a07y3z
+https://stmv6.voxtvhd.com.br/maxitv/maxitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7tzunRSmiGwX2zT3UC55h_7gYtQVAqW0LuEdX0VuNg&s=10" group-title="ECUADOR" , MAXivision RADIO
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/arte-canal-youtube-musica-plana_52683-58795.jpg?size=626&ext=jpg&ga=GA1.1.539837299.1711843200&semt=ais" group-title="MUSICA", MIX músic channel
