@@ -64,6 +64,10 @@ https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ESPAÑA", BBC Drama | HD
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="CINE Y SERIES", BBC Drama | HD
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-152 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70ba7ca59223bc09b6d05514f64924ae.webp" group-title="CINE Y SERIES", BOX CINEMA | HD
+https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8
 #EXTINF:-1 tvg-logo="https://logos.streamsites.eu/3536_beinsports_overview.png" group-title="DEPORTES", BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://h1.nu/maxitv1" group-title="DEPORTES", BEIN SPORTS
@@ -124,8 +128,6 @@ https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/64ddcbb14c5ed80008fad416/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MzkyMDQ0OCwiaWF0IjoxNzgzODM0MDQ4LCJqdGkiOiIwYWEzYTYyMS0zNjQyLTQzMzAtYTJlOC03NDNkNmI5ZTc3YzUifQ.kcc5xON__UWxx0ZHD7_40uZx4TlCxn81yTfUNgSPVHU
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="CINE Y SERIES", CANELA Cinema
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Logo_Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="CINE Y SERIES",CINERAMA
-https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w965300982.m3u8
 #EXTINF:-210 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp"group-title="CINE Y SERIES", Canal Mas
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 #EXTINF:-403 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="CINE Y SERIES" ,CineSTRELLA
@@ -723,8 +725,6 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports ᵸᴰ
-https://rm8zcvk3.fubohd.com/winsports/mono.m3u8?token=1ebe356e43a844c59e73c9aa8059d0e9161b0adb-ce-1776665559-1776647559
 #EXTINF:-181 tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="ECUADOR", Wuan plus | HD
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 #EXTINF:-1 group-title="NICARAGUA", WTV Nicaragua
@@ -744,6 +744,9 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:-1 group-title="ESPAÑA", ¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/53/LaCueva.png/revision/latest?cb=20131231120630&path-prefix=es",LA CUEVA
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_l0fmuqzw/v/1/pv/1/ev/11/flavorId/1_bjcgvbzf/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9sMGZtdXF6dy92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODQ1MTkwODh9fX1dfQ__&Signature=BVGTnCL~AWUH1dBYqwjturI6L~Zm9y3juwYEFfRx~XZ6X1hrK3waOb8ckZ8mlngvNJXxRr9iLPgzfr-xsyhhAYxByUkR~KTam2CADbOMPLWJOMXi455D2DCvLYIutiRfonOG3phDyHu5rywo9mz-pcE4jwLxOR~paV2gC6-EAQy6tGixtiTNO4CnP6kYk0Zx4TRir4twZRfyRjX7gF4KLZDLfPdIuddLW3TL57IYmuumfnlmNP61uh7rpvGqjVkS9S4jn-Jl4uKtNA7Zp5T554xQFejFmQiv18lZoIy3rxcUI6pFwTgkc9rlwU34x41lSg7spXK7RHHyZ9vAhSqUBw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWWYJbYRTbMKdRrviSbLy9dQIb-zxcxuyOPZOgPnEVA&s=10",EN BOBA DEL LOBO CAM 
 https://fast.wistia.com/embed/medias/n3poswpe1l.m3u8
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://i.ebayimg.com/images/g/UNAAAOSw1vlUtP69/s-l400.jpg",CASPER 2 CAM 
