@@ -48,7 +48,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://mdstrm.com/live-stream-playlist/6994be4d5caab0723aaab37c.m3u8?_=1783310784040&dnt=true&player=6850729b0764e30e5c472581&access_token=yUZnKudtWEYntGP43WMjhJeDPoM9b0htyB6apWmF9SjjzepdpLvJA5w42Yo8cXYSP3dhWUMUwq0&uid=4UPkB1WOzZUChZWXROB7cbg9UHt7bIqn&sid=I7AajXwPZHdd4QUyFijA64BlgAcQQsRT&pid=Wqici6AZn4OecVYUV1grYD9MjwsVMPQs&an=tv-azteca-en-vivo-app-web&at=web-app&av=v1.0.85&sc=0&ref=envivo.tvazteca.com&res=1366x768&ext_pb=0&adInsertionGoogleStreamId=fb267342-ef64-413b-8a9a-4b9b1deb5074%3ATUL&CMCD=cid%3D%226994be4d5caab0723aaab37c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Wqici6AZn4OecVYUV1grYD9MjwsVMPQs%22%2Csu
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png"group-title="MEXICO",Azteca Uno (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-#EXTINF:-1 tvg-logo="https://lc.cx/hhOju4" group-title="ECUADOR", Asomavision | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="ECUADOR", Asomavision | SD
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="ECUADOR",AustralTV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
@@ -203,7 +203,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRspPMgG/Ecotel-TV-en-vivo-Online.png" group-title="ECUADOR", Ecotel TV | SD
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-209 tvg-logo="https://i.postimg.cc/L5YShJLc/Educa-sinfoto.jpg" group-title="ECUADOR", Educa EC | SD
-https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-209 tvg-logo="https://h1.nu/ECIVI" group-title="DOCUMENTALES",  ECO TV | SD
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN  
@@ -326,14 +326,14 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/2/LoveNature_TypeMask_FINAL_thumbnail.jpg" group-title="DOCUMENTALES",LOVE NATURE
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="ECUADOR", Magestad tv 
 https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8
-#EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FcvG9o4XkAA0g8v?format=png&name=240x240" group-title="PERU", Mas 1 Televisión || Moyobamba
 https://live.obslivestream.com/mas1/index.m3u8
 #EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="MUSICA", Maxima FM
-https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+https://maximatv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="PARAGUAY", MI TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqv531s9/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png" group-title="PARAGUAY", MI TV 2
@@ -440,7 +440,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="PERU", 16 | Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="ECUADOR",Pantalla Clásica EC 24/7
-https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8 
+https://lbgo.bozztv.com/ssh101/ssh101/pantallaclasics/chunks.m3u8
 #EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8 
 #EXTINF:-47 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA" , PlanetaTV Music
@@ -475,8 +475,8 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b56260b68f3ebe6b1601e56567d46831.webp"group-title="COSTA RICA", Plomar TV
 https://vcp.myplaytv.com/promar/promar/chunklist_w631540690.m3u8
-#EXTINF:-362 tvg-logo="https://acortar.link/WABB2W" group-title="ECUADOR" ,RTV RIOBANBA
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-362 tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="ECUADOR" ,RTR TV
+https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-362 tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="ECUADOR" ,RADIO BONITA
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWK9m_NOOKGSuauRGSmnmMRM6htoKuCnmhlUoiR6FpyLBfarP1pWXSK8A&s=10" group-title="CINE Y SERIES", Rakuten Drama | SD
@@ -507,7 +507,6 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="PERU", Radio Televisión Oriente || Yurimaguas
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="PERU", RN Televisión || Yurimaguas
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-177 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="COLOMBIA", RCN MAS | SD
@@ -576,10 +575,12 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas QUITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", TeleAmazonas QUITO
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-logo="https://goo.su/qXzdpzE" group-title="ECUADOR", TeleAmazonas GYQUIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", TeleAmazonas GYQUIL
 https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBurVGvbltD9wYVjHoxp4i5f3GrLo9Hdm5WZDVGEHQhQ&s=10" group-title="ECUADOR", Television Quevedeña
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3KxjPWGD1nzI19a_T81rVSuxOrvD9kUI3mlP6OeUGKLoxugxyOFxSZuGVehONUGm-oYE2e_A0qC5rjX_9hbfc8HF_e5R4lIHLDZtVkUCxsj1Hij4YZjS4_o2pKmHmdIytXR2Dn5jr58JA/w350-h350-p-k-no-nu/tele+futuro.png" group-title="BOLIVIA", 694 | Telefuturo TV || BOLIVIA
