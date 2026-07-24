@@ -6,7 +6,9 @@ https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png" group-title="MEXICO" , A + GATE +2
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", A+ 
-chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", A+1
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCYkf9V/aplus.png" group-title="MEXICO", AZTECA 7
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx1H064S/adn40.png" group-title="MEXICO", ADN 40 
@@ -14,7 +16,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 EXTINF:-358 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="ECUADOR" ,ANTENA UNO
 https://tvdatta.com:3578/live/antenaunolive.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png" group-title="NOTICIAS", Al Jazeera 
-https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8 
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://n9.cl/3c7x2" group-title="CINE Y SERIES", AMC Español
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 group-title="DEPORTES", AYM Sports
