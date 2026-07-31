@@ -747,6 +747,8 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:-1 group-title="ESPAÑA", ¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOwqgE3a682bM0NYe1g2NBpJIoaLHFGtA7WQWIQoJCA&s=10",AVATAR FUEGO Y CENIZA
+https://audinifer.com/stream/ztEnroQaH3UwBvoOsKQTrg/kjhhiuahiuhgihdf/1785510417/69878588/master.m3u8
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKHwW9Cx_Ru7R14FCrcYgVWngmDFhZP4eRohrfhRJGQ&s=10",LOS VENGADORES JUEGO FINAL
 https://hanerix.com/stream/0HdLa6wD9pZZ_Lsfk1n2pg/kjhhiuahiuhgihdf/1785509425/56973777/master.m3u8
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/53/LaCueva.png/revision/latest?cb=20131231120630&path-prefix=es",LA CUEVA
