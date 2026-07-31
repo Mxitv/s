@@ -747,7 +747,8 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:-1 group-title="ESPAÑA", ¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
-
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKHwW9Cx_Ru7R14FCrcYgVWngmDFhZP4eRohrfhRJGQ&s=10",LOS VENGADORES JUEGO FINAL
+https://hanerix.com/stream/0HdLa6wD9pZZ_Lsfk1n2pg/kjhhiuahiuhgihdf/1785509425/56973777/master.m3u8
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/53/LaCueva.png/revision/latest?cb=20131231120630&path-prefix=es",LA CUEVA
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_l0fmuqzw/v/1/pv/1/ev/11/flavorId/1_bjcgvbzf/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9sMGZtdXF6dy92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODQ1MTkwODh9fX1dfQ__&Signature=BVGTnCL~AWUH1dBYqwjturI6L~Zm9y3juwYEFfRx~XZ6X1hrK3waOb8ckZ8mlngvNJXxRr9iLPgzfr-xsyhhAYxByUkR~KTam2CADbOMPLWJOMXi455D2DCvLYIutiRfonOG3phDyHu5rywo9mz-pcE4jwLxOR~paV2gC6-EAQy6tGixtiTNO4CnP6kYk0Zx4TRir4twZRfyRjX7gF4KLZDLfPdIuddLW3TL57IYmuumfnlmNP61uh7rpvGqjVkS9S4jn-Jl4uKtNA7Zp5T554xQFejFmQiv18lZoIy3rxcUI6pFwTgkc9rlwU34x41lSg7spXK7RHHyZ9vAhSqUBw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWWYJbYRTbMKdRrviSbLy9dQIb-zxcxuyOPZOgPnEVA&s=10",EN BOBA DEL LOBO CAM 
