@@ -201,7 +201,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="ARGENTINA", El Trece 
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.postimg.cc/8C2nTwf0/ecutv.png" group-title="ECUADOR", ECUADOR TV| HD
-https://samson.streamerr.co:8081/shogun/index.m3u8 
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRspPMgG/Ecotel-TV-en-vivo-Online.png" group-title="ECUADOR", Ecotel TV | SD
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-209 tvg-logo="https://i.postimg.cc/L5YShJLc/Educa-sinfoto.jpg" group-title="ECUADOR", Educa EC | SD
