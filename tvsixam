@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎬 Carrusel 300×600 + 4 Filas</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+            outline: none;
+            -webkit-tap-highlight-color: transparent;
+        }
+        body {
+            background: #111;
+            min-height: 100vh;
+            color: #fff;
+            overflow-x: hidden;
+        }
+
+        /* ============================================== */
+        /* 🎬 CARRUSEL SUPERIOR — 300px ALTO • 600px ANCHO */
+        /* ============================================== */
+        .carrusel-superior {
+            width: 100vw;
+            height: 320px; /* Contenedor: 300px película + 10px arriba/abajo */
+            margin: 0 0 40px;
+            overflow: hidden;
+            position: relative;
+            padding: 0 20px;
+        }
+        .carrusel-lista {
+            display: flex;
+            gap: 20px; /* Espacio entre tarjetas */
+            padding: 10px 0;
+            animation: deslizar 20s linear infinite; /* Bucle infinito */
+            width: max-content;
+        }
+        .carrusel-item {
+            width: 600px;  /* ✅ ANCHO EXACTO */
+            height: 300px; /* ✅ ALTO EXACTO — FORMATO RECTANGULAR GRANDE */
+            flex-shrink: 0;
+            border: none;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: #222;
+            position: relative;
+        }
+        .carrusel-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Rellena sin deformar */
+        }
+        .carrusel-item:hover, .carrusel-item:focus {
+            transform: scale(1.05);
+            box-shadow: 0 0 30px #ffcc00;
+            z-index: 5;
+            outline: 3px solid #ffcc00;
+        }
+        @keyframes deslizar {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        /* ============================================== */
+        /* 📂 TÍTULO DE CATEGORÍA */
+        /* ============================================== */
+        .titulo-cat {
+            color: #ffcc00;
+            font-size: 24px;
+            margin: 30px 0 12px 20px;
+            padding-left: 10px;
+            text-shadow: 0 0 12px #ffcc00;
+        }
+
+        /* ============================================== */
+        /* 📃 4 FILAS DE PELÍCULAS */
+        /* ============================================== */
+        .fila-contenedor {
+            position: relative;
+            width: 100vw;
+            height: 220px;
+            overflow: hidden;
+            margin-bottom: 10px;
+            padding: 0 20px;
+        }
+        .lista-pelis {
+            display: flex;
+            gap: 12px;
+            padding: 10px 0;
+            transition: transform 0.4s ease;
+        }
+        .peli-item {
+            width: 120px;
+            height: 180px;
+            flex-shrink: 0;
+            border: none;
+            border-radius: 6px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: #222;
+        }
+        .peli-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .peli-item:hover, .peli-item:focus {
+            transform: scale(1.08);
+            box-shadow: 0 0 20px #ffcc00;
+            outline: 3px solid #ffcc00;
+        }
+
+        /* ============================================== */
+        /* 🔘 BOTÓN "MÁS" PEQUEÑO REDONDO */
+        /* ============================================== */
+        .btn-mas {
+            position: absolute;
+            right: 20px;
+            bottom: 10px;
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(180deg, #e50914, #990000);
+            color: #fff;
+            font-size: 22px;
+            font-weight: bold;
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            z-index: 5;
+            box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        }
+        .btn-mas:hover, .btn-mas:focus {
+            transform: scale(1.1);
+            outline: 3px solid #ffcc00;
+            box-shadow: 0 0 20px #ffcc00;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 🎬 CARRUSEL — 6 TARJETAS 300×600px -->
+    <div class="carrusel-superior">
+        <div class="carrusel-lista" id="carrusel-superior"></div>
+    </div>
+
+    <!-- 📃 FILA 1 -->
+    <h2 class="titulo-cat">💥 ACCIÓN</h2>
+    <div class="fila-contenedor" data-cat="accion">
+        <div class="lista-pelis" id="lista-accion"></div>
+        <button class="btn-mas" data-cat="accion" tabindex="0">+</button>
+    </div>
+
+    <!-- 📃 FILA 2 -->
+    <h2 class="titulo-cat">🚀 CIENCIA FICCIÓN</h2>
+    <div class="fila-contenedor" data-cat="ciencia">
+        <div class="lista-pelis" id="lista-ciencia"></div>
+        <button class="btn-mas" data-cat="ciencia" tabindex="0">+</button>
+    </div>
+
+    <!-- 📃 FILA 3 -->
+    <h2 class="titulo-cat">🕵️ SUSPENSO</h2>
+    <div class="fila-contenedor" data-cat="suspenso">
+        <div class="lista-pelis" id="lista-suspenso"></div>
+        <button class="btn-mas" data-cat="suspenso" tabindex="0">+</button>
+    </div>
+
+    <!-- 📃 FILA 4 -->
+    <h2 class="titulo-cat">👻 TERROR</h2>
+    <div class="fila-contenedor" data-cat="terror">
+        <div class="lista-pelis" id="lista-terror"></div>
+        <button class="btn-mas" data-cat="terror" tabindex="0">+</button>
+    </div>
+
+    <script>
+        // ==================================================
+        // 🎬 CARRUSEL — 6 TARJETAS 300×600px • EDITA AQUÍ
+        // ==================================================
+        const enlacesCarrusel = [
+            { nombre: "Película 1", imagen: "https://TU-IMAGEN-1.jpg", enlace: "pelicula1.html" },
+            { nombre: "Película 2", imagen: "https://TU-IMAGEN-2.jpg", enlace: "pelicula2.html" },
+            { nombre: "Película 3", imagen: "https://TU-IMAGEN-3.jpg", enlace: "pelicula3.html" },
+            { nombre: "Película 4", imagen: "https://TU-IMAGEN-4.jpg", enlace: "pelicula4.html" },
+            { nombre: "Película 5", imagen: "https://TU-IMAGEN-5.jpg", enlace: "pelicula5.html" },
+            { nombre: "Película 6", imagen: "https://TU-IMAGEN-6.jpg", enlace: "pelicula6.html" }
+        ];
+
+        // ==================================================
+        // 🔘 ENLACES BOTONES "MÁS"
+        // ==================================================
+        const enlacesMas = {
+            accion:   "accion.html",
+            ciencia:  "ciencia.html",
+            suspenso: "suspenso.html",
+            terror:   "terror.html"
+        };
+
+        // ==================================================
+        // 📃 4 FILAS DE PELÍCULAS
+        // ==================================================
+        const catalogo = {
+            accion: [
+                { nombre: "Misión Imposible", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-1.html" },
+                { nombre: "John Wick 4", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-2.html" },
+                { nombre: "Fast & Furious X", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-3.html" },
+                { nombre: "Guardianes Galaxia 3", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-4.html" },
+                { nombre: "Capitán América", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-5.html" },
+                { nombre: "Batman v Superman", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-6.html" },
+                { nombre: "Mad Max", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-7.html" },
+                { nombre: "Gladiador", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-accion-8.html" }
+            ],
+            ciencia: [
+                { nombre: "Duna", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-1.html" },
+                { nombre: "Interestelar", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-2.html" },
+                { nombre: "El Origen", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-3.html" },
+                { nombre: "Blade Runner 2049", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-4.html" },
+                { nombre: "La Llegada", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-5.html" },
+                { nombre: "Avatar", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-6.html" },
+                { nombre: "Tenet", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-7.html" },
+                { nombre: "Matrix", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-ciencia-8.html" }
+            ],
+            suspenso: [
+                { nombre: "Puñales por la Espalda", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-1.html" },
+                { nombre: "Parásitos", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-2.html" },
+                { nombre: "Perdida", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-3.html" },
+                { nombre: "Contratiempo", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-4.html" },
+                { nombre: "El Secreto de sus Ojos", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-5.html" },
+                { nombre: "Durante la Tormenta", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-6.html" },
+                { nombre: "La Huérfana", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-7.html" },
+                { nombre: "No Mires Arriba", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-suspenso-8.html" }
+            ],
+            terror: [
+                { nombre: "Sonríe", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-1.html" },
+                { nombre: "M3GAN", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-2.html" },
+                { nombre: "IT: Capítulo 1", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-3.html" },
+                { nombre: "La Monja", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-4.html" },
+                { nombre: "Annabelle", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-5.html" },
+                { nombre: "El Conjuro", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-6.html" },
+                { nombre: "La Bruja", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-7.html" },
+                { nombre: "Siniestro", imagen: "https://TU-IMAGEN.jpg", enlace: "ver-terror-8.html" }
+            ]
+        };
+
+        // ==================================================
+        // 🎬 CARRUSEL — LLENAR Y DUPLICAR PARA BUCLE
+        // ==================================================
+        const carrusel = document.getElementById('carrusel-superior');
+        [...enlacesCarrusel, ...enlacesCarrusel].forEach(p => {
+            const a = document.createElement('a');
+            a.className = 'carrusel-item';
+            a.href = p.enlace; // Enlace interno
+            a.tabIndex = "0";
+            a.innerHTML = `<img src="${p.imagen}" alt="${p.nombre}" loading="lazy">`;
+            carrusel.appendChild(a);
+        });
+
+        // ==================================================
+        // 📃 LLENAR 4 FILAS
+        // ==================================================
+        const posiciones = { accion:0, ciencia:0, suspenso:0, terror:0 };
+        const anchoItem = 132;
+        const visibles = 7;
+        const maxDesplazamiento = -(anchoItem * (8 - visibles));
+
+        Object.entries(catalogo).forEach(([cat, peliculas]) => {
+            const contenedor = document.getElementById(`lista-${cat}`);
+            peliculas.forEach(p => {
+                const a = document.createElement('a');
+                a.className = 'peli-item';
+                a.href = p.enlace;
+                a.tabIndex = "0";
+                a.innerHTML = `<img src="${p.imagen}" alt="${p.nombre}" loading="lazy">`;
+                contenedor.appendChild(a);
+            });
+        });
+
+        // ==================================================
+        // 🔘 BOTÓN "MÁS"
+        // ==================================================
+        document.querySelectorAll('.btn-mas').forEach(btn => {
+            btn.addEventListener('click', () => {
+                window.location.href = enlacesMas[btn.dataset.cat];
+            });
+        });
+
+        // ==================================================
+        // 📺 NAVEGACIÓN CONTROL REMOTO
+        // ==================================================
+        document.addEventListener('keydown', (e) => {
+            const activo = document.activeElement;
+            if (!activo) return;
+
+            if (activo.classList.contains('btn-mas')) {
+                const cat = activo.dataset.cat;
+                if (e.key === 'ArrowLeft') {
+                    e.preventDefault();
+                    const items = Array.from(document.querySelectorAll(`#lista-${cat} .peli-item`));
+                    if (items.length) items[items.length - 1].focus();
+                }
+                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); activo.click(); }
+                if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    const filas = Array.from(document.querySelectorAll('.fila-contenedor'));
+                    const idx = filas.indexOf(activo.closest('.fila-contenedor'));
+                    if (idx > 0) filas[idx - 1].querySelector('.btn-mas')?.focus();
+                    else document.querySelector('.carrusel-item')?.focus();
+                }
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    const filas = Array.from(document.querySelectorAll('.fila-contenedor'));
+                    const idx = filas.indexOf(activo.closest('.fila-contenedor'));
+                    if (idx < filas.length - 1) filas[idx + 1].querySelector('.btn-mas')?.focus();
+                }
+                return;
+            }
+
+            if (activo.classList.contains('carrusel-item')) {
+                const items = Array.from(document.querySelectorAll('.carrusel-item'));
+                const idx = items.indexOf(activo);
+                if (e.key === 'ArrowRight' && idx < items.length - 1) { e.preventDefault(); items[idx + 1].focus(); }
+                if (e.key === 'ArrowLeft' && idx > 0) { e.preventDefault(); items[idx - 1].focus(); }
+                if (e.key === 'ArrowDown') { e.preventDefault(); document.querySelector('#lista-accion .peli-item')?.focus(); }
+                if ((e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); activo.click(); }
+                return;
+            }
+
+            const filaActiva = activo.closest('.fila-contenedor');
+            if (!filaActiva) return;
+            const cat = filaActiva.dataset.cat;
+            const lista = filaActiva.querySelector('.lista-pelis');
+            const items = Array.from(lista.querySelectorAll('.peli-item'));
+            const idx = items.indexOf(activo);
+
+            if (e.key === 'ArrowRight') {
+                e.preventDefault();
+                if (idx >= 0 && idx < items.length - 1) {
+                    items[idx + 1].focus();
+                    if ((idx + 1) % visibles === 0 && posiciones[cat] > maxDesplazamiento) {
+                        posiciones[cat] -= anchoItem;
+                        lista.style.transform = `translateX(${posiciones[cat]}px)`;
+                    }
+                } else if (idx === items.length - 1) { filaActiva.querySelector('.btn-mas')?.focus(); }
+            }
+            if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                if (idx > 0) {
+                    items[idx - 1].focus();
+                    if (idx % visibles === 0 && posiciones[cat] < 0) {
+                        posiciones[cat] += anchoItem;
+                        lista.style.transform = `translateX(${posiciones[cat]}px)`;
+                    }
+                }
+            }
+            if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                const filas = Array.from(document.querySelectorAll('.fila-contenedor'));
+                const idx = filas.indexOf(filaActiva);
+                if (idx > 0) filas[idx - 1].querySelector('.peli-item:last-child')?.focus();
+                else document.querySelector('.carrusel-item:last-child')?.focus();
+            }
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                const filas = Array.from(document.querySelectorAll('.fila-contenedor'));
+                const idx = filas.indexOf(filaActiva);
+                if (idx < filas.length - 1) filas[idx + 1].querySelector('.peli-item')?.focus();
+            }
+            if ((e.key === 'Enter' || e.key === ' ') && activo.classList.contains('peli-item')) {
+                e.preventDefault(); activo.click();
+            }
+        });
+
+        window.addEventListener('load', () => {
+            const primero = document.querySelector('.carrusel-item');
+            if (primero) primero.focus();
+        });
+    </script>
+</body>
+</html>
