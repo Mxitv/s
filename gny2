@@ -85,7 +85,7 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(6XsCTayFIAw0XAGK3J_0TMiLRv3Oj7DVWVcW
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRECfsGHSuWyO70wMBiOJfV5QqiYElqFU6NVvPoPLYQ&s" group-title="NIÑOS Y ADOLECENTES",CARTOON CLASI | SD
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
 #EXTINF:-45 tvg-logo="https://assets.teleon.tv/180_webp/capricho-tv-ec.webp" group-title="ECUADOR",CAPRICHO TV
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+https://video.compuwebecuador.com:3783/stream/play.m3u8
 #EXTINF:-45 tvg-logo="https://www.tvcisne.com/images/logos/icon-240.png" group-title="ECUADOR",CISNE TV
 https://video2.lhdserver.es/tvcisne/live.m3u8
 #EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA",Canela Música
