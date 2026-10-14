@@ -502,7 +502,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/G5KUAI" group-title="COSTA RICA", REPRETEL TV | SD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://h1.nu/RTSTV" group-title="ECUADOR", RTS TV | SD
-https://d2b5h5wyivfnfl.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/medialist_15609871089997455276_hls.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/8v2lejdra382/master.m3u8
 #EXTINF:-14 tvg-logo="https://h1.nu/RTUWV" group-title="ECUADOR", RTU TV | SD
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="PERU",  Radio Selva Televisión || Moyobamba
@@ -515,6 +515,8 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/3000.m3u8
 #EXTINF:-179 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="COLOMBIA", RCN EXTRA | HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
+#EXTINF:-179 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHn7S0zCvv5sqBQQep5jdG62omGs-MAqqS9uV2God1w&s=10" group-title="COLOMBIA", RCN NOVELAS | HD
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-81 tvg-logo="https://i.postimg.cc/zfRxMjRh/thumbnail-logo-rcg-media-250-1-69610a5309.png" group-title="MEXICO",Rcg media | HD
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-132 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/800px-Logo_RTVE.svg.png" group-title="ESPAÑA", RTVE | HD
@@ -572,7 +574,7 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1  tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="MUSICA", Sanjuanera Televisión || Moyobamba
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
-https://d2b5h5wyivfnfl.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/br1r5varhysm/master.m3u8
 #EXTINF:-1 tvg-logo="https://h1.nu/telemar" group-title="ECUADOR" ,Telemar
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
