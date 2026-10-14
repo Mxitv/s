@@ -109,7 +109,7 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="ECUADOR", CANAL 5 STV | HD
 https://lstv.duckdns.org:449/hls/stv.m3u8  
 #EXTINF:-469 tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg"tvg-id="Canal5.mx"group-title="MEXICO",Canal 5 (1080p)
-https://notusaauth.univision.com/api/v3/video-auth/url-signature-token-by-id?mcpid=1556360&mcpOrigin=MX
+https://93.domhsd.com/canal5mx/tracks-v1a1/mono.m3u8?ip=131.196.112.200&token=2d08438a1a65ca1f1137a8d312edfd7a55746b23-d8-1791992314-1791938314
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="COSTA RICA", CANAL 21 ESA
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
 #EXTINF:-1 group-title="NOVELAS²⁴⁺⁷ ᵸᴰ" tvg-logo="",Canela Telenovelas ²⁴⁺⁷
