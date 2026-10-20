@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U
+#EXT-X-VERSION:3
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="PERU", 19 | Auténtica Televisión || Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", 88 estéreo
@@ -750,6 +751,36 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 
 #EXTINF:-1 group-title="ESPAÑA", ¡HOLA! PLAY
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxo4j61toIHHrAViXF8jV_-xpX0diGzGTrgU9gVD0buA&s=10",COLATERAL 1
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fago24%2FVer%20Colateral%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/skpJdY1KnNo/sddefault.jpg",Polícia Del futuro
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lrkxtsg6/format/applehttp/protocol/https/flavorIds/1_8gsovft3,1_269qrewm,1_eheoi1wy,1_967x5hrg,1_ascptzrh,1_gxsqmml7,1_c0iwqrtn/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672159646&id=6310&ip=157.100.59.47&override_expiration=1500&sign=8ufm%2BRJ7r5pDOKMx9PDSpadG6Mhty68l4o%2BTSKwHQRU%3D&playSessionId=e2c4ca47-69ba-6ff7-21c1-abf6337dd44e:cfe59012-9926-add8-f9d3-8a418ff494da&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RpbWVjb3AtcG9saWNpYS1kZWwtZnV0dXJv&clientTag=html5:v7.56
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://imgmedia.larepublica.pe/1000x590/larepublica/migration/images/MJPEXMAZ2NFQBBZWND6VIQ57WU.webp",Mad MAX 3
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Furiosa-%20De%20la%20saga%20Mad%20Max%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjVAtwa0R5FZEOATtBvULStZaNNJq-Lttal2RqOUT-qYfp1-fyItk4bM&s=10",Planeta de los Simios
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20El%20planeta%20de%20los%20simios-%20Nuevo%20reino%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/32296541f5f94f264e7b31c5dbe4d5a56a82cf306b2d22f5807b2154121e2231._UR1920,1080_.jpg",AVATAR 2
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOBAtMkUtcYxvoEeQiybsU7xzKe2vjo02bZ8ejMmqL5xBNU3p4GPXIL0Q9&s=10",PREDADOR LA PRESA
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jsaw4vy3/format/applehttp/protocol/https/flavorIds/1_5km6q5i6,1_t72olw41,1_dwilknyq,1_ngdt4ja6,1_vlcpc7up,1_hlhjmtcj/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242841&id=2926&ip=157.100.59.47&override_expiration=1500&sign=oAttZ5UiwSkHsPY8ipnJjFZXv4Y9ETkaFZwKltJbMio%3D&playSessionId=70be76fc-fa33-4fac-fd1d-25f4614f0eef:3a58afe0-e9c1-ae0d-b305-5cf29be74a1c&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2hhbnNlbC15LWdyZXRlbA==&clientTag=html5:v7.56
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRjZWFjMGQtODFhNi00ZjUxLWFiM2QtOTNmZTJmMmMwOGJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",ELTAHUR
+https://dn801208.us.archive.org/0/items/2954-el-tahur-1979-dvdrip-lat-mx-v.mkv/2954-El_Tahur_%281979%29_DVDRip_Lat_mx_v.mkv.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIr3DriLw_Q-dwsQoD8hiZ8eFVOy7THy2sjoHkk_0JfQ&s",COLATERAL
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fago24%2FVer%20Colateral%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",LA JUMGLA
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2F%E2%96%B7%20Ver%20Jungle%20Cruise%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",ESCUADRON SUICIDA
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2FThe%20Suicide%20Squad%20(2021)%20LAT.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kuwK1qkJUvsGDozqsDMURdh97NT3PRb9yqSEAm2QEw&s=10",Planeta de los Simios
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20El%20planeta%20de%20los%20simios-%20Nuevo%20reino%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi1rmyZcz3MhjcBdla-bEdiNkyeo5Xn3RxU1uyC-izw&s=10",POLICIA DEL FUTURO
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lrkxtsg6/format/applehttp/protocol/https/flavorIds/1_8gsovft3,1_269qrewm,1_eheoi1wy,1_967x5hrg,1_ascptzrh,1_gxsqmml7,1_c0iwqrtn/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672159646&id=6310&ip=157.100.59.47&override_expiration=1500&sign=8ufm%2BRJ7r5pDOKMx9PDSpadG6Mhty68l4o%2BTSKwHQRU%3D&playSessionId=e2c4ca47-69ba-6ff7-21c1-abf6337dd44e:cfe59012-9926-add8-f9d3-8a418ff494da&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RpbWVjb3AtcG9saWNpYS1kZWwtZnV0dXJv&clientTag=html5:v7.56
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",Mad Max
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Furiosa-%20De%20la%20saga%20Mad%20Max%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="🎬 ACCIÓN Y AVENTURA"tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnWv2XS4ZrbTHHaCBGbGSm8j0C_q-rOfBdjVROK-Z64A&s=10",LEY DEL MONTE
+https://dn601206.us.archive.org/0/items/videoplayback_20211216_2303/videoplayback.mp4
+
 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOwqgE3a682bM0NYe1g2NBpJIoaLHFGtA7WQWIQoJCA&s=10",AVATAR FUEGO Y CENIZA
 https://audinifer.com/stream/ztEnroQaH3UwBvoOsKQTrg/kjhhiuahiuhgihdf/1785510417/69878588/master.m3u8
