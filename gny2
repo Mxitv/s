@@ -209,22 +209,22 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-209 tvg-logo="https://h1.nu/ECIVI" group-title="DOCUMENTALES",  ECO TV | SD
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN  
-https://khala.skylivehd.com/global/espnmx/index.m3u8?ip=131.196.112.93&token=d05ac7faa0853f139c83ec78c7c1c258b93308fa-10-1782403817-1782349817
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN ᵸᴰ 
-https://mileixd.skylivehd.com/espn/index.m3u8?ip=131.196.112.93&token=0c578f03254311b85e3bf18330cefd500a1d5c16-b0-1782403959-1782349959
+#EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN EVENT
+https://93.domhsd.com/espn/mono.m3u8?token=040686c556f4cebdd065db5f8e345d65b599b300-e5-1793416534-1793398534
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", LAS ESTRELLAS ᵸᴰ 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKLwGQZ/espn2.png" group-title="DEPORTES", ESPN 2 
-https://mileixd.skylivehd.com/espn2/index.m3u8?ip=131.196.112.93&token=a4f0d31dcc3d62de9e1adc0361d755357c020d99-62-1782404660-1782350660
+https://99.domhsd.com/espn2/mono.m3u8?token=08fb39699e4b1ebb572377c3a3549d3d72f303f6-9c-1793416614-1793398614
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2V3TVT1/espn3.png" group-title="DEPORTES", ESPN 3 ᵸᴰ 
-https://aw1wcm92zq.fubohd.com/espn3/mono.m3u8?token=501950371f2756dab4cde92474f3f0ece8bea0b0-d0-1776661120-1776643120
+https://93.domhsd.com/espn3/mono.m3u8?token=13f4ee8bba0a5d550228f0539dc6d396e6b83d32-f7-1793416673-1793398673
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRLV19dv/espn4.png" group-title="DEPORTES", ESPN 4
-https://izsup.vivolatamz.org/lb03/dsports/index.m3u8?token=54608cd01d2902c5888c146bf84cca1f6dd5f0b9-89-1783358115-1783304115&ip=131.196.112.93
+https://93.domhsd.com/espn4/mono.m3u8?token=4f4ef5072503663812443acff93162b106069c77-81-1793416704-1793398704
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMCDzxHq/D5.png" group-title="DEPORTES", ESPN 5 
-https://cgxheq.fubohd.com/espn5/mono.m3u8?token=a90e71355345dad1f9c4e2f51171322544fdf567-cc-1776661231-1776643231
+https://99.domhsd.com/espn5/mono.m3u8?token=fa5ed83307d6ab741f04b8113c5e3b3c347f475b-dd-1793416734-1793398734
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvBF424d/ESPN-6.png" group-title="DEPORTES", ESPN 6
-https://anvtcax.fubohd.com/espn6/mono.m3u8?token=ec354c72a0af2e25d8ab324a22afdd4d99cdb017-74-1776661262-1776643262
+https://99.domhsd.com/espn6/mono.m3u8?token=1d73457bcf21272d22971f004661c6d666b59db2-de-1793416766-1793398766
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8BJk7C/ESPN7.png" group-title="DEPORTES",ESPN 7
-https://ym9yzq.fubohd.com/espn7/mono.m3u8?token=6ea20b8b53add29f43e6c7d4c6dcdb5aae46f47a-9f-1776661294-1776643294
+https://93.domhsd.com/espn7/mono.m3u8?token=a2f29f253fc5d644a3be01974aa4976a860cc4c8-f-1793416813-1793398813
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMZnT0WN/espnpremium.png" group-title="DEPORTES", ESPN Premium 
 https://khala.skylivehd.com/dsportsar/tracks-v1a1/mono.m3u8?ip=131.196.112.93&token=0fc21cd4644f0b4639e96399488551d43da33127-f1-1782661568-1782607568
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqzGTrVw/Estrella.png" group-title="MEXICO" ,ESTRELLA TV
